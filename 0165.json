@@ -1,0 +1,15 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C=C=CC(R)=CC=C"},
+      {"type": "reactants", "text": "[B-](c1ccc(OC)cc1)(O)O.[Na+]"},
+      {"type": "reactants", "text": "[B-](c1ccc(F)cc1)(O)O.[Na+]"},
+      {"type": "reagent", "text": "[24]COC(=O)c1cc(P(c2ccccc2)c2ccccc2)cc(P(c2ccccc2)c2ccccc2)c1C"},
+      {"type": "reagent", "text": "[Na+].[OH-]"},
+      {"type": "reagent", "text": "CC(C)(C)O"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "C=C(Cc1ccc(F)cc1)CC(c1ccc(OC)cc1)c1ccccc1"}
+    ]
+  ]
+}

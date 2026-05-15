@@ -1,0 +1,36 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "CCOC(=O)C1(CC1c1ccccc1)c1ccccc1"},
+      {"type": "reactants", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-60 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "CCOC(=O)C1=CC2=CC=CC=C2O1"}
+    ],
+    [
+      {"type": "reactants", "text": "CCOC(=O)C1(CC1c1ccc(Cl)cc1)C(=O)OS(=O)(=O)c1ccccc1"},
+      {"type": "reactants", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-60 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "CCOC(=O)C1=CC2=CC(Cl)=CC=C2O1"}
+    ],
+    [
+      {"type": "reactants", "text": "CCOC(=O)C1(CC1c1ccc(Cl)cc1)c1ccccc1"},
+      {"type": "reactants", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-60 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "CCOC(=O)C1=CC2=CC(Cl)CC=C2O1"}
+    ],
+    [
+      {"type": "reactants", "text": "COC(=O)C1(CC1c1ccc(Cl)cc1)C(=O)OC"},
+      {"type": "reactants", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-60 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "COC(=O)C1=CC2=CC(Cl)CC=C2O1"}
+    ]
+  ]
+}

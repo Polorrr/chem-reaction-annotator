@@ -1,0 +1,22 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "OC(C#Cc1ccccc1)C"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "[B-](c1ccc(F)cc1)(O)O.[Na+]"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "O=C(Cc1ccc(F)cc1)CCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "OC(C#Cc1ccc(OC)cc1)C"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "[B-](c1ccc(C)cc1)(O)O.[Na+]"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "O=C(Cc1ccc(C)cc1)CCc1ccc(OC)cc1"}
+    ]
+  ]
+}

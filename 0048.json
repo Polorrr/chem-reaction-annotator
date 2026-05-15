@@ -1,0 +1,59 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C=Cc1ccccc1"},
+      {"type": "reagent", "text": "[Pd+]"},
+      {"type": "reagent", "text": "O=C(OC)OI(c1ccccc1)OC(=O)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "r.t. to 50 °C"},
+      {"type": "time", "text": "2-30 h"},
+      {"type": "products", "text": "CC(=O)OC(C=Cc1ccccc1)COC(=O)C"}
+    ],
+    [
+      {"type": "reactants", "text": "C=Cc1ccc(F)cc1"},
+      {"type": "reagent", "text": "[Pd+]"},
+      {"type": "reagent", "text": "O=C(OC)OI(c1ccccc1)OC(=O)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "r.t. to 50 °C"},
+      {"type": "time", "text": "2-30 h"},
+      {"type": "products", "text": "CC(=O)OC(C=Cc1ccc(F)cc1)COC(=O)C"}
+    ],
+    [
+      {"type": "reactants", "text": "C=Cc1ccc(Cl)cc1"},
+      {"type": "reagent", "text": "[Pd+]"},
+      {"type": "reagent", "text": "O=C(OC)OI(c1ccccc1)OC(=O)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "r.t. to 50 °C"},
+      {"type": "time", "text": "2-30 h"},
+      {"type": "products", "text": "CC(=O)OC(C=Cc1ccc(Cl)cc1)COC(=O)C"}
+    ],
+    [
+      {"type": "reactants", "text": "C=CCC1=CC=CC=C1"},
+      {"type": "reagent", "text": "[Pd+]"},
+      {"type": "reagent", "text": "O=C(OC)OI(c1ccccc1)OC(=O)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "r.t. to 50 °C"},
+      {"type": "time", "text": "2-30 h"},
+      {"type": "products", "text": "CC(=O)OC1(C=C)CC2=CC=CC=C2C1OC(=O)C"}
+    ],
+    [
+      {"type": "reactants", "text": "C=Cc1ccccc1"},
+      {"type": "reagent", "text": "[Pd+]"},
+      {"type": "reagent", "text": "O=C(OC)OI(c1ccccc1)OC(=O)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "r.t. to 50 °C"},
+      {"type": "time", "text": "2-30 h"},
+      {"type": "products", "text": "CC(=O)OC1(C=CC2=CC=CC=C21)COC(=O)C"}
+    ]
+  ]
+}

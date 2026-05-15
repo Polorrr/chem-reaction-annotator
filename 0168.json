@@ -1,0 +1,48 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C1CCC(=Nc2ccccc2)CC1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "C1(C)(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"},
+      {"type": "reagent", "text": "[Bi+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "OC(C(F)(F)F)C(F)(F)F"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "16 h"},
+      {"type": "other conditions", "text": "H2 (600 psi)"},
+      {"type": "products", "text": "O=C1CCC(Nc2ccccc2)CC1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1CCC(=Nc2ccc(OC)cc2)CC1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "C1(C)(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"},
+      {"type": "reagent", "text": "[Bi+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "OC(C(F)(F)F)C(F)(F)F"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "16 h"},
+      {"type": "other conditions", "text": "H2 (600 psi)"},
+      {"type": "products", "text": "O=C1CCC(Nc2ccc(OC)cc2)CC1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1CCC(=Nc2ccc(F)cc2)CC1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "C1(C)(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"},
+      {"type": "reagent", "text": "[Bi+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "OC(C(F)(F)F)C(F)(F)F"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "16 h"},
+      {"type": "other conditions", "text": "H2 (600 psi)"},
+      {"type": "products", "text": "O=C1CCC(Nc2ccc(F)cc2)CC1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1CCC(=Nc2ccc(F)cc2)OC1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "C1(C)(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"},
+      {"type": "reagent", "text": "[Bi+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "OC(C(F)(F)F)C(F)(F)F"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "16 h"},
+      {"type": "other conditions", "text": "H2 (600 psi)"},
+      {"type": "products", "text": "O=C1CCC(Nc2ccc(F)cc2)OC1"}
+    ]
+  ]
+}

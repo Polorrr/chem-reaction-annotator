@@ -1,0 +1,34 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "c1ccc2[nH]ccc2c1"},
+      {"type": "reactants", "text": "c1ccc(MgBr)cc1"},
+      {"type": "reagent", "text": "[Ni]"},
+      {"type": "reagent", "text": "C1=CC=CC=C1N"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "c1ccc2[nH]ccc2c1-c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2[nH]ccc2c1"},
+      {"type": "reactants", "text": "Cc1ccc(MgBr)cc1"},
+      {"type": "reagent", "text": "[Ni]"},
+      {"type": "reagent", "text": "C1=CC=CC=C1N"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "c1ccc2[nH]ccc2c1-c1ccc(C)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2[nH]ccc2c1"},
+      {"type": "reactants", "text": "COc1ccc(MgBr)cc1"},
+      {"type": "reagent", "text": "[Ni]"},
+      {"type": "reagent", "text": "C1=CC=CC=C1N"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "c1ccc2[nH]ccc2c1-c1ccc(OC)cc1"}
+    ]
+  ]
+}

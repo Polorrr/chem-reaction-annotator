@@ -1,0 +1,31 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C1c2ccccc2C(=CC1=O)CC(=O)O"},
+      {"type": "reactants", "text": "OOC(=O)c1ccccc1"},
+      {"type": "reagent", "text": "CC(=O)Nc1cc(-c2c(I)cc(OC(=O)NC(C)C)cc2OC(C)C)cc(OC(C)C)c1"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "reagent", "text": "O=[N+]([O-])C"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "products", "text": "O=C1c2ccccc2C12CC(=O)OC2=O"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1c2cc(OC)ccc2C(=CC1=O)CC(=O)O"},
+      {"type": "reactants", "text": "OOC(=O)c1ccccc1"},
+      {"type": "reagent", "text": "CC(=O)Nc1cc(-c2c(I)cc(OC(=O)NC(C)C)cc2OC(C)C)cc(OC(C)C)c1"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "reagent", "text": "O=[N+]([O-])C"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "products", "text": "O=C1c2cc(OC)ccc2C12CC(=O)OC2=O"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1c2cc(Cl)ccc2C(=CC1=O)CC(=O)O"},
+      {"type": "reactants", "text": "OOC(=O)c1ccccc1"},
+      {"type": "reagent", "text": "CC(=O)Nc1cc(-c2c(I)cc(OC(=O)NC(C)C)cc2OC(C)C)cc(OC(C)C)c1"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "reagent", "text": "O=[N+]([O-])C"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "products", "text": "O=C1c2cc(Cl)ccc2C12CC(=O)OC2=O"}
+    ]
+  ]
+}

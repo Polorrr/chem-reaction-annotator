@@ -1,0 +1,88 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "COc1ccc(N(C)CC)cc1"},
+      {"type": "reactants", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "[Fe+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "CC(C)(C)OO"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "temperature", "text": "r.t. or reflux"},
+      {"type": "products", "text": "COc1ccc(N(C)CC#N)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "C=CC#Cc1ccc(N(C)CC)cc1"},
+      {"type": "reactants", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "[Fe+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "CC(C)(C)OO"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "temperature", "text": "r.t. or reflux"},
+      {"type": "products", "text": "C=CC#Cc1ccc(N(C)CC#N)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Brc1ccccc1N(C)CC"},
+      {"type": "reactants", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "[Fe+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "CC(C)(C)OO"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "temperature", "text": "r.t. or reflux"},
+      {"type": "products", "text": "Brc1ccccc1N(C)CC#N"}
+    ],
+    [
+      {"type": "reactants", "text": "O=[N+]([O-])c1cccc(N(C)CC)c1"},
+      {"type": "reactants", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "[Fe+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "CC(C)(C)OO"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "temperature", "text": "r.t. or reflux"},
+      {"type": "products", "text": "O=[N+]([O-])c1cccc(N(C)CC#N)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2c(c1)CCN2c1ccccc1"},
+      {"type": "reactants", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "[Fe+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "CC(C)(C)OO"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "temperature", "text": "r.t. or reflux"},
+      {"type": "products", "text": "c1ccc2c(c1)C(C#N)N2c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2CCCCN2c1"},
+      {"type": "reactants", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "[Fe+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "CC(C)(C)OO"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "temperature", "text": "r.t. or reflux"},
+      {"type": "products", "text": "c1ccc2CCCCN2C#N"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2CCCCN2c1"},
+      {"type": "reactants", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "[Fe+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "CC(C)(C)OO"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "temperature", "text": "r.t. or reflux"},
+      {"type": "products", "text": "c1ccc2CCCCN2C#N"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2CCCCN2c1"},
+      {"type": "reactants", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "[Fe+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "CC(C)(C)OO"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "temperature", "text": "r.t. or reflux"},
+      {"type": "products", "text": "c1ccc2CCCCN2C#N"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2CCCCN2c1"},
+      {"type": "reactants", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "[Fe+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "CC(C)(C)OO"},
+      {"type": "reagent", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "C[Si](C)(C)C#N"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "temperature", "text": "r.t. or reflux"},
+      {"type": "products", "text": "c1ccc2CCCCN2C#N"}
+    ]
+  ]
+}

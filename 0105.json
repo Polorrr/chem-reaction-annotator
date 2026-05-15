@@ -1,0 +1,100 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(OC)/C(=C/c1ccccc1)NC(=O)C"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1ccc([C](F)(F)F)cc1)C(C)(C)C"},
+      {"type": "reagent", "text": "O=S(=O)([O-])OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "10 min to 48 h"},
+      {"type": "other conditions", "text": "H2 (5 atm)"},
+      {"type": "products", "text": "CC(=O)NC(Cc1ccccc1)C(=O)OC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(O)/C(=C/c1ccccc1)NC(=O)C"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1ccc([C](F)(F)F)cc1)C(C)(C)C"},
+      {"type": "reagent", "text": "O=S(=O)([O-])OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "10 min to 48 h"},
+      {"type": "other conditions", "text": "H2 (5 atm)"},
+      {"type": "products", "text": "CC(=O)NC(Cc1ccccc1)C(=O)O"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC)/C(=C/c1ccc(Cl)cc1)NC(=O)C"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1ccc([C](F)(F)F)cc1)C(C)(C)C"},
+      {"type": "reagent", "text": "O=S(=O)([O-])OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "10 min to 48 h"},
+      {"type": "other conditions", "text": "H2 (5 atm)"},
+      {"type": "products", "text": "CC(=O)NC(Cc1ccc(Cl)cc1)C(=O)OC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC)/C(=C/c1ccc(O)cc1)NC(=O)C"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1ccc([C](F)(F)F)cc1)C(C)(C)C"},
+      {"type": "reagent", "text": "O=S(=O)([O-])OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "10 min to 48 h"},
+      {"type": "other conditions", "text": "H2 (5 atm)"},
+      {"type": "products", "text": "CC(=O)NC(Cc1ccc(O)cc1)C(=O)OC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC)/C(=C/c1ccc(OC)cc1)NC(=O)C"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1ccc([C](F)(F)F)cc1)C(C)(C)C"},
+      {"type": "reagent", "text": "O=S(=O)([O-])OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "10 min to 48 h"},
+      {"type": "other conditions", "text": "H2 (5 atm)"},
+      {"type": "products", "text": "CC(=O)NC(Cc1ccc(OC)cc1)C(=O)OC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC)/C(=C/c1ccc(C(C)=O)cc1)NC(=O)C"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1ccc([C](F)(F)F)cc1)C(C)(C)C"},
+      {"type": "reagent", "text": "O=S(=O)([O-])OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "10 min to 48 h"},
+      {"type": "other conditions", "text": "H2 (5 atm)"},
+      {"type": "products", "text": "CC(=O)NC(Cc1ccc(C(C)=O)cc1)C(=O)OC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC)/C(=C/c1ccccc1)NC(=O)C"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1ccc([C](F)(F)F)cc1)C(C)(C)C"},
+      {"type": "reagent", "text": "O=S(=O)([O-])OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "10 min to 48 h"},
+      {"type": "other conditions", "text": "H2 (5 atm)"},
+      {"type": "products", "text": "CC(=O)NC(Cc1ccccc1)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC)/C(=C/C)NC(=O)C"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1ccc([C](F)(F)F)cc1)C(C)(C)C"},
+      {"type": "reagent", "text": "O=S(=O)([O-])OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "10 min to 48 h"},
+      {"type": "other conditions", "text": "H2 (5 atm)"},
+      {"type": "products", "text": "CC(=O)NC(C)C(=O)OC"}
+    ]
+  ]
+}

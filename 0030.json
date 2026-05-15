@@ -1,0 +1,34 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "COc1c(I)cccc1C(=O)OC"},
+      {"type": "reactants", "text": "BrC(F)(F)P(=O)(OCC)OCC"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "c1ccc2ncccc2c1"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "60 °C"},
+      {"type": "products", "text": "COc1c(C(F)(F)P(=O)(OCC)OCC)cccc1C(=O)OC"}
+    ],
+    [
+      {"type": "reactants", "text": "FC(F)(F)c1c(I)cccc1C(=O)OC"},
+      {"type": "reactants", "text": "BrC(F)(F)P(=O)(OCC)OCC"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "c1ccc2ncccc2c1"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "60 °C"},
+      {"type": "products", "text": "FC(F)(F)c1c(C(F)(F)P(=O)(OCC)OCC)cccc1C(=O)OC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(Nc1ccccc1)c1c(I)cccc1"},
+      {"type": "reactants", "text": "BrC(F)(F)P(=O)(OCC)OCC"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "c1ccc2ncccc2c1"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "60 °C"},
+      {"type": "products", "text": "O=C(Nc1ccccc1)c1c(C(F)(F)P(=O)(OCC)OCC)cccc1"}
+    ]
+  ]
+}

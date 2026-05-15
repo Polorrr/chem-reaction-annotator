@@ -1,0 +1,48 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C1OC2=CC=CC3=C2C1=CC=C3"},
+      {"type": "reactants", "text": "[Na+].[O-]C#N"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1-c1ccccc1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=C1OC2=CC=CC3=C2[C@H]1NC(=O)O3"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1cc2c(c(OC)c1OC)-c1c(N(C)C(=O)O)CC=CC=12"},
+      {"type": "reactants", "text": "[Na+].[O-]C#N"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1-c1ccccc1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "COc1cc2c(OC)c(OC)cc2[C@H]1NC(=O)O1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1OC2=CC=CC3=C2C1=CC=C3"},
+      {"type": "reactants", "text": "[Na+].[O-]C#N"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1-c1ccccc1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=C1OC2=CC(Br)=CC3=C2[C@H]1NC(=O)O3"}
+    ],
+    [
+      {"type": "reactants", "text": "FC1=CC=CC2=C1OC1=CC=CC=12"},
+      {"type": "reactants", "text": "[Na+].[O-]C#N"},
+      {"type": "reagent", "text": "[Rh+]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1-c1ccccc1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "FC1=CC=CC2=C1OC1=CC=CC=12"}
+    ]
+  ]
+}

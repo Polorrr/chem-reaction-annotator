@@ -1,0 +1,40 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=c1[nH]cc(C)c1"},
+      {"type": "reactants", "text": "OB(O)c1ccc(C)cc1"},
+      {"type": "reagent", "text": "[Fe+3].[N+](=O)[O-].[O-][N+](=O)[O-].[O-][N+](=O)[O-]"},
+      {"type": "reagent", "text": "[K+].[O-]C(=O)[O-].[K+]"},
+      {"type": "reagent", "text": "[K+].[O-]C(=O)[O-].[K+]"},
+      {"type": "reagent", "text": "ClCCl.CCO"},
+      {"type": "temperature", "text": "70 °C"},
+      {"type": "time", "text": "12 h"},
+      {"type": "other conditions", "text": "air"},
+      {"type": "products", "text": "O=c1[nH]cc(-c2ccc(C)cc2)c1C"}
+    ],
+    [
+      {"type": "reactants", "text": "O=c1[nH]cc(C)c1"},
+      {"type": "reactants", "text": "OB(O)c1ccc(F)cc1"},
+      {"type": "reagent", "text": "[Fe+3].[N+](=O)[O-].[O-][N+](=O)[O-].[O-][N+](=O)[O-]"},
+      {"type": "reagent", "text": "[K+].[O-]C(=O)[O-].[K+]"},
+      {"type": "reagent", "text": "[K+].[O-]C(=O)[O-].[K+]"},
+      {"type": "reagent", "text": "ClCCl.CCO"},
+      {"type": "temperature", "text": "70 °C"},
+      {"type": "time", "text": "12 h"},
+      {"type": "other conditions", "text": "air"},
+      {"type": "products", "text": "O=c1[nH]cc(-c2ccc(F)cc2)c1C"}
+    ],
+    [
+      {"type": "reactants", "text": "O=c1[nH]cc(C)c1"},
+      {"type": "reactants", "text": "OB(O)c1ccc(C#N)cc1"},
+      {"type": "reagent", "text": "[Fe+3].[N+](=O)[O-].[O-][N+](=O)[O-].[O-][N+](=O)[O-]"},
+      {"type": "reagent", "text": "[K+].[O-]C(=O)[O-].[K+]"},
+      {"type": "reagent", "text": "[K+].[O-]C(=O)[O-].[K+]"},
+      {"type": "reagent", "text": "ClCCl.CCO"},
+      {"type": "temperature", "text": "70 °C"},
+      {"type": "time", "text": "12 h"},
+      {"type": "other conditions", "text": "air"},
+      {"type": "products", "text": "O=c1[nH]cc(-c2ccc(C#N)cc2)c1C"}
+    ]
+  ]
+}

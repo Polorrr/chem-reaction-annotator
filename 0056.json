@@ -1,0 +1,37 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C(=Nc1ccc(OC)cc1)c1ccccc1C1CC1"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Ru+2].[Br-].[Br-]"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "15-24 h"},
+      {"type": "other conditions", "text": "H2 (10 or 50 bar)"},
+      {"type": "products", "text": "[C@@H](c1ccccc1C1CC1)Nc1ccc(OC)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Nc1ccc(OC)cc1)C(c1ccccc1)C(c1ccc(OC)cc1)NC(=O)OC(C)(C)C"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Ru+2].[Br-].[Br-]"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "15-24 h"},
+      {"type": "other conditions", "text": "H2 (10 or 50 bar)"},
+      {"type": "products", "text": "[C@@H](c1ccccc1)[C@H](c1ccc(OC)cc1)NC(=O)OC(C)(C)C"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Nc1ccc(N(C)C(=O)OC(C)(C)C)cc1)c1ccc(Cl)cc1C"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Ru+2].[Br-].[Br-]"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "15-24 h"},
+      {"type": "other conditions", "text": "H2 (10 or 50 bar)"},
+      {"type": "products", "text": "[C@@H](c1ccc(Cl)cc1C)Nc1ccc(N(C)C(=O)OC(C)(C)C)cc1"}
+    ]
+  ]
+}

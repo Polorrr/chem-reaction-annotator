@@ -1,0 +1,104 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "COC(=O)c1cccc(Br)c1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1C1=CC=CC=C1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CC[Zn]CC"},
+      {"type": "reagent", "text": "CC(=O)N(C)C"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "other conditions", "text": "CO2 (10 atm)"},
+      {"type": "products", "text": "COC(=O)c1cccc(C(=O)O)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=c1oc2ccccc2o1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1C1=CC=CC=C1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CC[Zn]CC"},
+      {"type": "reagent", "text": "CC(=O)N(C)C"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "other conditions", "text": "CO2 (10 atm)"},
+      {"type": "products", "text": "O=c1oc2ccccc2o1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C(C)(C)C)c1cccc(Br)c1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1C1=CC=CC=C1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CC[Zn]CC"},
+      {"type": "reagent", "text": "CC(=O)N(C)C"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "other conditions", "text": "CO2 (10 atm)"},
+      {"type": "products", "text": "O=C(C(C)(C)C)c1cccc(C(=O)O)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1cccc(Br)c1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1C1=CC=CC=C1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CC[Zn]CC"},
+      {"type": "reagent", "text": "CC(=O)N(C)C"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "other conditions", "text": "CO2 (10 atm)"},
+      {"type": "products", "text": "COc1cccc(C(=O)O)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=c1ccoc2ccccc12"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1C1=CC=CC=C1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CC[Zn]CC"},
+      {"type": "reagent", "text": "CC(=O)N(C)C"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "other conditions", "text": "CO2 (10 atm)"},
+      {"type": "products", "text": "O=c1ccoc2ccccc12"}
+    ],
+    [
+      {"type": "reactants", "text": "CSc1ccc(Br)cc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1C1=CC=CC=C1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CC[Zn]CC"},
+      {"type": "reagent", "text": "CC(=O)N(C)C"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "other conditions", "text": "CO2 (10 atm)"},
+      {"type": "products", "text": "CSc1ccc(C(=O)O)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CN(C)c1ccc(Br)cc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1C1=CC=CC=C1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CC[Zn]CC"},
+      {"type": "reagent", "text": "CC(=O)N(C)C"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "other conditions", "text": "CO2 (10 atm)"},
+      {"type": "products", "text": "CN(C)c1ccc(C(=O)O)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=CCc1ccc(Br)cc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1C1=CC=CC=C1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CC[Zn]CC"},
+      {"type": "reagent", "text": "CC(=O)N(C)C"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "other conditions", "text": "CO2 (10 atm)"},
+      {"type": "products", "text": "O=CCc1ccc(C(=O)O)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1C(C)OC1c1ccc(Br)cc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1C1=CC=CC=C1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CC[Zn]CC"},
+      {"type": "reagent", "text": "CC(=O)N(C)C"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "other conditions", "text": "CO2 (10 atm)"},
+      {"type": "products", "text": "O=C1C(C)OC1c1ccc(C(=O)O)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Clc1ccsc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "CC(C)(C)P(c1cc(C(C)C)cc(C(C)C)c1C1=CC=CC=C1P(C(C)(C)C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "CC[Zn]CC"},
+      {"type": "reagent", "text": "CC(=O)N(C)C"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "other conditions", "text": "CO2 (10 atm)"},
+      {"type": "products", "text": "Clc1ccsc1"}
+    ]
+  ]
+}

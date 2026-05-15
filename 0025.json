@@ -1,0 +1,67 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "c1ccc2c(c1)sc1ccccc12"},
+      {"type": "reactants", "text": "Fc1ccc(N(C)C)cc1"},
+      {"type": "reagent", "text": "CC1(C)CC(C)(C)N(C)CC1.[Li+]"},
+      {"type": "reagent", "text": "CCCCC"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-73 to 40 °C"},
+      {"type": "products", "text": "c1ccc2c(c1)sc1ccc(-c1ccc(N(C)C)cc1)cc12"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2c(c1)sc1ccccc12"},
+      {"type": "reactants", "text": "Fc1ccc(C(=O)OC(C)(C)C)cc1"},
+      {"type": "reagent", "text": "CC1(C)CC(C)(C)N(C)CC1.[Li+]"},
+      {"type": "reagent", "text": "CCCCC"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-73 to 40 °C"},
+      {"type": "products", "text": "CC(C)(C)OC(=O)c1ccc(-c2ccc3c(c2)sc2ccccc23)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2c(c1)sc1ccccc12"},
+      {"type": "reactants", "text": "Fc1ccc(OC)cc1"},
+      {"type": "reagent", "text": "CC1(C)CC(C)(C)N(C)CC1.[Li+]"},
+      {"type": "reagent", "text": "CCCCC"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-73 to 40 °C"},
+      {"type": "products", "text": "COc1ccc(-c2ccc3c(c2)sc2ccccc23)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2c(c1)oc1ccccc12"},
+      {"type": "reactants", "text": "Fc1ccccc1"},
+      {"type": "reagent", "text": "CC1(C)CC(C)(C)N(C)CC1.[Li+]"},
+      {"type": "reagent", "text": "CCCCC"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-73 to 40 °C"},
+      {"type": "products", "text": "c1ccc2c(c1)oc1ccc(-c2ccccc2)cc12"}
+    ],
+    [
+      {"type": "reactants", "text": "Cc1nc2ccccc2[nH]1"},
+      {"type": "reactants", "text": "Fc1ccccc1"},
+      {"type": "reagent", "text": "CC1(C)CC(C)(C)N(C)CC1.[Li+]"},
+      {"type": "reagent", "text": "CCCCC"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-73 to 40 °C"},
+      {"type": "products", "text": "Cc1nc2ccccc2n1-c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1cnc2ccccc2n1"},
+      {"type": "reactants", "text": "Fc1ccccc1"},
+      {"type": "reagent", "text": "CC1(C)CC(C)(C)N(C)CC1.[Li+]"},
+      {"type": "reagent", "text": "CCCCC"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-73 to 40 °C"},
+      {"type": "products", "text": "COc1ccc(-c2cncc3ccccc32)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1cccc(C(F)(F)F)c1"},
+      {"type": "reactants", "text": "Fc1ccccc1"},
+      {"type": "reagent", "text": "CC1(C)CC(C)(C)N(C)CC1.[Li+]"},
+      {"type": "reagent", "text": "CCCCC"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-73 to 40 °C"},
+      {"type": "products", "text": "COc1cccc(C(F)(F)F)c1"}
+    ]
+  ]
+}

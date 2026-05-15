@@ -1,0 +1,84 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(N1CCCCC1)/C=C/c1ccccc1"},
+      {"type": "reactants", "text": "OB(O)O[B-]1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "P(c1ccc(-c2ccccc2)cc1)(C1CCCCC1)C1CCCCC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "products", "text": "O=C(N1CCCCC1)C[C@H](c1ccccc1)B1OC(C)(C)C(C)(C)O1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(N1CCOCC1)/C=C/C"},
+      {"type": "reactants", "text": "OB(O)O[B-]1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "P(c1ccc(-c2ccccc2)cc1)(C1CCCCC1)C1CCCCC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "products", "text": "O=C(N1CCOCC1)CC(C)B1OC(C)(C)C(C)(C)O1"}
+    ],
+    [
+      {"type": "reactants", "text": "NC(=O)/C=C/c1ccccc1"},
+      {"type": "reactants", "text": "OB(O)O[B-]1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "P(c1ccc(-c2ccccc2)cc1)(C1CCCCC1)C1CCCCC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "products", "text": "NC(=O)C[C@H](c1ccccc1)B1OC(C)(C)C(C)(C)O1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(N1CCCCC1)/C=C/C"},
+      {"type": "reactants", "text": "OB(O)O[B-]1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "P(c1ccc(-c2ccccc2)cc1)(C1CCCCC1)C1CCCCC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "products", "text": "O=C(N1CCCCC1)CC(C)B1OC(C)(C)C(C)(C)O1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(=O)CC(C)(C)"},
+      {"type": "reactants", "text": "OB(O)O[B-]1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "P(c1ccc(-c2ccccc2)cc1)(C1CCCCC1)C1CCCCC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "products", "text": "CC(=O)CC(C)(C)B1OC(C)(C)C(C)(C)O1"}
+    ],
+    [
+      {"type": "reactants", "text": "COC(=O)/C=C/CCC"},
+      {"type": "reactants", "text": "OB(O)O[B-]1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "P(c1ccc(-c2ccccc2)cc1)(C1CCCCC1)C1CCCCC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "products", "text": "COC(=O)CC(CCC)B1OC(C)(C)C(C)(C)O1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1CCCCC1"},
+      {"type": "reactants", "text": "OB(O)O[B-]1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "P(c1ccc(-c2ccccc2)cc1)(C1CCCCC1)C1CCCCC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "products", "text": "O=C1CCC(c2ccccc2)CC1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1CCC(O)CC1"},
+      {"type": "reactants", "text": "OB(O)O[B-]1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "P(c1ccc(-c2ccccc2)cc1)(C1CCCCC1)C1CCCCC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "products", "text": "O=C1CCC(O)CC1"}
+    ]
+  ]
+}

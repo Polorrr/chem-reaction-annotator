@@ -1,0 +1,49 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "IC1CCCOC1C(C=C)I"},
+      {"type": "reactants", "text": "I[Zn]CCCC"},
+      {"type": "reagent", "text": "[Ni+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "C1CCCOC1C(C=C)CCCC"}
+    ],
+    [
+      {"type": "reactants", "text": "IC1CCOC1C(C=C)I"},
+      {"type": "reactants", "text": "I[Zn]CCC(=O)OCC"},
+      {"type": "reagent", "text": "[Ni+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "C1CCOC1C(C=C)CCC(=O)OCC"}
+    ],
+    [
+      {"type": "reactants", "text": "IC1CCOC1C(C=C)I"},
+      {"type": "reactants", "text": "I[Zn]CCC1COC1"},
+      {"type": "reagent", "text": "[Ni+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "C1CCOC1C(C=C)CCC1COC1"}
+    ],
+    [
+      {"type": "reactants", "text": "Ic1cc2c(cc1)CCN(S(=O)(=O)c1ccccc1)C2"},
+      {"type": "reactants", "text": "I[Zn]CCC(=O)OCC"},
+      {"type": "reagent", "text": "[Ni+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "CCC(=O)OCC"}
+    ],
+    [
+      {"type": "reactants", "text": "IC1COCC1C(C=C)I"},
+      {"type": "reactants", "text": "I[Zn]CCC1(C)OC1"},
+      {"type": "reagent", "text": "[Ni+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "C1COCC1C(C=C)CCC1(C)OC1"}
+    ]
+  ]
+}

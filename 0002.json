@@ -1,0 +1,92 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "Cc1ccccc1-c1nocc1"},
+      {"type": "reactants", "text": "CCCCBF3.[K+]"},
+      {"type": "reagent", "text": "[Rh+3].[Cl-].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "[Ag+].[F-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "CCCCc1ccccc1-c1nocc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Cc1cc(C=NOC)ccc1"},
+      {"type": "reactants", "text": "CCCCBF3.[K+]"},
+      {"type": "reagent", "text": "[Rh+3].[Cl-].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "[Ag+].[F-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "CCCCc1cc(C=NOC)ccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Cc1ccnc(C)c1"},
+      {"type": "reactants", "text": "CCCCBF3.[K+]"},
+      {"type": "reagent", "text": "[Rh+3].[Cl-].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "[Ag+].[F-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "CCCCc1ccnc(C)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2c(c1)ccn2C1CCCC1"},
+      {"type": "reactants", "text": "CCCCBF3.[K+]"},
+      {"type": "reagent", "text": "[Rh+3].[Cl-].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "[Ag+].[F-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "CCCCc1ccc2c(c1)ccn2C1CCCC1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc2c(c1)ccn2C"},
+      {"type": "reactants", "text": "CCCCBF3.[K+]"},
+      {"type": "reagent", "text": "[Rh+3].[Cl-].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "[Ag+].[F-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "CCCCc1ccc2c(OC)ccn2C"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc2ncn(C)c2c1"},
+      {"type": "reactants", "text": "CCCCBF3.[K+]"},
+      {"type": "reagent", "text": "[Rh+3].[Cl-].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "[Ag+].[F-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "CCCCc1ccc2ncn(C)c2c1"}
+    ],
+    [
+      {"type": "reactants", "text": "Cc1cc(C=NOC)cc(C)c1"},
+      {"type": "reactants", "text": "CCCCBF3.[K+]"},
+      {"type": "reagent", "text": "[Rh+3].[Cl-].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "[Ag+].[F-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "CCCCc1cc(C=NOC)cc(C)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "Cc1cc(C=NOC)cc(N(=O)=O)c1"},
+      {"type": "reactants", "text": "CCCCBF3.[K+]"},
+      {"type": "reagent", "text": "[Rh+3].[Cl-].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "[Ag+].[F-]"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "CCCCc1cc(C=NOC)cc(N(=O)=O)c1"}
+    ]
+  ]
+}

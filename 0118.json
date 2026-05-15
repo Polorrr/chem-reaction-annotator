@@ -1,0 +1,124 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "Clc1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "C[CH2-]([O-]C(=O)C)[B-]([K+])(F)F"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=P(C1CCCCC1)(C1CCCCC1)c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "[Na+].[Na+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "5-48 h"},
+      {"type": "products", "text": "OCc1ccc2ccccc2c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=[N+]([O-])c1ccc(Br)cc1"},
+      {"type": "reactants", "text": "C[CH2-]([O-]C(=O)C)[B-]([K+])(F)F"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=P(C1CCCCC1)(C1CCCCC1)c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "[Na+].[Na+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "5-48 h"},
+      {"type": "products", "text": "OCc1ccc([N+](=O)[O-])cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CCOC(=O)c1ccc(Br)cc1"},
+      {"type": "reactants", "text": "C[CH2-]([O-]C(=O)C)[B-]([K+])(F)F"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=P(C1CCCCC1)(C1CCCCC1)c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "[Na+].[Na+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "5-48 h"},
+      {"type": "products", "text": "CCOC(=O)c1ccc(CO)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1cc([N+](=O)[O-])cc(Br)c1"},
+      {"type": "reactants", "text": "C[CH2-]([O-]C(=O)C)[B-]([K+])(F)F"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=P(C1CCCCC1)(C1CCCCC1)c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "[Na+].[Na+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "5-48 h"},
+      {"type": "products", "text": "COc1cc([N+](=O)[O-])cc(CO)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1OC2=CC=CC3=C2C(=CC13)CO"},
+      {"type": "reactants", "text": "C[CH2-]([O-]C(=O)C)[B-]([K+])(F)F"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=P(C1CCCCC1)(C1CCCCC1)c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "[Na+].[Na+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "5-48 h"},
+      {"type": "products", "text": "O=C1OC2=CC=CC3=C2C(=CC13)CO"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1C(C)(C)C=C(C)CC1CCO"},
+      {"type": "reactants", "text": "C[CH2-]([O-]C(=O)C)[B-]([K+])(F)F"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=P(C1CCCCC1)(C1CCCCC1)c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "[Na+].[Na+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "5-48 h"},
+      {"type": "products", "text": "O=C1C(C)(C)C=C(C)CC1CCO"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2[nH]ccc2c1"},
+      {"type": "reactants", "text": "C[CH2-]([O-]C(=O)C)[B-]([K+])(F)F"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=P(C1CCCCC1)(C1CCCCC1)c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "[Na+].[Na+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "5-48 h"},
+      {"type": "products", "text": "c1ccc2[nH]ccc2c1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1cc2cnc3ccccc3c2c1"},
+      {"type": "reactants", "text": "C[CH2-]([O-]C(=O)C)[B-]([K+])(F)F"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=P(C1CCCCC1)(C1CCCCC1)c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "[Na+].[Na+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "5-48 h"},
+      {"type": "products", "text": "c1cc2cnc3ccccc3c2c1"}
+    ],
+    [
+      {"type": "reactants", "text": "Cc1cnc2ccccc2n1"},
+      {"type": "reactants", "text": "C[CH2-]([O-]C(=O)C)[B-]([K+])(F)F"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=P(C1CCCCC1)(C1CCCCC1)c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "[Na+].[Na+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "5-48 h"},
+      {"type": "products", "text": "c1cc2ccncc2cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(O)c1ccco1"},
+      {"type": "reactants", "text": "C[CH2-]([O-]C(=O)C)[B-]([K+])(F)F"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=P(C1CCCCC1)(C1CCCCC1)c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "[Na+].[Na+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "5-48 h"},
+      {"type": "products", "text": "O=C(O)c1ccco1"}
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "Fc(F)(I)Sc1ccccc1"},
+      {"type": "reactants", "text": "C=CC[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-78 °C"},
+      {"type": "time", "text": "0.5 h"},
+      {"type": "products", "text": "FC(F)(Sc1ccccc1)CC=C"}
+    ],
+    [
+      {"type": "reactants", "text": "Fc(F)(I)Sc1ccccc1"},
+      {"type": "reactants", "text": "C=CC[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-78 °C"},
+      {"type": "time", "text": "0.5 h"},
+      {"type": "products", "text": "FC(F)(Sc1ccccc1)C(c1ccc([N+](=O)[O-])cc1)CC=C"}
+    ],
+    [
+      {"type": "reactants", "text": "Fc(F)(I)Sc1ccccc1"},
+      {"type": "reactants", "text": "C=CC[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-78 °C"},
+      {"type": "time", "text": "0.5 h"},
+      {"type": "products", "text": "FC(F)(Sc1ccccc1)C(c1ccc(OC(C)=O)cc1)CC=C"}
+    ],
+    [
+      {"type": "reactants", "text": "Fc(F)(I)Sc1ccccc1"},
+      {"type": "reactants", "text": "C=CC[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-78 °C"},
+      {"type": "time", "text": "0.5 h"},
+      {"type": "products", "text": "FC(F)(Sc1ccccc1)C(c1ccc(F)cc1)CC=C"}
+    ],
+    [
+      {"type": "reactants", "text": "Fc(F)(I)Sc1ccccc1"},
+      {"type": "reactants", "text": "C=CC[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-78 °C"},
+      {"type": "time", "text": "0.5 h"},
+      {"type": "products", "text": "FC(F)(Sc1ccccc1)C(CC=C)CC=C"}
+    ],
+    [
+      {"type": "reactants", "text": "Fc(F)(I)Sc1ccccc1"},
+      {"type": "reactants", "text": "C=CC[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ag+].[Sb-](F)(F)(F)(F)(F)F"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-78 °C"},
+      {"type": "time", "text": "0.5 h"},
+      {"type": "products", "text": "FC(F)(Sc1ccccc1)OCc1ccccc1"}
+    ]
+  ]
+}

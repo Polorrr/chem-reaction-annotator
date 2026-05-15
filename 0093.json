@@ -1,0 +1,32 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C=CC(=CC=C)C(CC=C)(C(=O)OCC)C(=O)OCC"},
+      {"type": "reagent", "text": "[Pt+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "110 °C"},
+      {"type": "products", "text": "CC1=CCC2C(C1)C(C=C)C2(C(=O)OCC)C(=O)OCC"}
+    ],
+    [
+      {"type": "reactants", "text": "C=CC(=CC=C)C(CC=C)(C(=O)OCC)C(=O)OCC"},
+      {"type": "reagent", "text": "[Pt+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "110 °C"},
+      {"type": "products", "text": "CC1=CCC2C(C1)C(C=C)C2(C(=O)OCC)C(=O)OCC"}
+    ],
+    [
+      {"type": "reactants", "text": "C=CC(=CC=C)C1(CC=C)OCCO1"},
+      {"type": "reagent", "text": "[Pt+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "110 °C"},
+      {"type": "products", "text": "C1=CCC2C(C1)C(C=C)C1COCCO1"}
+    ],
+    [
+      {"type": "reactants", "text": "C=C(C)C(=CC=C)C(CC=C)(C(=O)OCC)C(=O)OCC"},
+      {"type": "reagent", "text": "[Pt+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "110 °C"},
+      {"type": "products", "text": "CC1=CCC2C(C1)C(=C)C2(C(=O)OCC)C(=O)OCC"}
+    ]
+  ]
+}

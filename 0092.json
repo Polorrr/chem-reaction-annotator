@@ -1,0 +1,100 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(C)c1ccccc1"},
+      {"type": "reactants", "text": "C#CCc1ccccc1"},
+      {"type": "reagent", "text": "[Ti+4].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "35 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=C(CCc1ccccc1)C(O)(C)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C)c1ccc(Cl)cc1"},
+      {"type": "reactants", "text": "C#CCc1ccccc1"},
+      {"type": "reagent", "text": "[Ti+4].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "35 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=C(CCc1ccccc1)C(O)(C)c1ccc(Cl)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C)c1ccccc1"},
+      {"type": "reactants", "text": "C#CCCC"},
+      {"type": "reagent", "text": "[Ti+4].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "35 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=C(CCCC)C(O)(C)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C)c1ccccc1"},
+      {"type": "reactants", "text": "C#CC1CC1"},
+      {"type": "reagent", "text": "[Ti+4].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "35 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=C(C1CC1)C(O)(C)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C)c1ccc(OC(C)=O)cc1"},
+      {"type": "reactants", "text": "C#CCc1ccccc1"},
+      {"type": "reagent", "text": "[Ti+4].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "35 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=C(CCc1ccccc1)C(O)(C)c1ccc(OC(C)=O)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C)c1ccsc1"},
+      {"type": "reactants", "text": "C#CCc1ccccc1"},
+      {"type": "reagent", "text": "[Ti+4].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "35 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=C(CCc1ccccc1)C(O)(C)c1ccsc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C(c1ccccc1)NCc1ccccc1)CC"},
+      {"type": "reactants", "text": "C#CCc1ccccc1"},
+      {"type": "reagent", "text": "[Ti+4].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "35 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=C(CCCC)C(NCc1ccccc1)(C)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C(c1ccccc1)NCc1ccccc1)CCc1ccccc1"},
+      {"type": "reactants", "text": "C#CCc1ccccc1"},
+      {"type": "reagent", "text": "[Ti+4].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CCN(CC)C.[H+].[Cl-]"},
+      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "35 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=C(CCc1ccccc1)C(NCc1ccccc1)(C)c1ccccc1"}
+    ]
+  ]
+}

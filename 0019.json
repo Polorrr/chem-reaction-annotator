@@ -1,0 +1,101 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)Oc1ccccc1"},
+      {"type": "reactants", "text": "C=Cc1ccccc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "20 h"},
+      {"type": "other conditions", "text": "CO (10 bar)"},
+      {"type": "products", "text": "O=C(/C=C/c1ccccc1)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)Oc1ccc(OC)cc1"},
+      {"type": "reactants", "text": "C=Cc1ccccc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "20 h"},
+      {"type": "other conditions", "text": "CO (10 bar)"},
+      {"type": "products", "text": "O=C(/C=C/c1ccccc1)c1ccc(OC)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)Oc1ccccc1"},
+      {"type": "reactants", "text": "C=Cc1ccc(OC)cc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "20 h"},
+      {"type": "other conditions", "text": "CO (10 bar)"},
+      {"type": "products", "text": "O=C(/C=C/c1ccc(OC)cc1)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)Oc1ccc2ncccc2c1"},
+      {"type": "reactants", "text": "C=Cc1ccc(Cl)cc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "20 h"},
+      {"type": "other conditions", "text": "CO (10 bar)"},
+      {"type": "products", "text": "O=C(/C=C/c1ccc(Cl)cc1)c1ccc2ncccc2c1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(=O)Oc1ccccc1"},
+      {"type": "reactants", "text": "C=Cc1ccccc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "20 h"},
+      {"type": "other conditions", "text": "CO (10 bar)"},
+      {"type": "products", "text": "O=C(/C=C/c1ccccc1)C1=CCC(C)(C)CC1"}
+    ],
+    [
+      {"type": "reactants", "text": "CCCCC=COC(=O)C=C"},
+      {"type": "reactants", "text": "C=Cc1ccccc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "20 h"},
+      {"type": "other conditions", "text": "CO (10 bar)"},
+      {"type": "products", "text": "O=C(/C=C/c1ccccc1)C=CC=CCC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)Oc1ccc(C(C)(C)C)cc1"},
+      {"type": "reactants", "text": "C=Cc1ccccc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "20 h"},
+      {"type": "other conditions", "text": "CO (10 bar)"},
+      {"type": "products", "text": "O=C(/C=C/c1ccccc1)c1ccc(C(C)(C)C)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Oc1ccccc1"},
+      {"type": "reactants", "text": "C=Cc1ccccc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "c1ccc(-c2ccc(-c3ccccc3)cc2)cc1"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "reagent", "text": "O=S(=O)(C(F)(F)F)c1ccccc1"},
+      {"type": "temperature", "text": "100 °C"},
+      {"type": "time", "text": "20 h"},
+      {"type": "other conditions", "text": "CO (10 bar)"},
+      {"type": "products", "text": "O=C(/C=C/c1ccccc1)c1ccccc1"}
+    ]
+  ]
+}

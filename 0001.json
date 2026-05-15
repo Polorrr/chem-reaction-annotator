@@ -1,0 +1,84 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)N=Cc1ccccc1"},
+      {"type": "reactants", "text": "O=C(OCc1ccccc1)CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Yb+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "CC(C)c1cc(no1)c2cc(ccn2)C3CC(N=C3C(C)C)C(C)C"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC(Cc1ccccc1)C(C(=O)OCc1ccccc1)C(=O)OCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)N=Cc1ccc(C)cc1"},
+      {"type": "reactants", "text": "O=C(OCc1ccccc1)CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Yb+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "CC(C)c1cc(no1)c2cc(ccn2)C3CC(N=C3C(C)C)C(C)C"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC(Cc1ccc(C)cc1)C(C(=O)OCc1ccccc1)C(=O)OCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)N=Cc1ccc(Br)cc1"},
+      {"type": "reactants", "text": "O=C(OCc1ccccc1)CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Yb+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "CC(C)c1cc(no1)c2cc(ccn2)C3CC(N=C3C(C)C)C(C)C"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC(Cc1ccc(Br)cc1)C(C(=O)OCc1ccccc1)C(=O)OCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)N=Cc1ccc(OC)cc1"},
+      {"type": "reactants", "text": "O=C(OCc1ccccc1)CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Yb+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "CC(C)c1cc(no1)c2cc(ccn2)C3CC(N=C3C(C)C)C(C)C"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC(Cc1ccc(OC)cc1)C(C(=O)OCc1ccccc1)C(=O)OCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)N=Cc1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "O=C(OCc1ccccc1)CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Yb+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "CC(C)c1cc(no1)c2cc(ccn2)C3CC(N=C3C(C)C)C(C)C"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC(Cc1ccc2ccccc2c1)C(C(=O)OCc1ccccc1)C(=O)OCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)N=Cc1cccc2ccccc12"},
+      {"type": "reactants", "text": "O=C(OCc1ccccc1)CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Yb+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "CC(C)c1cc(no1)c2cc(ccn2)C3CC(N=C3C(C)C)C(C)C"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC(Cc1cccc2ccccc12)C(C(=O)OCc1ccccc1)C(=O)OCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)N=Cc1ccco1"},
+      {"type": "reactants", "text": "O=C(OCc1ccccc1)CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Yb+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "CC(C)c1cc(no1)c2cc(ccn2)C3CC(N=C3C(C)C)C(C)C"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC(Cc1ccco1)C(C(=O)OCc1ccccc1)C(=O)OCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)N=C[C@@H]1CCCCC1"},
+      {"type": "reactants", "text": "O=C(OCc1ccccc1)CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Yb+3].[O-]S(=O)(=O)C(F)(F)S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "CC(C)c1cc(no1)c2cc(ccn2)C3CC(N=C3C(C)C)C(C)C"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC([C@@H]1CCCCC1)C(C(=O)OCc1ccccc1)C(=O)OCc1ccccc1"}
+    ]
+  ]
+}

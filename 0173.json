@@ -1,0 +1,92 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "c1ccc2[nH]ccc2c1"},
+      {"type": "reactants", "text": "Ic1ccccc1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C(=O)[O-].[Ag+]"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "160 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "c1ccc2[nH]ccc2c1-c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccsc1C"},
+      {"type": "reactants", "text": "Ic1ccc(C#N)cc1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C(=O)[O-].[Ag+]"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "160 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "c1ccsc1C-c1ccc(C#N)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccsc1C"},
+      {"type": "reactants", "text": "Ic1ccc(C(F)(F)F)cc1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C(=O)[O-].[Ag+]"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "160 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "c1ccsc1C-c1ccc(C(F)(F)F)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1csc(C)c1"},
+      {"type": "reactants", "text": "Ic1ccc(F)cc1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C(=O)[O-].[Ag+]"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "160 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "c1csc(C)c1-c1ccc(F)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Cn1ccc2ccccc21"},
+      {"type": "reactants", "text": "Ic1ccccc1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C(=O)[O-].[Ag+]"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "160 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "Cn1ccc2ccccc2c1-c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1csc(-c2ccccc2)c1"},
+      {"type": "reactants", "text": "Ic1ccccc1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C(=O)[O-].[Ag+]"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "160 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "c1csc(-c2ccccc2)c1-c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1csc(-c2ccc(F)cc2)c1"},
+      {"type": "reactants", "text": "Ic1ccccc1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C(=O)[O-].[Ag+]"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "160 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "c1csc(-c2ccc(F)cc2)c1-c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1csc(-c2ccc(C(=O)OCC)cc2)c1"},
+      {"type": "reactants", "text": "Ic1ccccc1"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C(=O)[O-].[Ag+]"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "160 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "c1csc(-c2ccc(C(=O)OCC)cc2)c1-c1ccccc1"}
+    ]
+  ]
+}

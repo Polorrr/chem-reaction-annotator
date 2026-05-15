@@ -1,0 +1,44 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(OCC)C1=CC2C3C1C23"},
+      {"type": "reactants", "text": "C=CC(=O)OCC"},
+      {"type": "reagent", "text": "[Ru]"},
+      {"type": "reagent", "text": "C1C(C)(C)C2CC1CN2C(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "23 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "O=C(OCC)/C=C/C1CCC(C=C)C1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1OC2C3C1C23"},
+      {"type": "reactants", "text": "C=CC(=O)OC"},
+      {"type": "reagent", "text": "[Ru]"},
+      {"type": "reagent", "text": "C1C(C)(C)C2CC1CN2C(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "23 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "COC(=O)/C=C/C1CCC(C=C)C1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1OC2C3C1C23"},
+      {"type": "reactants", "text": "C=CC(=O)OC"},
+      {"type": "reagent", "text": "[Ru]"},
+      {"type": "reagent", "text": "C1C(C)(C)C2CC1CN2C(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "23 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "COC(=O)/C=C/C1CC(C)C(C)C1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1OC2C3C1C23"},
+      {"type": "reactants", "text": "C=CC(=O)NC(C)(C)C"},
+      {"type": "reagent", "text": "[Ru]"},
+      {"type": "reagent", "text": "C1C(C)(C)C2CC1CN2C(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "23 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "CC(C)(C)NC(=O)/C=C/C1CCC(C=C)C1"}
+    ]
+  ]
+}

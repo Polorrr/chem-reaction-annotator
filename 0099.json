@@ -1,0 +1,54 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(c1ccccc1)C(F)(F)F"},
+      {"type": "reactants", "text": "O=P(OC)(O)OC"},
+      {"type": "reagent", "text": "CC(C)(C)[C@@H](N)C[C@H](O)C(=O)NC1(c2ccccc2)C(=O)NC2=CC=CC=C12"},
+      {"type": "reagent", "text": "CC[Al]Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-15 °C"},
+      {"type": "time", "text": "40 h"},
+      {"type": "products", "text": "O=P(OC)(O)OC[C@@](O)(c1ccccc1)C(F)(F)F"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(c1ccc(C)cc1)C(F)(F)F"},
+      {"type": "reactants", "text": "O=P(OC)(O)OC"},
+      {"type": "reagent", "text": "CC(C)(C)[C@@H](N)C[C@H](O)C(=O)NC1(c2ccccc2)C(=O)NC2=CC=CC=C12"},
+      {"type": "reagent", "text": "CC[Al]Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-15 °C"},
+      {"type": "time", "text": "40 h"},
+      {"type": "products", "text": "O=P(OC)(O)OC[C@@](O)(c1ccc(C)cc1)C(F)(F)F"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(c1ccc(OC)cc1)C(F)(F)F"},
+      {"type": "reactants", "text": "O=P(OC)(O)OC"},
+      {"type": "reagent", "text": "CC(C)(C)[C@@H](N)C[C@H](O)C(=O)NC1(c2ccccc2)C(=O)NC2=CC=CC=C12"},
+      {"type": "reagent", "text": "CC[Al]Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-15 °C"},
+      {"type": "time", "text": "40 h"},
+      {"type": "products", "text": "O=P(OC)(O)OC[C@@](O)(c1ccc(OC)cc1)C(F)(F)F"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(c1ccc(Br)cc1)C(F)(F)F"},
+      {"type": "reactants", "text": "O=P(OC)(O)OC"},
+      {"type": "reagent", "text": "CC(C)(C)[C@@H](N)C[C@H](O)C(=O)NC1(c2ccccc2)C(=O)NC2=CC=CC=C12"},
+      {"type": "reagent", "text": "CC[Al]Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-15 °C"},
+      {"type": "time", "text": "40 h"},
+      {"type": "products", "text": "O=P(OC)(O)OC[C@@](O)(c1ccc(Br)cc1)C(F)(F)F"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C1=CC=CC=C1)C(F)(F)F"},
+      {"type": "reactants", "text": "O=P(OC)(O)OC"},
+      {"type": "reagent", "text": "CC(C)(C)[C@@H](N)C[C@H](O)C(=O)NC1(c2ccccc2)C(=O)NC2=CC=CC=C12"},
+      {"type": "reagent", "text": "CC[Al]Cl"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-15 °C"},
+      {"type": "time", "text": "40 h"},
+      {"type": "products", "text": "O=P(OC)(O)OC[C@@](O)(c1ccsc1)C(F)(F)F"}
+    ]
+  ]
+}

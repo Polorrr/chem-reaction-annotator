@@ -1,0 +1,48 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O/C=C/c1ccccc1"},
+      {"type": "reactants", "text": "CCOC(=O)C(Br)(Br)C(=O)OCC"},
+      {"type": "reagent", "text": "Br[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccc(OC)cc1)C1CC12"},
+      {"type": "reagent", "text": "O=[N+]([O-])C"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "O[C@@H]([C@@H](Br)c1ccccc1)CBr"}
+    ],
+    [
+      {"type": "reactants", "text": "O/C=C/c1ccc(Cl)cc1"},
+      {"type": "reactants", "text": "CCOC(=O)C(Br)(Br)C(=O)OCC"},
+      {"type": "reagent", "text": "Br[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccc(OC)cc1)C1CC12"},
+      {"type": "reagent", "text": "O=[N+]([O-])C"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "O[C@@H]([C@@H](Br)c1ccc(Cl)cc1)CBr"}
+    ],
+    [
+      {"type": "reactants", "text": "O/C=C/c1ccc(OS(=O)(=O)C)cc1"},
+      {"type": "reactants", "text": "CCOC(=O)C(Br)(Br)C(=O)OCC"},
+      {"type": "reagent", "text": "Br[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccc(OC)cc1)C1CC12"},
+      {"type": "reagent", "text": "O=[N+]([O-])C"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "O[C@@H]([C@@H](Br)c1ccc(OS(=O)(=O)C)cc1)CBr"}
+    ],
+    [
+      {"type": "reactants", "text": "O/C=C/c1ccc(C=C)cc1"},
+      {"type": "reactants", "text": "CCOC(=O)C(Br)(Br)C(=O)OCC"},
+      {"type": "reagent", "text": "Br[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccc(OC)cc1)C1CC12"},
+      {"type": "reagent", "text": "O=[N+]([O-])C"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "O[C@@H]([C@@H](Br)c1ccc(C=C)cc1)CBr"}
+    ]
+  ]
+}

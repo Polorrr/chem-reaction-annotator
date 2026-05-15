@@ -1,0 +1,68 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "COc1ccc(I)cc1"},
+      {"type": "reagent", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "O=S(=O)=O"},
+      {"type": "reagent", "text": "I(c1ccccc1)C(=O)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "products", "text": "COc1ccc(S(=O)(=O)c2ccccc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Clc1ccc(I)cc1"},
+      {"type": "reagent", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "O=S(=O)=O"},
+      {"type": "reagent", "text": "I(c1ccccc1)C(=O)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "products", "text": "Clc1ccc(S(=O)(=O)c2ccccc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)c1cc(I)cc(C(C)C)c1C(C)C"},
+      {"type": "reagent", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "O=S(=O)=O"},
+      {"type": "reagent", "text": "I(c1ccccc1)C(=O)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "products", "text": "CC(C)c1cc(S(=O)(=O)c2ccccc2)cc(C(C)C)c1C(C)C"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(N(C(C)C)C(C)C)c1ccccc1I"},
+      {"type": "reagent", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "O=S(=O)=O"},
+      {"type": "reagent", "text": "I(c1ccccc1)C(=O)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "products", "text": "O=C(N(C(C)C)C(C)C)c1ccccc1S(=O)(=O)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Brc1ccsc1"},
+      {"type": "reagent", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "O=S(=O)=O"},
+      {"type": "reagent", "text": "I(c1ccccc1)C(=O)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "products", "text": "c1ccc(-c2ccsc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Fc1ccncc1I"},
+      {"type": "reagent", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "O=S(=O)=O"},
+      {"type": "reagent", "text": "I(c1ccccc1)C(=O)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "products", "text": "Fc1ccncc1S(=O)(=O)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1cc(I)c(OC)cc1"},
+      {"type": "reagent", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "O=S(=O)=O"},
+      {"type": "reagent", "text": "I(c1ccccc1)C(=O)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "products", "text": "COc1cc(S(=O)(=O)c2ccccc2)c(OC)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)CI"},
+      {"type": "reagent", "text": "CCCC[Li]"},
+      {"type": "reagent", "text": "O=S(=O)=O"},
+      {"type": "reagent", "text": "I(c1ccccc1)C(=O)c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "products", "text": "CC(C)CS(=O)(=O)c1ccccc1"}
+    ]
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=S1(=O)N=C(c2ccccc2)CO1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccccc2)OC1(C)C"},
+      {"type": "reagent", "text": "[Rh+].[OH-]"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccccc1)C1CC12"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=S1(=O)NC(c2ccccc2)CO1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S1(=O)N=C(c2ccccc2)CO1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccc(OC)cc2)OC1(C)C"},
+      {"type": "reagent", "text": "[Rh+].[OH-]"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccccc1)C1CC12"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=S1(=O)NC(c2ccc(OC)cc2)CO1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S1(=O)N=C(c2ccccc2)CO1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccc(OCCCCBr)cc2)OC1(C)C"},
+      {"type": "reagent", "text": "[Rh+].[OH-]"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccccc1)C1CC12"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=S1(=O)NC(c2ccc(OCCCCBr)cc2)CO1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S1(=O)N=C(c2ccccc2)CO1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccc(N3CCOCC3)cc2)OC1(C)C"},
+      {"type": "reagent", "text": "[Rh+].[OH-]"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccccc1)C1CC12"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=S1(=O)NC(c2ccc(N3CCOCC3)cc2)CO1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S1(=O)N=C(c2ccccc2)CO1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2cccc(OC)c2)OC1(C)C"},
+      {"type": "reagent", "text": "[Rh+].[OH-]"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccccc1)C1CC12"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=S1(=O)NC(c2cccc(OC)c2)CO1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S1(=O)N=C(c2ccccc2)CO1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccc(OC)c(OC)c2)OC1(C)C"},
+      {"type": "reagent", "text": "[Rh+].[OH-]"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccccc1)C1CC12"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=S1(=O)NC(c2ccc(OC)c(OC)c2)CO1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S1(=O)N=C(CCCC)CO1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccc(OC)cc2)OC1(C)C"},
+      {"type": "reagent", "text": "[Rh+].[OH-]"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccccc1)C1CC12"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=S1(=O)NC(CCCC)(c2ccc(OC)cc2)CO1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S1(=O)N=C(C2CCCCC2)CO1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccc(OC)cc2)OC1(C)C"},
+      {"type": "reagent", "text": "[Rh+].[OH-]"},
+      {"type": "reagent", "text": "COc1ccc2c(c1)C1=C(CS1)C(c1ccccc1)C1CC12"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "time", "text": "48 h"},
+      {"type": "products", "text": "O=S1(=O)NC(C2CCCCC2)(c2ccc(OC)cc2)CO1"}
+    ]
+  ]
+}

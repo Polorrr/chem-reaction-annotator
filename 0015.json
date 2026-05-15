@@ -1,0 +1,57 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)C(F)(F)F"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "Fc1ncc(C(F)(F)F)c(=O)n1C"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)C(F)(F)F"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "Ic1ccccc1C(F)(F)F"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "Fc1ccc(C(F)(F)F)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)C(F)(F)F"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "c1ccc(I)cc1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "Fc1cccc(C(F)(F)F)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)C(F)(F)F"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "c1ccc(Br)cc1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "Fc1cccc(C(F)(F)F)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)C(F)(F)F"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "c1ccc(C#C)cc1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "Fc1ccc(C#Cc2ccccc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)C(F)(F)F"},
+      {"type": "reagent", "text": "[Cu+]Cl"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "OB(O)c1ccc(C)cc1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "Cc1ccc(C(F)(F)F)cc1"}
+    ]
+  ]
+}

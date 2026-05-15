@@ -1,0 +1,85 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(OC(=O)C(F)(F)F)OC(C)c1ccccc1"},
+      {"type": "reactants", "text": "[Zn]"},
+      {"type": "reagent", "text": "Cl[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "50 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "Cc1cc(C(c2ccccc2)C)cc(C)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(=O)C(F)(F)F)OC(C)c1ccccc1"},
+      {"type": "reactants", "text": "[Zn]"},
+      {"type": "reagent", "text": "Cl[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "C=Cc1ccccc1"},
+      {"type": "temperature", "text": "50 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "C=CC(c1ccccc1)C(C)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(=O)C(F)(F)F)OC(C)c1ccc(Br)cc1"},
+      {"type": "reactants", "text": "[Zn]"},
+      {"type": "reagent", "text": "Cl[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "50 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "Cc1cc(C(c2ccc(Br)cc2)C)cc(C)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(=O)C(F)(F)F)OC(CCCCCC)c1ccccc1"},
+      {"type": "reactants", "text": "[Zn]"},
+      {"type": "reagent", "text": "Cl[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "Fc1ccccc1"},
+      {"type": "temperature", "text": "50 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "CCCCCCC(c1ccccc1)C(c1ccccc1)F"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(=O)C(F)(F)F)OC(CCCCCCCC)c1ccccc1"},
+      {"type": "reactants", "text": "[Zn]"},
+      {"type": "reagent", "text": "Cl[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "Clc1ccccc1"},
+      {"type": "temperature", "text": "50 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "CCCCCCCCC(c1ccccc1)C(c1ccccc1)Cl"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(=O)C(F)(F)F)OC(CCCCCCCCC)c1ccccc1"},
+      {"type": "reactants", "text": "[Zn]"},
+      {"type": "reagent", "text": "Cl[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "c1ccccc1"},
+      {"type": "temperature", "text": "50 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "CCCCCCCCC(c1ccccc1)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(=O)C(F)(F)F)OC(C=C)c1ccc(Br)cc1"},
+      {"type": "reactants", "text": "[Zn]"},
+      {"type": "reagent", "text": "Cl[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "50 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "C=CC(c1ccc(Br)cc1)C(c1ccc(Br)cc1)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(=O)C(F)(F)F)OC(C=C)c1ccc(Br)cc1"},
+      {"type": "reactants", "text": "[Zn]"},
+      {"type": "reagent", "text": "Cl[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "Fc1ccccc1"},
+      {"type": "temperature", "text": "50 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "C=CC(c1ccc(Br)cc1)C(c1ccccc1)F"}
+    ],
+    [
+      {"type": "reactants", "text": "C1CCC(c2ccccc2)CC1"},
+      {"type": "reactants", "text": "[Zn]"},
+      {"type": "reagent", "text": "Cl[Ti](OC(C)C)OC(C)C"},
+      {"type": "reagent", "text": "Fc1ccccc1"},
+      {"type": "temperature", "text": "50 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "C1CCC(c2ccccc2)CC1"}
+    ]
+  ]
+}

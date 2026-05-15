@@ -1,0 +1,49 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "Cc1cc(C)c([MgCl].[Li+])cc1C"},
+      {"type": "reactants", "text": "C#Cc1ccc([C](F)(F)F)cc1.[MgCl].[Li+]"},
+      {"type": "reagent", "text": "O=N1C(C)(C)CC(C)(C)CC1(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "2.5-24 h"},
+      {"type": "products", "text": "Cc1cc(C)c(C#Cc2ccc([C](F)(F)F)cc2)cc1C"}
+    ],
+    [
+      {"type": "reactants", "text": "Cc1cc(C)c([MgCl].[Li+])cc1C"},
+      {"type": "reactants", "text": "C#CCOc1ccccc1.[MgCl].[Li+]"},
+      {"type": "reagent", "text": "O=N1C(C)(C)CC(C)(C)CC1(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "2.5-24 h"},
+      {"type": "products", "text": "COc1ccccc1C#Cc1cc(C)c(C)cc1C"}
+    ],
+    [
+      {"type": "reactants", "text": "CCc1ccccc1[MgCl].[Li+]"},
+      {"type": "reactants", "text": "C#Cc1ccccc1.[MgCl].[Li+]"},
+      {"type": "reagent", "text": "O=N1C(C)(C)CC(C)(C)CC1(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "2.5-24 h"},
+      {"type": "products", "text": "CCc1ccccc1C#Cc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "FC(F)(F)c1ccccc1[MgCl].[Li+]"},
+      {"type": "reactants", "text": "C#Cc1ccccc1.[MgCl].[Li+]"},
+      {"type": "reagent", "text": "O=N1C(C)(C)CC(C)(C)CC1(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "2.5-24 h"},
+      {"type": "products", "text": "FC(F)(F)c1ccccc1C#Cc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Cc1cc(C)c([MgCl].[Li+])cc1C"},
+      {"type": "reactants", "text": "C#Cc1ccncc1.[MgCl].[Li+]"},
+      {"type": "reagent", "text": "O=N1C(C)(C)CC(C)(C)CC1(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "reflux"},
+      {"type": "time", "text": "2.5-24 h"},
+      {"type": "products", "text": "Cc1cc(C)c(C#Cc2ccncc2)cc1C"}
+    ]
+  ]
+}

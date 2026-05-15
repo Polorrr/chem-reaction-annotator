@@ -1,0 +1,48 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C=C=CCCCC"},
+      {"type": "reactants", "text": "Sc1ccccc1"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[CH2]=[CH2].[CH2]=[CH2]"},
+      {"type": "reagent", "text": "CC1(C)OC2=C(c3ccc(F)cc3)C1=C(c1ccc(F)cc1)C2=[O-]"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "reagent", "text": "OO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-15 °C"},
+      {"type": "products", "text": "O=S(=O)(c1ccccc1)[C@@H](C=C)CCCCC"}
+    ],
+    [
+      {"type": "reactants", "text": "C=C=CCCCC"},
+      {"type": "reactants", "text": "Cc1ccccc1S"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[CH2]=[CH2].[CH2]=[CH2]"},
+      {"type": "reagent", "text": "CC1(C)OC2=C(c3ccc(F)cc3)C1=C(c1ccc(F)cc1)C2=[O-]"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "reagent", "text": "OO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-15 °C"},
+      {"type": "products", "text": "O=S(=O)(c1ccccc1C)[C@@H](C=C)CCCCC"}
+    ],
+    [
+      {"type": "reactants", "text": "C=C=CCCCC"},
+      {"type": "reactants", "text": "Clc1ccc(S)cc1"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[CH2]=[CH2].[CH2]=[CH2]"},
+      {"type": "reagent", "text": "CC1(C)OC2=C(c3ccc(F)cc3)C1=C(c1ccc(F)cc1)C2=[O-]"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "reagent", "text": "OO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-15 °C"},
+      {"type": "products", "text": "O=S(=O)(c1ccc(Cl)cc1)[C@@H](C=C)CCCCC"}
+    ],
+    [
+      {"type": "reactants", "text": "C=C=CCCCCC"},
+      {"type": "reactants", "text": "c1ccc2ccccc2S"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[CH2]=[CH2].[CH2]=[CH2]"},
+      {"type": "reagent", "text": "CC1(C)OC2=C(c3ccc(F)cc3)C1=C(c1ccc(F)cc1)C2=[O-]"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "reagent", "text": "OO"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-15 °C"},
+      {"type": "products", "text": "O=S(=O)(c1ccc2ccccc2c1)[C@@H](C=C)CCCCCC"}
+    ]
+  ]
+}

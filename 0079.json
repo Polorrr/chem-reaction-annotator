@@ -1,0 +1,54 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C=C(C)c1ccccc1"},
+      {"type": "reactants", "text": "C1(C)(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "CC(C)(C)OC(=O)C(c1ccccc1)C1=CC=CC=C1"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "temperature", "text": "23 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "[C@@H](C)(c1ccccc1)C(C)B1OC(C)(C)C(C)(C)O1"}
+    ],
+    [
+      {"type": "reactants", "text": "C=C(C)c1ccc(F)cc1"},
+      {"type": "reactants", "text": "C1(C)(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "CC(C)(C)OC(=O)C(c1ccccc1)C1=CC=CC=C1"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "temperature", "text": "23 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "[C@@H](C)(c1ccc(F)cc1)C(C)B1OC(C)(C)C(C)(C)O1"}
+    ],
+    [
+      {"type": "reactants", "text": "C=C(C)c1ccc(Br)cc1"},
+      {"type": "reactants", "text": "C1(C)(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "CC(C)(C)OC(=O)C(c1ccccc1)C1=CC=CC=C1"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "temperature", "text": "23 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "[C@@H](C)(c1ccc(Br)cc1)C(C)B1OC(C)(C)C(C)(C)O1"}
+    ],
+    [
+      {"type": "reactants", "text": "C=C(C)c1ccc(OC)cc1"},
+      {"type": "reactants", "text": "C1(C)(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "CC(C)(C)OC(=O)C(c1ccccc1)C1=CC=CC=C1"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "temperature", "text": "23 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "[C@@H](C)(c1ccc(OC)cc1)C(C)B1OC(C)(C)C(C)(C)O1"}
+    ],
+    [
+      {"type": "reactants", "text": "C=C(CC)c1ccccc1"},
+      {"type": "reactants", "text": "C1(C)(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "CC(C)(C)OC(=O)C(c1ccccc1)C1=CC=CC=C1"},
+      {"type": "reagent", "text": "CCCCCC"},
+      {"type": "temperature", "text": "23 °C"},
+      {"type": "time", "text": "18 h"},
+      {"type": "products", "text": "[C@@H](CC)(c1ccccc1)C(CC)B1OC(C)(C)C(C)(C)O1"}
+    ]
+  ]
+}

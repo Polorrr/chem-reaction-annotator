@@ -1,0 +1,52 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C#CC(=O)OCc1ccccc1C#CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Co].[C-]1C=C(C)C(C)=C1.[C-]1C=C(C)C(C)=C1"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "4-72 h"},
+      {"type": "products", "text": "O=C1OCc2ccccc2-c2cc(C#N)nc2-c2ccccc2O1"}
+    ],
+    [
+      {"type": "reactants", "text": "C#Cc1ccc2ccccc2c1C#CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Co].[C-]1C=C(C)C(C)=C1.[C-]1C=C(C)C(C)=C1"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "4-72 h"},
+      {"type": "products", "text": "O=C1OCc2ccccc2-c2cc(C#N)nc2-c2ccc3ccccc3c2"}
+    ],
+    [
+      {"type": "reactants", "text": "C#Cc1ccc2ccccc2c1C#CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Co].[C-]1C=C(C)C(C)=C1.[C-]1C=C(C)C(C)=C1"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "4-72 h"},
+      {"type": "products", "text": "c1ccc2cc3cc4ccccc4cc3n2c1"}
+    ],
+    [
+      {"type": "reactants", "text": "CCCC#Cc1ccc2ccccc2c1"},
+      {"type": "reagent", "text": "[Co].[C-]1C=C(C)C(C)=C1.[C-]1C=C(C)C(C)=C1"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "4-72 h"},
+      {"type": "products", "text": "CCCCc1ccc2cc3ccccc3cc2n1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)C#Cc1ccc2ccccc2c1"},
+      {"type": "reagent", "text": "[Co].[C-]1C=C(C)C(C)=C1.[C-]1C=C(C)C(C)=C1"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "4-72 h"},
+      {"type": "products", "text": "CC(C)Cc1ccc2cc3ccccc3cc2n1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=C)c1ccc2ccccc2c1"},
+      {"type": "reagent", "text": "[Co].[C-]1C=C(C)C(C)=C1.[C-]1C=C(C)C(C)=C1"},
+      {"type": "reagent", "text": "Cc1ccccc1C"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "4-72 h"},
+      {"type": "products", "text": "C=Cc1ccc2cc3ccccc3cc2n1"}
+    ]
+  ]
+}

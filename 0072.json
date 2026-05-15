@@ -1,0 +1,28 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(c1ccsc1)C(=O)c1ccsc1"},
+      {"type": "reactants", "text": "OB(O)c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[CH2]=[CH2].[CH2]=[CH2]"},
+      {"type": "reagent", "text": "O=S(=O)(NC(C)C)C(c1ccccc1)C=Cc1ccccc1"},
+      {"type": "reagent", "text": "[K+].[OH-]"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "50 °C"},
+      {"type": "time", "text": "3-12 h"},
+      {"type": "products", "text": "O=C(c1ccsc1)C(O)(c1ccc(OC)cc1)c1ccsc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1c2cc(Cl)ccc2N(Cc2ccccc2)C1=O"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[CH2]=[CH2].[CH2]=[CH2]"},
+      {"type": "reagent", "text": "O=S(=O)(NC(C)C)C(c1ccccc1)C=Cc1ccccc1"},
+      {"type": "reagent", "text": "[K+].[OH-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "2 h"},
+      {"type": "products", "text": "O=C1c2cc(Cl)ccc2N(Cc2ccccc2)[C@@]1(O)c1ccccc1"}
+    ]
+  ]
+}

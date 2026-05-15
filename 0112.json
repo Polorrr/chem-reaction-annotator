@@ -1,0 +1,85 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C(=Nc1ccccc1)(c1ccc(F)cc1)C"},
+      {"type": "reactants", "text": "BrCC/C=C(C)C"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CN1CCN(C)C1=O"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "14 h"},
+      {"type": "products", "text": "CC(C)=CCC[C@H](c1ccc(F)cc1)NCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Nc1ccc(OC)cc1)(c1ccccc1)C"},
+      {"type": "reactants", "text": "BrCC/C=C(C)C"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CN1CCN(C)C1=O"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "14 h"},
+      {"type": "products", "text": "CC(C)=CCC[C@H](c1ccccc1)Nc1ccc(OC)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Nc1ccc(Br)cc1)(c1ccccc1)C"},
+      {"type": "reactants", "text": "BrCC/C=C(C)C"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CN1CCN(C)C1=O"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "14 h"},
+      {"type": "products", "text": "CC(C)=CCC[C@H](c1ccccc1)Nc1ccc(Br)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Nc1ccccc1)C1CC1"},
+      {"type": "reactants", "text": "BrCC/C=C(C)C"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CN1CCN(C)C1=O"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "14 h"},
+      {"type": "products", "text": "CC(C)=CCC[C@H](C1CC1)Nc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Nc1ccccc1)c1ccsc1"},
+      {"type": "reactants", "text": "BrCC/C=C(C)C"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CN1CCN(C)C1=O"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "14 h"},
+      {"type": "products", "text": "CC(C)=CCC[C@H](c1ccsc1)Nc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=NC(C)(C)C)(c1ccccc1)C"},
+      {"type": "reactants", "text": "BrCC/C=C(C)C"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CN1CCN(C)C1=O"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "14 h"},
+      {"type": "products", "text": "CC(C)=CCC[C@H](c1ccccc1)NC(C)(C)C"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=NCCc1ccccc1)(c1ccccc1)C"},
+      {"type": "reactants", "text": "BrCC/C=C(C)C"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CN1CCN(C)C1=O"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "14 h"},
+      {"type": "products", "text": "CC(C)=CCC[C@H](c1ccccc1)NCCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Nc1ccccc1)(c1ccc(Cl)cc1)C"},
+      {"type": "reactants", "text": "BrCC/C=C(C)C"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CN1CCN(C)C1=O"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "14 h"},
+      {"type": "products", "text": "CC(C)=CCC[C@@](C)(c1ccc(Cl)cc1)Nc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Nc1ccccc1)(c1ccc(OC)cc1)C"},
+      {"type": "reactants", "text": "BrCC/C=C(C)C"},
+      {"type": "reagent", "text": "[Zn]"},
+      {"type": "reagent", "text": "CN1CCN(C)C1=O"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "14 h"},
+      {"type": "products", "text": "CC(C)=CCC[C@@](C)(c1ccc(OC)cc1)Nc1ccccc1"}
+    ]
+  ]
+}

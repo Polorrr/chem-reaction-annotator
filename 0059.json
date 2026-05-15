@@ -1,0 +1,13 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "Ic1ccc(C(=O)OC)cc1"},
+      {"type": "reactants", "text": "FC(F)CI"},
+      {"type": "reagent", "text": "[Cu]"},
+      {"type": "reagent", "text": "CS(C)=O"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "55 h"},
+      {"type": "products", "text": "COC(=O)c1ccc(CC(F)(F)F)cc1"}
+    ]
+  ]
+}

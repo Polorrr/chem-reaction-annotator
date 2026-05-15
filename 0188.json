@@ -1,0 +1,26 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C=C=CC=O"},
+      {"type": "reactants", "text": "OB(O)C=Cc1ccccc1"},
+      {"type": "reactants", "text": "CC#CC"},
+      {"type": "reagent", "text": "[Ni]"},
+      {"type": "reagent", "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"},
+      {"type": "reagent", "text": "[Cs+].[F-]"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "products", "text": "O=C(CC=C(Cc1ccccc1)CC)CC"}
+    ],
+    [
+      {"type": "reactants", "text": "C=C=CC=O"},
+      {"type": "reactants", "text": "OB(O)C=Cc1ccc(OC)cc1"},
+      {"type": "reactants", "text": "CC#CC"},
+      {"type": "reagent", "text": "[Ni]"},
+      {"type": "reagent", "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"},
+      {"type": "reagent", "text": "[Cs+].[F-]"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "products", "text": "O=C(CC=C(Cc1ccc(OC)cc1)OC)CC"}
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "CC1(C)CN=CC1c1ccccc1"},
+      {"type": "reactants", "text": "O=C/C=C/[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ti+4]"},
+      {"type": "reagent", "text": "C1CCC[CH-]1.[Mg+].[Cl-]"},
+      {"type": "products", "text": "O=C1CCC(c1ccccc1)CC1=C/[C@H]([Si](C)(C)C)C1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC1(C)CN=CC1c1ccccc1"},
+      {"type": "reactants", "text": "O=C/C=C/[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ti+4]"},
+      {"type": "reagent", "text": "C1CCC[CH-]1.[Mg+].[Cl-]"},
+      {"type": "products", "text": "O=C1CCC(c1ccccc1)CC1=C/[C@H]([Si](C)(C)C)C1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC1(C)CN=CC1C"},
+      {"type": "reactants", "text": "O=C/C=C/[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ti+4]"},
+      {"type": "reagent", "text": "C1CCC[CH-]1.[Mg+].[Cl-]"},
+      {"type": "products", "text": "O=C1CCC(C)CC1=C/[C@H]([Si](C)(C)C)C1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=Cc1ccc2c(c1)OC(C)(C)C2"},
+      {"type": "reactants", "text": "O=C/C=C/[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ti+4]"},
+      {"type": "reagent", "text": "C1CCC[CH-]1.[Mg+].[Cl-]"},
+      {"type": "products", "text": "O=C1CCC(c1cc2ccc(OC(C)(C)C)cc2)CC1=C/[C@H]([Si](C)(C)C)C1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=Cc1ccc(-c2ccco2)cc1"},
+      {"type": "reactants", "text": "O=C/C=C/[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ti+4]"},
+      {"type": "reagent", "text": "C1CCC[CH-]1.[Mg+].[Cl-]"},
+      {"type": "products", "text": "O=C1CCC(c1cc(-c2ccco2)cc1)CC1=C/[C@H]([Si](C)(C)C)C1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=Cc1ccc(-c2ccsc1)cc1"},
+      {"type": "reactants", "text": "O=C/C=C/[Si](C)(C)C"},
+      {"type": "reagent", "text": "[Ti+4]"},
+      {"type": "reagent", "text": "C1CCC[CH-]1.[Mg+].[Cl-]"},
+      {"type": "products", "text": "O=C1CCC(c1cc(-c2ccsc1)cc1)CC1=C/[C@H]([Si](C)(C)C)C1"}
+    ]
+  ]
+}

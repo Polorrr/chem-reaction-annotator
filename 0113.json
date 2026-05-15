@@ -1,0 +1,54 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C/C=C(C)c1ccccc1"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=CC(=C/c1ccccc1)C(C)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C/C=C(C)c1ccc(OC)cc1"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=CC(=C/c1ccc(OC)cc1)C(C)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C/C=C(C)c1ccc(N(C)C)cc1"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=CC(=C/c1ccc(N(C)C)cc1)C(C)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COC(=O)/C=C(C)c1ccc(OC)cc1"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "COC(=O)/C=C(c1ccc(OC)cc1)C(C)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COC(=O)/C=C(C)c1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "COC(=O)/C=C(c1ccc2ccccc2c1)C(C)c1ccccc1"}
+    ]
+  ]
+}

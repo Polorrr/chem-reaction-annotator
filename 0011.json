@@ -1,0 +1,92 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=c1cc(O)c(O)cc1"},
+      {"type": "reactants", "text": "Ic1ccc(C)cc1"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "130-150 °C"},
+      {"type": "time", "text": "16 h"},
+      {"type": "products", "text": "O=c1cc(O)c(Oc2ccc(C)cc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=c1cc(O)c(O)cc1"},
+      {"type": "reactants", "text": "Ic1ccc(C(F)(F)F)cc1"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "130-150 °C"},
+      {"type": "time", "text": "16 h"},
+      {"type": "products", "text": "O=c1cc(O)c(Oc2ccc(C(F)(F)F)cc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=c1cc(O)c(O)cc1"},
+      {"type": "reactants", "text": "Ic1ccc(Br)cc1"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "130-150 °C"},
+      {"type": "time", "text": "16 h"},
+      {"type": "products", "text": "O=c1cc(O)c(Oc2ccc(Br)cc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=c1cc(O)c(O)cc1"},
+      {"type": "reactants", "text": "Ic1ccc(NC(=O)C)cc1"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "130-150 °C"},
+      {"type": "time", "text": "16 h"},
+      {"type": "products", "text": "O=c1cc(O)c(Oc2ccc(NC(=O)C)cc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=c1cc(O)c(O)cc1"},
+      {"type": "reactants", "text": "Ic1ccc(C=O)cc1"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "130-150 °C"},
+      {"type": "time", "text": "16 h"},
+      {"type": "products", "text": "O=c1cc(O)c(Oc2ccc(C=O)cc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=c1cc(O)c(O)cc1"},
+      {"type": "reactants", "text": "Ic1cc(N(=O)=O)cc(N(=O)=O)c1"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "130-150 °C"},
+      {"type": "time", "text": "16 h"},
+      {"type": "products", "text": "O=c1cc(O)c(Oc2cc(N(=O)=O)cc(N(=O)=O)c2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=c1cc(O)c(O)cc1"},
+      {"type": "reactants", "text": "Ic1ccc2c(c1)N(C(=O)c1ccccc1)S2(=O)=O"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "130-150 °C"},
+      {"type": "time", "text": "16 h"},
+      {"type": "products", "text": "O=c1cc(O)c(Oc2ccc3c(c2)N(C(=O)c2ccccc2)S3(=O)=O)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=c1cc(O)c(O)cc1"},
+      {"type": "reactants", "text": "Ic1nc(Cl)cc(Cl)c1"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "130-150 °C"},
+      {"type": "time", "text": "16 h"},
+      {"type": "products", "text": "O=c1cc(O)c(Oc2nc(Cl)cc(Cl)c2)cc1"}
+    ]
+  ]
+}

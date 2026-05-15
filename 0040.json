@@ -1,0 +1,40 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(OC(C)(C)C)N1CC2=CC=CC=C21"},
+      {"type": "reactants", "text": "C#C[Si](CCC)(CCC)CCC"},
+      {"type": "reagent", "text": "[Rh+].[CH2]=[CH2].[CH2]=[CH2].[O-]C(=O)C"},
+      {"type": "reagent", "text": "O=P(c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1)(c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1)c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC1CC2=CC=CC=C2[C@@H]1C#C[Si](CCC)(CCC)CCC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(C)(C)C)N1CC2=C(C)CC=CC=21"},
+      {"type": "reactants", "text": "C#C[Si](CCC)(CCC)CCC"},
+      {"type": "reagent", "text": "[Rh+].[CH2]=[CH2].[CH2]=[CH2].[O-]C(=O)C"},
+      {"type": "reagent", "text": "O=P(c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1)(c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1)c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC1CC2=C(C)CC=CC=2[C@@H]1C#C[Si](CCC)(CCC)CCC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(C)(C)C)N1CC2=CC(F)CC=C21"},
+      {"type": "reactants", "text": "C#C[Si](CCC)(CCC)CCC"},
+      {"type": "reagent", "text": "[Rh+].[CH2]=[CH2].[CH2]=[CH2].[O-]C(=O)C"},
+      {"type": "reagent", "text": "O=P(c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1)(c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1)c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC1CC2=CC(F)CC=C2[C@@H]1C#C[Si](CCC)(CCC)CCC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(C)(C)C)N1CC2=C(Br)CC=CC21"},
+      {"type": "reactants", "text": "C#C[Si](CCC)(CCC)CCC"},
+      {"type": "reagent", "text": "[Rh+].[CH2]=[CH2].[CH2]=[CH2].[O-]C(=O)C"},
+      {"type": "reagent", "text": "O=P(c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1)(c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1)c1ccc([C](C)(C)C)cc1-c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "products", "text": "CC(C)(C)OC(=O)NC1CC2=C(Br)CC=CC2[C@@H]1C#C[Si](CCC)(CCC)CCC"}
+    ]
+  ]
+}

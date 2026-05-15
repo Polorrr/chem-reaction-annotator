@@ -1,0 +1,46 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C1c2ccccc2N(C)C1=O"},
+      {"type": "reactants", "text": "O=CC=C"},
+      {"type": "reagent", "text": "O=c1ccn2c(c1)[C@@]12[C@H]([C@@H]1O)C2"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-20 °C"},
+      {"type": "time", "text": "4 d"},
+      {"type": "products", "text": "O=C1c2ccccc2N(C)[C@]1(O)/C(=C)C=O"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1c2ccccc2N(Cc2ccccc2)C1=O"},
+      {"type": "reactants", "text": "O=CC=C"},
+      {"type": "reagent", "text": "O=c1ccn2c(c1)[C@@]12[C@H]([C@@H]1O)C2"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-20 °C"},
+      {"type": "time", "text": "4 d"},
+      {"type": "products", "text": "O=C1c2ccccc2N(Cc2ccccc2)[C@]1(O)/C(=C)C=O"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc2c(c1)[C@]1(C(=O)N(C)C1=O)O"},
+      {"type": "reactants", "text": "O=CC=C"},
+      {"type": "reagent", "text": "O=c1ccn2c(c1)[C@@]12[C@H]([C@@H]1O)C2"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-20 °C"},
+      {"type": "time", "text": "4 d"},
+      {"type": "products", "text": "COc1ccc2c(c1)[C@]1(C(=O)N(C)C1=O)(O)/C(=C)C=O"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc2c(c1)[C@]1(C(=O)NC1=O)(O)/C(=C)C=O"},
+      {"type": "reagent", "text": "[Na+]B[H]"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "products", "text": "COc1ccc2c(c1)[C@]1(C(=O)NC1=O)(O)C(/C)=C/O"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1c2ccccc2N(C)[C@]1(O)/C(=C)C=O"},
+      {"type": "reagent", "text": "[Li+][AlH4-]"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=C1c2ccccc2N(C)[C@]1(O)C1CO1"}
+    ]
+  ]
+}

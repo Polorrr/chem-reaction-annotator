@@ -1,0 +1,40 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C/C=C/c1ccccc1"},
+      {"type": "reactants", "text": "CN(Cc1ccccc1)Cc1ccccc1"},
+      {"type": "reagent", "text": "Cn1cnc2c1c1ccccc1[n+]2-c1ccc([N+](=O)[O-])cc1.[B-]F(F)(F)F"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "products", "text": "CO/C(=C\\CN(Cc1ccccc1)Cc1ccccc1)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C/C=C/c1ccncc1"},
+      {"type": "reactants", "text": "CN(Cc1ccccc1)Cc1ccccc1"},
+      {"type": "reagent", "text": "Cn1cnc2c1c1ccccc1[n+]2-c1ccc([N+](=O)[O-])cc1.[B-]F(F)(F)F"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "products", "text": "CO/C(=C\\CN(Cc1ccccc1)Cc1ccccc1)c1ccncc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C/C=C/c1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "CN(Cc1ccccc1)Cc1ccccc1"},
+      {"type": "reagent", "text": "Cn1cnc2c1c1ccccc1[n+]2-c1ccc([N+](=O)[O-])cc1.[B-]F(F)(F)F"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "products", "text": "CO/C(=C\\CN(Cc1ccccc1)Cc1ccccc1)c1ccc2ccccc2c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C/C=C/C(C)C"},
+      {"type": "reactants", "text": "CN(Cc1ccccc1)Cc1ccccc1"},
+      {"type": "reagent", "text": "Cn1cnc2c1c1ccccc1[n+]2-c1ccc([N+](=O)[O-])cc1.[B-]F(F)(F)F"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "products", "text": "CO/C(=C\\CN(Cc1ccccc1)Cc1ccccc1)/C(C)C"}
+    ]
+  ]
+}

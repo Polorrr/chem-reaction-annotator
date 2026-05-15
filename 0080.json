@@ -1,0 +1,40 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)[C@@H](C)Cl"},
+      {"type": "reactants", "text": "CN(C)c1ccc([Mg+].[Br-])cc1"},
+      {"type": "reagent", "text": "[Fe+3]"},
+      {"type": "reagent", "text": "C[P+](C)(C1=CC=CC=C1P(C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "products", "text": "CC(C)(C)OC(=O)[C@@H](C)c1ccc(N(C)C)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)[C@@H](CC)Cl"},
+      {"type": "reactants", "text": "Fc1ccc([Mg+].[Br-])cc1"},
+      {"type": "reagent", "text": "[Fe+3]"},
+      {"type": "reagent", "text": "C[P+](C)(C1=CC=CC=C1P(C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "products", "text": "CC(C)(C)OC(=O)[C@@H](CC)c1ccc(F)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)[C@@H](COc1ccccc1)Cl"},
+      {"type": "reactants", "text": "c1ccc([Mg+].[Br-])cc1"},
+      {"type": "reagent", "text": "[Fe+3]"},
+      {"type": "reagent", "text": "C[P+](C)(C1=CC=CC=C1P(C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "products", "text": "CC(C)(C)OC(=O)[C@@H](COc1ccccc1)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(O)[C@@H](c1ccc(-c2ccccc2)cc1)C"},
+      {"type": "reactants", "text": "c1ccc([Mg+].[Br-])cc1"},
+      {"type": "reagent", "text": "[Fe+3]"},
+      {"type": "reagent", "text": "C[P+](C)(C1=CC=CC=C1P(C)C(C)(C)C)C(C)(C)C"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "products", "text": "O=C(O)[C@@H](c1ccc(-c2ccccc2)cc1)C"}
+    ]
+  ]
+}

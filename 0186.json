@@ -1,0 +1,28 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C=CC=O"},
+      {"type": "reactants", "text": "C=C(C=O)OC"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "OOC(C)(C)C"},
+      {"type": "reagent", "text": "OC(=O)c1cc(P(c2ccccc2)c2ccccc2)cc(P(c2ccccc2)c2ccccc2)c1C"},
+      {"type": "reagent", "text": "CC(=O)OCC"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "10 h"},
+      {"type": "other conditions", "text": "O2"},
+      {"type": "products", "text": "O=CC(C=O)CC=O"}
+    ],
+    [
+      {"type": "reactants", "text": "C=CC=O"},
+      {"type": "reactants", "text": "C=C(C=O)N1CCCC1"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "OOC(C)(C)C"},
+      {"type": "reagent", "text": "OC(=O)c1cc(P(c2ccccc2)c2ccccc2)cc(P(c2ccccc2)c2ccccc2)c1C"},
+      {"type": "reagent", "text": "CC(=O)OCC"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "time", "text": "10 h"},
+      {"type": "other conditions", "text": "O2"},
+      {"type": "products", "text": "O=CC(C=O)CC(=O)N1CCCC1"}
+    ]
+  ]
+}

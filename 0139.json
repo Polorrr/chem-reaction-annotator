@@ -1,0 +1,82 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(CC(=O)OCC)c1ccc(C)cc1"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "P(c1ccc([C](C)(C)C)cc1-c1ccc([C](C)(C)C)cc1)c1ccc(-c2ccnc(C)c2)cc1"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "other conditions", "text": "H2 (8 atm), S/C = 1000"},
+      {"type": "products", "text": "CC(=O)OC[C@@H](O)c1ccc(C)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(CC(=O)OCC)c1ccc(Br)cc1"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "P(c1ccc([C](C)(C)C)cc1-c1ccc([C](C)(C)C)cc1)c1ccc(-c2ccnc(C)c2)cc1"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "other conditions", "text": "H2 (8 atm), S/C = 1000"},
+      {"type": "products", "text": "CC(=O)OC[C@@H](O)c1ccc(Br)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(CC(=O)OCC)c1cccc(C)c1"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "P(c1ccc([C](C)(C)C)cc1-c1ccc([C](C)(C)C)cc1)c1ccc(-c2ccnc(C)c2)cc1"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "other conditions", "text": "H2 (8 atm), S/C = 1000"},
+      {"type": "products", "text": "CC(=O)OC[C@@H](O)c1cccc(C)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(CC(=O)OCC)c1cccc(OC)c1"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "P(c1ccc([C](C)(C)C)cc1-c1ccc([C](C)(C)C)cc1)c1ccc(-c2ccnc(C)c2)cc1"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "other conditions", "text": "H2 (8 atm), S/C = 1000"},
+      {"type": "products", "text": "CC(=O)OC[C@@H](O)c1cccc(OC)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(CC(=O)OCC)C(C)C"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "P(c1ccc([C](C)(C)C)cc1-c1ccc([C](C)(C)C)cc1)c1ccc(-c2ccnc(C)c2)cc1"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "other conditions", "text": "H2 (8 atm), S/C = 1000"},
+      {"type": "products", "text": "CC(=O)OC[C@H](C(C)C)O"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(CC(=O)NC)c1ccccc1"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "P(c1ccc([C](C)(C)C)cc1-c1ccc([C](C)(C)C)cc1)c1ccc(-c2ccnc(C)c2)cc1"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "other conditions", "text": "H2 (15 atm), S/C = 1000"},
+      {"type": "products", "text": "NC(=O)C[C@@H](O)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(CC(=O)NC)c1ccccc1"},
+      {"type": "reactants", "text": "[H][H]"},
+      {"type": "reagent", "text": "[Ir]"},
+      {"type": "reagent", "text": "P(c1ccc([C](C)(C)C)cc1-c1ccc([C](C)(C)C)cc1)c1ccc(-c2ccnc(C)c2)cc1"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "other conditions", "text": "H2 (8 atm), S/C = 1000"},
+      {"type": "products", "text": "CC(=O)OC[C@@H](O)c1ccccc1"}
+    ]
+  ]
+}

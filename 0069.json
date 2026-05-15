@@ -1,0 +1,28 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "CC(=O)CC"},
+      {"type": "reactants", "text": "O=Cc1ccc([N+](=O)[O-])cc1"},
+      {"type": "reagent", "text": "N[C@@H]1C[C@H]2C[C@H]1N2"},
+      {"type": "reagent", "text": "O=CO"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "products", "text": "CC(=O)C[C@@](O)(c1ccc([N+](=O)[O-])cc1)C"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(=O)CC"},
+      {"type": "reactants", "text": "O=C(c1ccccc1)P(=O)(OC)OC"},
+      {"type": "reagent", "text": "N[C@@H]1C[C@H]2C[C@H]1N2"},
+      {"type": "reagent", "text": "O=CO"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "products", "text": "CC(=O)C[C@@](O)(c1ccccc1)P(=O)(OC)OC"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(=O)CC"},
+      {"type": "reactants", "text": "COC(=O)C(=O)c1ccc(F)cc1"},
+      {"type": "reagent", "text": "N[C@@H]1C[C@H]2C[C@H]1N2"},
+      {"type": "reagent", "text": "O=CO"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "products", "text": "CC(=O)C[C@@](O)(C(=O)OC)c1ccc(F)cc1"}
+    ]
+  ]
+}

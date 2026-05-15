@@ -1,0 +1,76 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "COc1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccc(N3CCCC3)cc2)OC1(C)C"},
+      {"type": "reagent", "text": "[Ni]"},
+      {"type": "reagent", "text": "C1CCN2CCN2CC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "[Cs+].[F-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "c1ccc2ccccc2c1-c1ccc(N2CCCC2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2csc(-c3ccccc3)c2)OC1(C)C"},
+      {"type": "reagent", "text": "[Ni]"},
+      {"type": "reagent", "text": "C1CCN2CCN2CC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "[Cs+].[F-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "c1ccc2ccccc2c1-c1csc(-c2ccccc2)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc2ccncc2c1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccc(C)cc2)OC1(C)C"},
+      {"type": "reagent", "text": "[Ni]"},
+      {"type": "reagent", "text": "C1CCN2CCN2CC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "[Cs+].[F-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "c1ccc2ccncc2c1-c1ccc(C)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(NC(C)(C)C)c1ccc(OC)cc1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccc(C)cc2)OC1(C)C"},
+      {"type": "reagent", "text": "[Ni]"},
+      {"type": "reagent", "text": "C1CCN2CCN2CC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "[Cs+].[F-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "O=C(NC(C)(C)C)c1ccc(-c2ccc(C)cc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc2ccncc2c1"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccc(C)cc2)OC1(C)C"},
+      {"type": "reagent", "text": "[Ni]"},
+      {"type": "reagent", "text": "C1CCN2CCN2CC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "[Cs+].[F-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "c1ccc2ccncc2c1-c1ccc(C)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Cc1ccc2c(c1)C1=CC=CC=C1N2C"},
+      {"type": "reactants", "text": "CC1(C)OB(c2ccc(C)cc2)OC1(C)C"},
+      {"type": "reagent", "text": "[Ni]"},
+      {"type": "reagent", "text": "C1CCN2CCN2CC1"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "[Cs+].[F-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "120 °C"},
+      {"type": "time", "text": "12 h"},
+      {"type": "products", "text": "c1ccc2c(c1)C1=CC=CC=C1N2C"}
+    ]
+  ]
+}

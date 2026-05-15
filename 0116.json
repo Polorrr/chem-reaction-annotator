@@ -1,0 +1,64 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "CCCCC(=NOP(=O)(C(C)(C)C)C(C)(C)C)C(=C)C"},
+      {"type": "reactants", "text": "C=CC(=O)OCC"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "products", "text": "CCCCc1ccnc(C)c1C(=O)OCC"}
+    ],
+    [
+      {"type": "reactants", "text": "CCCCC(=NOP(=O)(C(C)(C)C)C(C)(C)C)C(=C)C"},
+      {"type": "reactants", "text": "C=CC(=O)Cl"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "products", "text": "CCCCc1ccnc(C)c1C(=O)Cl"}
+    ],
+    [
+      {"type": "reactants", "text": "CCCCC(=NOP(=O)(C(C)(C)C)C(C)(C)C)C(=C)C"},
+      {"type": "reactants", "text": "C=CC(=O)N(C)C"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "products", "text": "CCCCc1ccnc(C)c1C(=O)N(C)C"}
+    ],
+    [
+      {"type": "reactants", "text": "CCCCC(=NOP(=O)(C(C)(C)C)C(C)(C)C)C(=C)C"},
+      {"type": "reactants", "text": "C=Cc1ccc(OC)cc1"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "products", "text": "CCCCc1ccnc(-c2ccc(OC)cc2)c1C"}
+    ],
+    [
+      {"type": "reactants", "text": "CCCCC(=NOP(=O)(C(C)(C)C)C(C)(C)C)C(=C)C"},
+      {"type": "reactants", "text": "C=Cc1ccc(Br)cc1"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "products", "text": "CCCCc1ccnc(-c2ccc(Br)cc2)c1C"}
+    ],
+    [
+      {"type": "reactants", "text": "CCCCC(=NOP(=O)(C(C)(C)C)C(C)(C)C)C(=C)C"},
+      {"type": "reactants", "text": "C=Cc1ccccc1OC"},
+      {"type": "reagent", "text": "[Rh+].[Cl-].[C-]1(C)C=C(C)C(C)=C1C.[C-]1(C)C=C(C)C(C)=C1C"},
+      {"type": "reagent", "text": "[Ag+].[O-]C(=O)C"},
+      {"type": "reagent", "text": "ClCCCl"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "products", "text": "CCCCc1ccnc(COc2ccccc2)c1C"}
+    ]
+  ]
+}

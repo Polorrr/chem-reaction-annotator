@@ -1,0 +1,100 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C(=Cc1ccccc1)C(=O)O"},
+      {"type": "reactants", "text": "C(=Cc1ccccc1)C(=O)O"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "[Cu+2].[Br-].[Br-]"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "90 °C"},
+      {"type": "other conditions", "text": "O2 or air"},
+      {"type": "products", "text": "O=C1OC(c2ccccc2)=CC(c2ccccc2)=C1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Cc1cccs1)C(=O)O"},
+      {"type": "reactants", "text": "C(=Cc1cccs1)C(=O)O"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "[Cu+2].[Br-].[Br-]"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "90 °C"},
+      {"type": "other conditions", "text": "O2 or air"},
+      {"type": "products", "text": "O=C1OC(c2cccs2)=CC(c2cccs2)=C1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Cc1ccccc1)C(=O)O"},
+      {"type": "reactants", "text": "C(=Cc1ccc(C(=O)C)cc1)C(=O)O"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "[Cu+2].[Br-].[Br-]"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "90 °C"},
+      {"type": "other conditions", "text": "O2 or air"},
+      {"type": "products", "text": "O=C1OC(c2ccccc2)=CC(c2ccc(C(=O)C)cc2)=C1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Cc1ccc(C(=O)c2ccccc2)cc1)C(=O)O"},
+      {"type": "reactants", "text": "C(=Cc1ccccc1)C(=O)O"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "[Cu+2].[Br-].[Br-]"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "90 °C"},
+      {"type": "other conditions", "text": "O2 or air"},
+      {"type": "products", "text": "O=C1OC(c2ccc(C(=O)c3ccccc3)cc2)=CC(c2ccccc2)=C1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Cc1ccccc1)C(=O)NC"},
+      {"type": "reactants", "text": "C(=Cc1ccccc1)C(=O)NC"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "[Cu+2].[Br-].[Br-]"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "90 °C"},
+      {"type": "other conditions", "text": "O2 or air"},
+      {"type": "products", "text": "O=C1NC(c2ccccc2)=CC(c2ccccc2)=C1"}
+    ],
+    [
+      {"type": "reactants", "text": "C(=Cc1ccccc1)C(=O)OC"},
+      {"type": "reactants", "text": "C(=Cc1ccccc1)C(=O)OC"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "[Cu+2].[Br-].[Br-]"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "90 °C"},
+      {"type": "other conditions", "text": "O2 or air"},
+      {"type": "products", "text": "O=C1OC(c2ccccc2)=CC(c2ccccc2)=C1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc(/C=C/C(=O)NC)cc1"},
+      {"type": "reactants", "text": "O=[N+]([O-])c1ccc(/C=C/C(=O)NC)cc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "[Cu+2].[Br-].[Br-]"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "90 °C"},
+      {"type": "other conditions", "text": "O2 or air"},
+      {"type": "products", "text": "O=C1NC(c2ccc(OC)cc2)=CC(c2ccc([N+](=O)[O-])cc2)=C1"}
+    ],
+    [
+      {"type": "reactants", "text": "FC(F)(F)c1ccc(/C=C/C(=O)O)cc1"},
+      {"type": "reactants", "text": "FC(F)(F)c1ccc(/C=C/C(=O)O)cc1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "[Cu+2].[Br-].[Br-]"},
+      {"type": "reagent", "text": "CCN(CC)CC"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "reagent", "text": "CC(=O)OC(=O)C"},
+      {"type": "temperature", "text": "90 °C"},
+      {"type": "other conditions", "text": "O2 or air"},
+      {"type": "products", "text": "O=C1OC(c2ccc([C](F)(F)F)cc2)=CC(c2ccc([C](F)(F)F)cc2)=C1"}
+    ]
+  ]
+}

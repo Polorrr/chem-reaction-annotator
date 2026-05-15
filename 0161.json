@@ -1,0 +1,31 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=Cc1ccc2c(c1)OC(c1ccccc1)CC2=O"},
+      {"type": "reagent", "text": "C1=C[N+]([Si](C)(C)C)=CS1.[Cl-]"},
+      {"type": "reagent", "text": "C1CN=CCN1"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "time", "text": "20 h"},
+      {"type": "products", "text": "O=C1CC(c2ccccc2)Oc2ccccc21"}
+    ],
+    [
+      {"type": "reactants", "text": "O=Cc1ccc2c(c1)OC(c1ccccc1)CC2=O"},
+      {"type": "reagent", "text": "C1=C[N+]([Si](C)(C)C)=CS1.[Cl-]"},
+      {"type": "reagent", "text": "C1CN=CCN1"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "time", "text": "20 h"},
+      {"type": "products", "text": "O=C1CC(c1ccc(Cl)cc1)Oc1ccccc11"}
+    ],
+    [
+      {"type": "reactants", "text": "O=Cc1ccc2c(c1)OC(Cc1ccccc1)CC2=O"},
+      {"type": "reagent", "text": "C1=C[N+]([Si](C)(C)C)=CS1.[Cl-]"},
+      {"type": "reagent", "text": "C1CN=CCN1"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "80 °C"},
+      {"type": "time", "text": "20 h"},
+      {"type": "products", "text": "O=C1CC(c1ccccc1)Oc1ccccc1C1OCC1"}
+    ]
+  ]
+}

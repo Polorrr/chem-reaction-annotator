@@ -1,0 +1,22 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O1CSi(R1)(R2)OCc1ccccc1"},
+      {"type": "reactants", "text": "C[Li]"},
+      {"type": "reagent", "text": "C1(C)(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"},
+      {"type": "reagent", "text": "CCCCCCCC"},
+      {"type": "temperature", "text": "-78 °C"},
+      {"type": "time", "text": "8 h"},
+      {"type": "products", "text": "O[Si](R1)(R2)(C)OCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O[Si](R1)(R2)(C)OCc1ccccc1"},
+      {"type": "reactants", "text": "[Li]"},
+      {"type": "reagent", "text": "NCCN"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "-78 °C"},
+      {"type": "time", "text": "8 h"},
+      {"type": "products", "text": "O[Si](R1)(R2)(C)OCc1ccccc1"}
+    ]
+  ]
+}

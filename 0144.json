@@ -1,0 +1,12 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(OCc1ccccc1)C#CC(c1ccccc1)(c1ccccc1)COC(C)C"},
+      {"type": "reagent", "text": "[Pt+2].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "C1=CCC/C=C\\CC=C\\C1"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "products", "text": "O=C(OCc1ccccc1)/C(=C\\C(C)OC)C1(C(c2ccccc2)c2ccccc2)COC1"}
+    ]
+  ]
+}

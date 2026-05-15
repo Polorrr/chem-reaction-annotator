@@ -1,0 +1,49 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "C=CCOC(=O)OC1=CC2=CC=CC=C2C(=O)C1"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "1-17 h"},
+      {"type": "products", "text": "O=C1CC(C=C)C(F)(c2ccccc2)C1"}
+    ],
+    [
+      {"type": "reactants", "text": "C=CCOC(=O)OC1=CSC2=CC=CC=C2C1=O"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "1-17 h"},
+      {"type": "products", "text": "O=C1CC(C=C)C(F)(c2ccccc2)C1"}
+    ],
+    [
+      {"type": "reactants", "text": "C=CCOC(=O)OC1=CC2=CC=CC=C2C1=O"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "1-17 h"},
+      {"type": "products", "text": "O=C1CC(C=C)C(F)(c2ccccc2)CC1"}
+    ],
+    [
+      {"type": "reactants", "text": "C=CCOC(=O)OC1=CC2=CC=CC=C2C(=O)C1"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "1-17 h"},
+      {"type": "products", "text": "O=C1CCC(C=C)C(F)(c2ccccc2)C1"}
+    ],
+    [
+      {"type": "reactants", "text": "C=CCOC(=O)OC1=CC2=CC=CC=C2C(=O)C1"},
+      {"type": "reagent", "text": "[Pd]"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "1-17 h"},
+      {"type": "products", "text": "O=C1CCC(C=C)C(F)(c2ccccc2)CC1"}
+    ]
+  ]
+}

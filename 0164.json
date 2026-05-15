@@ -1,0 +1,67 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "CSc1ccc(C#CC(=O)c2ccccc2)cc1"},
+      {"type": "reactants", "text": "FC(F)(F)S(=O)(=O)N=Nc1ccc(C)cc1"},
+      {"type": "reagent", "text": "[Bi+3].[Cl-].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "other conditions", "text": "air"},
+      {"type": "products", "text": "O=C(C)c1sc(SCF3)cc1-c1ccc(OMe)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CSc1ccc(C#CC(=O)c2ccccc2)cc1"},
+      {"type": "reactants", "text": "FC(F)(F)S(=O)(=O)N=Nc1ccc(C)cc1"},
+      {"type": "reagent", "text": "[Bi+3].[Cl-].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "other conditions", "text": "air"},
+      {"type": "products", "text": "O=C(C)c1sc(SCF3)cc1-c1ccc(Cl)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CSc1ccc(C#CC(=O)c2ccccc2)cc1"},
+      {"type": "reactants", "text": "FC(F)(F)S(=O)(=O)N=Nc1ccc(C)cc1"},
+      {"type": "reagent", "text": "[Bi+3].[Cl-].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "other conditions", "text": "air"},
+      {"type": "products", "text": "O=C(C)c1sc(SCF3)cc1-c1ccc(N(C)C)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CSc1ccc(C#CC(=O)c2ccccc2)cc1"},
+      {"type": "reactants", "text": "FC(F)(F)S(=O)(=O)N=Nc1ccc(C)cc1"},
+      {"type": "reagent", "text": "[Bi+3].[Cl-].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "other conditions", "text": "air"},
+      {"type": "products", "text": "O=C(C)c1sc(SCF3)cc1-c1ccc(F)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc(C#CC(=O)c2ccccc2)cc1"},
+      {"type": "reactants", "text": "FC(F)(F)S(=O)(=O)N=Nc1ccc(C)cc1"},
+      {"type": "reagent", "text": "[Bi+3].[Cl-].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "other conditions", "text": "air"},
+      {"type": "products", "text": "O=C(C)c1sc(SCF3)cc1-c1ccc(OC)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CSc1ccc(C#CC(=O)c2ccccc2)cc1"},
+      {"type": "reactants", "text": "FC(F)(F)S(=O)(=O)N=Nc1ccc(C)cc1"},
+      {"type": "reagent", "text": "[Bi+3].[Cl-].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "other conditions", "text": "air"},
+      {"type": "products", "text": "O=C(C)c1sc(SCF3)cc1-c1ccc(F)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CSc1ccc(C#CC(=O)c2ccccc2)cc1"},
+      {"type": "reactants", "text": "FC(F)(F)S(=O)(=O)N=Nc1ccc(C)cc1"},
+      {"type": "reagent", "text": "[Bi+3].[Cl-].[Cl-].[Cl-]"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "85 °C"},
+      {"type": "other conditions", "text": "air"},
+      {"type": "products", "text": "O=C(C)c1sc(SCF3)cc1-c1ccc(Cl)cc1"}
+    ]
+  ]
+}

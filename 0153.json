@@ -1,0 +1,40 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(OCC)C(=N[S](=O)(C(C)(C)C)=O)C"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Pd+].[OH-]"},
+      {"type": "reagent", "text": "C1=CC=NC=C1"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "60 °C"},
+      {"type": "products", "text": "O=C(OCC)[C@@H](N[S](=O)(=O)C(C)(C)C)c1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OCC)C(=N[S](=O)(C(C)(C)C)=O)C"},
+      {"type": "reactants", "text": "OB(O)c1ccc(C)cc1"},
+      {"type": "reagent", "text": "[Pd+].[OH-]"},
+      {"type": "reagent", "text": "C1=CC=NC=C1"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "60 °C"},
+      {"type": "products", "text": "O=C(OCC)[C@@H](N[S](=O)(=O)C(C)(C)C)c1ccc(C)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OCC)C(=N[S](=O)(C(C)(C)C)=O)C"},
+      {"type": "reactants", "text": "OB(O)c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "[Pd+].[OH-]"},
+      {"type": "reagent", "text": "C1=CC=NC=C1"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "60 °C"},
+      {"type": "products", "text": "O=C(OCC)[C@@H](N[S](=O)(=O)C(C)(C)C)c1ccc(OC)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OCC)C(=N[S](=O)(C(C)(C)C)=O)C"},
+      {"type": "reactants", "text": "OB(O)c1ccc([C](F)(F)F)cc1"},
+      {"type": "reagent", "text": "[Pd+].[OH-]"},
+      {"type": "reagent", "text": "C1=CC=NC=C1"},
+      {"type": "reagent", "text": "C1COCC1"},
+      {"type": "temperature", "text": "60 °C"},
+      {"type": "products", "text": "O=C(OCC)[C@@H](N[S](=O)(=O)C(C)(C)C)c1ccc([C](F)(F)F)cc1"}
+    ]
+  ]
+}

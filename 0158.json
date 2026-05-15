@@ -1,0 +1,48 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(OC(C)=O)OC1=CC=CC2=C1C(Ph)=CC2"},
+      {"type": "reactants", "text": "O=C(COC(=O)OCC)COC(=O)OCC"},
+      {"type": "reagent", "text": "[Pd+]"},
+      {"type": "reagent", "text": "O=C(N[C@@H]1C2=CC=CC=C2C(=O)NC1O)N(c1ccccc1)C1=CC=CC=C1C(=O)NC1CCCCC1"},
+      {"type": "reagent", "text": "[Li+].[O-]C(=O)C"},
+      {"type": "reagent", "text": "CC(=O)NC(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=C(OCc1ccccc1)C1(c2ccccc2)C=CC=C1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(C)=O)OC1=CC=CC2=C1C(c1ccc2ccccc21)=CC2"},
+      {"type": "reactants", "text": "O=C(COC(=O)OCC)COC(=O)OCC"},
+      {"type": "reagent", "text": "[Pd+]"},
+      {"type": "reagent", "text": "O=C(N[C@@H]1C2=CC=CC=C2C(=O)NC1O)N(c1ccccc1)C1=CC=CC=C1C(=O)NC1CCCCC1"},
+      {"type": "reagent", "text": "[Li+].[O-]C(=O)C"},
+      {"type": "reagent", "text": "CC(=O)NC(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=C(OCc1ccccc1)C1(c1ccc2ccccc2c1)C=CC=C1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(C)=O)OC1=CC=CC2=C1C(c1ccc(F)cc1)=CC2"},
+      {"type": "reactants", "text": "O=C(COC(=O)OCC)COC(=O)OCC"},
+      {"type": "reagent", "text": "[Pd+]"},
+      {"type": "reagent", "text": "O=C(N[C@@H]1C2=CC=CC=C2C(=O)NC1O)N(c1ccccc1)C1=CC=CC=C1C(=O)NC1CCCCC1"},
+      {"type": "reagent", "text": "[Li+].[O-]C(=O)C"},
+      {"type": "reagent", "text": "CC(=O)NC(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=C(OCc1ccccc1)C1(c1ccc(F)cc1)C=CC=C1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(C)=O)OC1=CC=CC2=C1C(c1ccccc1)=CC2"},
+      {"type": "reactants", "text": "O=C(COC(=O)OCC)COC(=O)OCC"},
+      {"type": "reagent", "text": "[Pd+]"},
+      {"type": "reagent", "text": "O=C(N[C@@H]1C2=CC=CC=C2C(=O)NC1O)N(c1ccccc1)C1=CC=CC=C1C(=O)NC1CCCCC1"},
+      {"type": "reagent", "text": "[Li+].[O-]C(=O)C"},
+      {"type": "reagent", "text": "CC(=O)NC(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=C(OCc1ccccc1)C1(c2ccccc2)C=CC1=C"}
+    ]
+  ]
+}

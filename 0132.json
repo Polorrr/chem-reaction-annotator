@@ -1,0 +1,49 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(C)c1ccccc1"},
+      {"type": "reactants", "text": "C=CCB1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[In]"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "30 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "O[C@@](C)(c1ccccc1)CCC=C"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C)c1cccc(OC)c1"},
+      {"type": "reactants", "text": "C=CCB1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[In]"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "30 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "O[C@@](C)(c1cccc(OC)c1)CCC=C"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C)c1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "C=CCB1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[In]"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "30 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "O[C@@](C)(c1ccc2ccccc2c1)CCC=C"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C)c1cccnc1"},
+      {"type": "reactants", "text": "C=CCB1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[In]"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "30 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "O[C@@](C)(c1cccnc1)CCC=C"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(C)c1ccccc1"},
+      {"type": "reactants", "text": "C=C(C)CB1OC(C)(C)C(C)(C)O1"},
+      {"type": "reagent", "text": "[In]"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "0-10 °C"},
+      {"type": "time", "text": "20-48 h"},
+      {"type": "products", "text": "O[C@@](C)(c1ccccc1)[C@H](C)CC=C"}
+    ]
+  ]
+}

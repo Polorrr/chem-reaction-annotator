@@ -1,0 +1,37 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "OCc1ccccc1"},
+      {"type": "reactants", "text": "NCc1ccccc1"},
+      {"type": "reagent", "text": "[Rh]"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "C1=C[N+]([Si](C)(C)C)=CS1.[Cl-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "110 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "O=C(Cc1ccccc1)NCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(CN1CCCC1)OCc1ccccc1"},
+      {"type": "reactants", "text": "NCc1ccccc1"},
+      {"type": "reagent", "text": "[Rh]"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "C1=C[N+]([Si](C)(C)C)=CS1.[Cl-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "110 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "O=C(C1CCN(C(=O)OCc2ccccc2)C1)NCc1ccccc1"}
+    ],
+    [
+      {"type": "reactants", "text": "OCc1ccccc1"},
+      {"type": "reactants", "text": "CNCc1ccccc1"},
+      {"type": "reagent", "text": "[Rh]"},
+      {"type": "reagent", "text": "[K+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "C1=C[N+]([Si](C)(C)C)=CS1.[Cl-]"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "110 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "O=C(Cc1ccccc1)N(C)Cc1ccccc1"}
+    ]
+  ]
+}

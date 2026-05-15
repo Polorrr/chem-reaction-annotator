@@ -1,0 +1,22 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=CCC(F)(F)F"},
+      {"type": "reactants", "text": "C=CC(=O)OC"},
+      {"type": "reagent", "text": "N1CCC(N)CC1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "time", "text": "14-72 h"},
+      {"type": "products", "text": "O=CCC(C(=O)OC)CC(F)(F)F"}
+    ],
+    [
+      {"type": "reactants", "text": "O=CCC(F)(F)F"},
+      {"type": "reactants", "text": "C=CC(=O)OC"},
+      {"type": "reagent", "text": "N1CCC(N)CC1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "temperature", "text": "25 °C"},
+      {"type": "time", "text": "14-72 h"},
+      {"type": "products", "text": "O=CCC(C(=O)OCC)CC(F)(F)F"}
+    ]
+  ]
+}

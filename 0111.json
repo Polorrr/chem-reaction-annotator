@@ -1,0 +1,103 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C(N(CC)CC)Oc1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "OB(O)c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "[Ni+2].[P+]([H])([H])([H])([H])([H])([H])[H].[P+]([H])([H])([H])([H])([H])([H])[H]"},
+      {"type": "reagent", "text": "[K+].[K+].[K+].[O-]P(=O)([O-])([O-])=O"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "130 °C"},
+      {"type": "products", "text": "COc1ccc(-c2ccc3ccccc3c2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COC(=O)c1ccc2c(c1)OC(=O)N(C(=O)OC)C2"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Ni+2].[P+]([H])([H])([H])([H])([H])([H])[H].[P+]([H])([H])([H])([H])([H])([H])[H]"},
+      {"type": "reagent", "text": "[K+].[K+].[K+].[O-]P(=O)([O-])([O-])=O"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "130 °C"},
+      {"type": "products", "text": "COC(=O)c1ccc(-c2ccccc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OCC)Oc1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "OB(O)c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "[Ni+2].[P+]([H])([H])([H])([H])([H])([H])[H].[P+]([H])([H])([H])([H])([H])([H])[H]"},
+      {"type": "reagent", "text": "[K+].[K+].[K+].[O-]P(=O)([O-])([O-])=O"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "130 °C"},
+      {"type": "products", "text": "COc1ccc(-c2ccc(OC)cc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc(Oc2ccccc2)cc1"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Ni+2].[P+]([H])([H])([H])([H])([H])([H])[H].[P+]([H])([H])([H])([H])([H])([H])[H]"},
+      {"type": "reagent", "text": "[K+].[K+].[K+].[O-]P(=O)([O-])([O-])=O"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "130 °C"},
+      {"type": "products", "text": "COc1ccc(-c2ccccc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(C)(C)C)Oc1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "OB(O)c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "[Ni+2].[P+]([H])([H])([H])([H])([H])([H])[H].[P+]([H])([H])([H])([H])([H])([H])[H]"},
+      {"type": "reagent", "text": "[K+].[K+].[K+].[O-]P(=O)([O-])([O-])=O"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "130 °C"},
+      {"type": "products", "text": "COc1ccc(-c2ccc3ccccc3c2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OC(C)(C)C)Oc1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "OB(O)c1ccc2ccccc2c1"},
+      {"type": "reagent", "text": "[Ni+2].[P+]([H])([H])([H])([H])([H])([H])[H].[P+]([H])([H])([H])([H])([H])([H])[H]"},
+      {"type": "reagent", "text": "[K+].[K+].[K+].[O-]P(=O)([O-])([O-])=O"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "130 °C"},
+      {"type": "products", "text": "c1ccc(-c2ccc3ccccc3c2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc(OC(C)(C)OC(=O)Oc2ccc(OC)cc2)cc1"},
+      {"type": "reactants", "text": "OB(O)c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "[Ni+2].[P+]([H])([H])([H])([H])([H])([H])[H].[P+]([H])([H])([H])([H])([H])([H])[H]"},
+      {"type": "reagent", "text": "[K+].[K+].[K+].[O-]P(=O)([O-])([O-])=O"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "130 °C"},
+      {"type": "products", "text": "COc1ccc(-c2ccc(OC)cc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)N(C)COc1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Ni+2].[P+]([H])([H])([H])([H])([H])([H])[H].[P+]([H])([H])([H])([H])([H])([H])[H]"},
+      {"type": "reagent", "text": "[K+].[K+].[K+].[O-]P(=O)([O-])([O-])=O"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "110 °C"},
+      {"type": "products", "text": "c1ccc(-c2ccc3ccccc3c2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)N(C)COc1ccc2c(c1)C(=O)CC2"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Ni+2].[P+]([H])([H])([H])([H])([H])([H])[H].[P+]([H])([H])([H])([H])([H])([H])[H]"},
+      {"type": "reagent", "text": "[K+].[K+].[K+].[O-]P(=O)([O-])([O-])=O"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "110 °C"},
+      {"type": "products", "text": "c1ccc(-c2cc3CCC(=O)c3cc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=S(=O)(c1ccccc1)N(C)COc1ccc(OC)cc1"},
+      {"type": "reactants", "text": "OB(O)c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "[Ni+2].[P+]([H])([H])([H])([H])([H])([H])[H].[P+]([H])([H])([H])([H])([H])([H])[H]"},
+      {"type": "reagent", "text": "[K+].[K+].[K+].[O-]P(=O)([O-])([O-])=O"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "110 °C"},
+      {"type": "products", "text": "COc1ccc(-c2ccc(OC)cc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CN(C)c1ccc(Oc2ccc(N(C)C)cc2)cc1"},
+      {"type": "reactants", "text": "OB(O)c1ccccc1"},
+      {"type": "reagent", "text": "[Ni+2].[P+]([H])([H])([H])([H])([H])([H])[H].[P+]([H])([H])([H])([H])([H])([H])[H]"},
+      {"type": "reagent", "text": "[K+].[K+].[K+].[O-]P(=O)([O-])([O-])=O"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "110 °C"},
+      {"type": "products", "text": "CN(C)c1ccc(-c2ccc(N(C)C)cc2)cc1"}
+    ]
+  ]
+}

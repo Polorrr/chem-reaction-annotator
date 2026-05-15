@@ -1,0 +1,31 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C1C=C(C)N(C(=O)O1)C(=O)C=C"},
+      {"type": "reactants", "text": "O=C(OCC)CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Ca+2].[O-]C(C)C.[O-]C(C)C"},
+      {"type": "reagent", "text": "c1ccc2c(c1)Oc1ccccc1O2"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "products", "text": "O=C(OCC)C(C)CC(=O)N1C(=O)OC1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1C=C(C=C)N(C(=O)O1)C(=O)C=C"},
+      {"type": "reactants", "text": "O=C(OCC)CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Ca+2].[O-]C(C)C.[O-]C(C)C"},
+      {"type": "reagent", "text": "c1ccc2c(c1)Oc1ccccc1O2"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "products", "text": "O=C(OCC)C(C=C)CC(=O)N1C(=O)OC1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1C=C(C#Cc2ccccc2)N(C(=O)O1)C(=O)C=C"},
+      {"type": "reactants", "text": "O=C(OCC)CC(=O)OCc1ccccc1"},
+      {"type": "reagent", "text": "[Ca+2].[O-]C(C)C.[O-]C(C)C"},
+      {"type": "reagent", "text": "c1ccc2c(c1)Oc1ccccc1O2"},
+      {"type": "reagent", "text": "O=C1OC(C=N2)C2(c2ccccc2)C(C=N1)OC(c1ccccc1)c1ccccc1"},
+      {"type": "reagent", "text": "CCO"},
+      {"type": "products", "text": "O=C(OCC)C(C#Cc2ccccc2)CC(=O)N1C(=O)OC1"}
+    ]
+  ]
+}

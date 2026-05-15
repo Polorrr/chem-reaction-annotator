@@ -1,0 +1,103 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "COc1cccc(C(=O)[K+])c1"},
+      {"type": "reactants", "text": "B(OC)OC"},
+      {"type": "reagent", "text": "[Cu+2]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "36 h"},
+      {"type": "products", "text": "COc1cccc(OC)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1cccc(C(=O)[K+])c1"},
+      {"type": "reactants", "text": "BOCCOCC"},
+      {"type": "reagent", "text": "[Cu+2]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "36 h"},
+      {"type": "products", "text": "COc1cccc(OCCOC)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc(-c2ccccc2)cc1"},
+      {"type": "reactants", "text": "B(OC)OC"},
+      {"type": "reagent", "text": "[Cu+2]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "36 h"},
+      {"type": "products", "text": "COc1ccc(-c2ccccc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2ccccc2c1"},
+      {"type": "reactants", "text": "B(OC)OC"},
+      {"type": "reagent", "text": "[Cu+2]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "36 h"},
+      {"type": "products", "text": "COc1ccc2ccccc2c1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1cc(OC)c([N+](=O)[O-])cc1"},
+      {"type": "reactants", "text": "B(OC)OC"},
+      {"type": "reagent", "text": "[Cu+2]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "36 h"},
+      {"type": "products", "text": "COc1cc(OC)c([N+](=O)[O-])cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "CO=S(=O)(c1ccc(C(=O)[K+])cc1)C"},
+      {"type": "reactants", "text": "B(OC)OC"},
+      {"type": "reagent", "text": "[Cu+2]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "36 h"},
+      {"type": "products", "text": "CO=S(=O)(c1ccc(OC)cc1)C"}
+    ],
+    [
+      {"type": "reactants", "text": "c1cc2cccnc2c1"},
+      {"type": "reactants", "text": "B(OC)OC"},
+      {"type": "reagent", "text": "[Cu+2]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "36 h"},
+      {"type": "products", "text": "COc1cc2cccnc2c1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(c1ccccc1)c1cccc(C(=O)[K+])c1"},
+      {"type": "reactants", "text": "B(OC)OC"},
+      {"type": "reagent", "text": "[Cu+2]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "36 h"},
+      {"type": "products", "text": "O=C(c1ccccc1)c1cccc(OC)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc(C(=O)[K+])c1"},
+      {"type": "reactants", "text": "B(O[C@@H]1C[C@@H](C)CC[C@H]1C)OC"},
+      {"type": "reagent", "text": "[Cu+2]"},
+      {"type": "reagent", "text": "[Ag+].[Ag+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "O=CN(C)C"},
+      {"type": "reagent", "text": "O"},
+      {"type": "temperature", "text": "140 °C"},
+      {"type": "time", "text": "36 h"},
+      {"type": "products", "text": "COc1ccc(OC2C[C@@H](C)CC[C@H]2C)c1"}
+    ]
+  ]
+}

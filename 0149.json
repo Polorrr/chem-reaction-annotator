@@ -1,0 +1,44 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "CC(=O)OC(C)C#CC"},
+      {"type": "reagent", "text": "[Hg+2].[O-]S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "O"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "C/C=C/C(=O)OCC"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(=O)OC(C)(C)C#CC"},
+      {"type": "reagent", "text": "[Hg+2].[O-]S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "O"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "CC(=C)C(=O)OCC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=CCCOCc1ccccc1"},
+      {"type": "reagent", "text": "[Hg+2].[O-]S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "O"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "C=CCC(=O)OCC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C(OCc1ccccc1)CCC=O"},
+      {"type": "reagent", "text": "[Hg+2].[O-]S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "O"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=C(OCc1ccccc1)C=CC=O"}
+    ],
+    [
+      {"type": "reactants", "text": "O=[N+]([O-])c1ccc(/C=C/C(=O)OCC)cc1"},
+      {"type": "reagent", "text": "[Hg+2].[O-]S(=O)(=O)[O-]"},
+      {"type": "reagent", "text": "O"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "r.t."},
+      {"type": "products", "text": "O=[N+]([O-])c1ccc(/C=C/C(=O)OCC)cc1"}
+    ]
+  ]
+}

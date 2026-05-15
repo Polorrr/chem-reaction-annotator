@@ -1,0 +1,44 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "CCOC(=O)C(=C=C)C(C)C"},
+      {"type": "reactants", "text": "N=S(=O)(c1ccc([N+](=O)[O-])cc1)N"},
+      {"type": "reagent", "text": "O=P1(C2=CC=CC=C2)C2=CC=CC=C2C2=CC=CC=C12"},
+      {"type": "reagent", "text": "[Na+].[O-]c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "products", "text": "CCOC(=O)C1=CC(C(C)C)N(S(=O)(=O)c1ccc([N+](=O)[O-])cc1)1"}
+    ],
+    [
+      {"type": "reactants", "text": "CC(C)(C)OC(=O)C(=C=C)C=C"},
+      {"type": "reactants", "text": "N=S(=O)(c1ccc([N+](=O)[O-])cc1)N"},
+      {"type": "reagent", "text": "O=P1(C2=CC=CC=C2)C2=CC=CC=C2C2=CC=CC=C12"},
+      {"type": "reagent", "text": "[Na+].[O-]c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "products", "text": "CC(C)(C)OC(=O)C1=CC(CC#C)N(S(=O)(=O)c1ccc([N+](=O)[O-])cc1)1"}
+    ],
+    [
+      {"type": "reactants", "text": "CCOC(=O)C(=C=C)CCC#CC"},
+      {"type": "reactants", "text": "N=S(=O)(c1ccc([N+](=O)[O-])cc1)N"},
+      {"type": "reagent", "text": "O=P1(C2=CC=CC=C2)C2=CC=CC=C2C2=CC=CC=C12"},
+      {"type": "reagent", "text": "[Na+].[O-]c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "products", "text": "CCOC(=O)C1=CC(CCC#CC)N(S(=O)(=O)c1ccc([N+](=O)[O-])cc1)1"}
+    ],
+    [
+      {"type": "reactants", "text": "CCOC(=O)C(=C=C)Cc1ccsc1"},
+      {"type": "reactants", "text": "N=S(=O)(c1ccc([N+](=O)[O-])cc1)N"},
+      {"type": "reagent", "text": "O=P1(C2=CC=CC=C2)C2=CC=CC=C2C2=CC=CC=C12"},
+      {"type": "reagent", "text": "[Na+].[O-]c1ccccc1"},
+      {"type": "reagent", "text": "C1CCOC1"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "products", "text": "CCOC(=O)C1=CC(Cc1ccsc1)N(S(=O)(=O)c1ccc([N+](=O)[O-])cc1)1"}
+    ]
+  ]
+}

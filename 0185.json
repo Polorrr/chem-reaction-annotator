@@ -1,0 +1,64 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "c1ccc2[nH]ccc2c1"},
+      {"type": "reagent", "text": "[Ru]"},
+      {"type": "reagent", "text": "O=C([O-])O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "C1CCC2CCCCC2N1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc2[nH]ccc2c1"},
+      {"type": "reagent", "text": "[Ru]"},
+      {"type": "reagent", "text": "O=C([O-])O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "COc1ccc2CCCCN2c1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2[nH]cc(C)c2c1"},
+      {"type": "reagent", "text": "[Ru]"},
+      {"type": "reagent", "text": "O=C([O-])O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "C1CCC2c3ccccc3CCN2C1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2[nH]cc(C(C)C)c2c1"},
+      {"type": "reagent", "text": "[Ru]"},
+      {"type": "reagent", "text": "O=C([O-])O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "C1CCC2c3ccccc3CC(C(C)C)N2C1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2[nH]cc(Cc3ccccc3)c2c1"},
+      {"type": "reagent", "text": "[Ru]"},
+      {"type": "reagent", "text": "O=C([O-])O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "C1CCC2c3ccccc3CC(Cc3ccccc3)N2C1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc2[nH]ccc2c1C"},
+      {"type": "reagent", "text": "[Ru]"},
+      {"type": "reagent", "text": "O=C([O-])O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O.[Na+]"},
+      {"type": "reagent", "text": "CC(=O)O"},
+      {"type": "temperature", "text": "40 °C"},
+      {"type": "time", "text": "24 h"},
+      {"type": "products", "text": "C1CCC2CCCC2N1C"}
+    ]
+  ]
+}

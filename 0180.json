@@ -1,0 +1,54 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=C1CCC(=CC#CC)CC1"},
+      {"type": "reactants", "text": "C[Mg]Br"},
+      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C.[O-]C(=O)C"},
+      {"type": "reagent", "text": "OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-10 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "O=C1CCC(C)(C#CC)CC1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1CCC(=CC#CC)CC1"},
+      {"type": "reactants", "text": "C=CC[Mg]Br"},
+      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C.[O-]C(=O)C"},
+      {"type": "reagent", "text": "OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-10 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "O=C1CCC(C=CC)(C#CC)CC1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1CCC(=CC#CC)CC1"},
+      {"type": "reactants", "text": "CCC[Mg]Br"},
+      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C.[O-]C(=O)C"},
+      {"type": "reagent", "text": "OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-10 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "O=C1CCC(CCC)(C#CC)CC1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1CCC(=CC#CC)CC1"},
+      {"type": "reactants", "text": "C(C)(C)C[Mg]Br"},
+      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C.[O-]C(=O)C"},
+      {"type": "reagent", "text": "OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-10 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "O=C1CCC(C(C)C)(C#CC)CC1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=C1CCC(=CC#CC)CC1"},
+      {"type": "reactants", "text": "C[Si](C)(C)C[Mg]Br"},
+      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C.[O-]C(=O)C"},
+      {"type": "reagent", "text": "OC(C)(C)C"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "-10 °C"},
+      {"type": "time", "text": "1 h"},
+      {"type": "products", "text": "O=C1CCC(C[Si](C)(C)C)(C#CC)CC1"}
+    ]
+  ]
+}

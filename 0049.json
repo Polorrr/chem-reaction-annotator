@@ -1,0 +1,40 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "CCOC(=O)C(=Cc1ccccc1)C(=O)OCC"},
+      {"type": "reactants", "text": "O=C1CN=NC1c1ccccc1"},
+      {"type": "reagent", "text": "[Ni+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"},
+      {"type": "reagent", "text": "O=C(NC1CCCCC1)N(c1ccccc1)C1=CC=CC=C1C(=O)NC1CCCCC1"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "30 °C"},
+      {"type": "products", "text": "O=C1CNC(C(=O)OCC)(c2ccccc2)C1(NNC1=O)C(=O)OCC"}
+    ],
+    [
+      {"type": "reactants", "text": "CCOC(=O)C(=Cc1ccc(OPh)cc1)C(=O)OCC"},
+      {"type": "reactants", "text": "O=C1CN=NC1c1ccccc1"},
+      {"type": "reagent", "text": "[Ni+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"},
+      {"type": "reagent", "text": "O=C(NC1CCCCC1)N(c1ccccc1)C1=CC=CC=C1C(=O)NC1CCCCC1"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "30 °C"},
+      {"type": "products", "text": "O=C1CNC(C(=O)OCC)(c2ccc(OPh)cc2)C1(NNC1=O)C(=O)OCC"}
+    ],
+    [
+      {"type": "reactants", "text": "CCOC(=O)C(=Cc1cccc(F)c1F)C(=O)OCC"},
+      {"type": "reactants", "text": "O=C1CN=NC1c1ccccc1"},
+      {"type": "reagent", "text": "[Ni+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"},
+      {"type": "reagent", "text": "O=C(NC1CCCCC1)N(c1ccccc1)C1=CC=CC=C1C(=O)NC1CCCCC1"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "30 °C"},
+      {"type": "products", "text": "O=C1CNC(C(=O)OCC)(c2cccc(F)c2F)C1(NNC1=O)C(=O)OCC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=COCc1ccccc1"},
+      {"type": "reactants", "text": "O=C1CN=NC1c1ccc(OC)cc1"},
+      {"type": "reagent", "text": "[Ni+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"},
+      {"type": "reagent", "text": "O=C(NC1CCCCC1)N(c1ccccc1)C1=CC=CC=C1C(=O)NC1CCCCC1"},
+      {"type": "reagent", "text": "ClCCl"},
+      {"type": "temperature", "text": "30 °C"},
+      {"type": "products", "text": "O=C1CNC(C(=O)OCc2ccccc2)(c2ccc(OC)cc2)C1(NNC1=O)C(=O)OCc2ccccc2"}
+    ]
+  ]
+}

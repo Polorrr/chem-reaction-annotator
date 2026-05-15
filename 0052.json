@@ -1,0 +1,114 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "c1ccc(S)cc1"},
+      {"type": "reactants", "text": "Cc1cc(I)cc(C)c1"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "other conditions", "text": "hv (100-watt Hg lamp)"},
+      {"type": "products", "text": "Cc1cc(Sc2ccccc2)cc(C)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc(S)cc1"},
+      {"type": "reactants", "text": "Ic1ccc2ccccc2c1"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "other conditions", "text": "hv (100-watt Hg lamp)"},
+      {"type": "products", "text": "c1ccc(Sc2ccc3ccccc3c2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc(S)cc1"},
+      {"type": "reactants", "text": "Ic1ccncc1"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "other conditions", "text": "hv (100-watt Hg lamp)"},
+      {"type": "products", "text": "c1ccc(Sc2ccncc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc(S)cc1"},
+      {"type": "reactants", "text": "Ic1ccsc1"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "other conditions", "text": "hv (100-watt Hg lamp)"},
+      {"type": "products", "text": "c1ccc(Sc2ccsc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc(S)cc1"},
+      {"type": "reactants", "text": "Ic1ccsc1"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "other conditions", "text": "hv (100-watt Hg lamp)"},
+      {"type": "products", "text": "c1ccc(Sc1ccsc1)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc(S)cc1"},
+      {"type": "reactants", "text": "N#Cc1ccc(I)cc1"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "other conditions", "text": "hv (100-watt Hg lamp)"},
+      {"type": "products", "text": "N#Cc1ccc(Sc2ccccc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc(S)cc1"},
+      {"type": "reactants", "text": "Ic1ccccc1N"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "other conditions", "text": "hv (100-watt Hg lamp)"},
+      {"type": "products", "text": "Nc1cccc(Sc2ccccc2)c1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccc(S)cc1"},
+      {"type": "reactants", "text": "Ic1ccc(F)cc1"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "other conditions", "text": "hv (100-watt Hg lamp)"},
+      {"type": "products", "text": "Fc1ccc(Sc2ccccc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "COc1ccc(S)cc1"},
+      {"type": "reactants", "text": "Ic1ccccc1"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "other conditions", "text": "hv (100-watt Hg lamp)"},
+      {"type": "products", "text": "COc1ccc(Sc2ccccc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "c1ccncc1S"},
+      {"type": "reactants", "text": "Ic1ccccc1"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "other conditions", "text": "hv (100-watt Hg lamp)"},
+      {"type": "products", "text": "c1ccc(Sc2ccncc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "Cc1cc(S)c(C)cc1"},
+      {"type": "reactants", "text": "Ic1ccccc1"},
+      {"type": "reagent", "text": "[Cu+]I"},
+      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
+      {"type": "reagent", "text": "CC#N"},
+      {"type": "temperature", "text": "0 °C"},
+      {"type": "other conditions", "text": "hv (100-watt Hg lamp)"},
+      {"type": "products", "text": "Cc1cc(Sc2ccccc2)c(C)cc1"}
+    ]
+  ]
+}

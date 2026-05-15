@@ -1,0 +1,40 @@
+{
+  "reactions": [
+    [
+      {"type": "reactants", "text": "O=Cc1ccc(Cl)cc1"},
+      {"type": "reactants", "text": "B(O)(O)c1ccc(Cl)cc1"},
+      {"type": "reagent", "text": "C1CC[N@@H+]1[C@@H](c1ccccc1)[C@@H]1c2ccccc2O1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "[Cs+].[Cs+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "22 °C"},
+      {"type": "time", "text": "2-6 h"},
+      {"type": "products", "text": "O=CCC(c1ccc(Cl)cc1)CCCC"}
+    ],
+    [
+      {"type": "reactants", "text": "O=Cc1ccc(-c2ccccc2)cc1"},
+      {"type": "reactants", "text": "B(O)(O)c1ccc(C)cc1"},
+      {"type": "reagent", "text": "C1CC[N@@H+]1[C@@H](c1ccccc1)[C@@H]1c2ccccc2O1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "[Cs+].[Cs+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "22 °C"},
+      {"type": "time", "text": "2-6 h"},
+      {"type": "products", "text": "O=CCC(c1ccc(C)cc1)c1ccc(-c2ccccc2)cc1"}
+    ],
+    [
+      {"type": "reactants", "text": "O=Cc1ccc(-c2ccccc2)cc1"},
+      {"type": "reactants", "text": "B(O)(O)c1ccc(Cl)cc1"},
+      {"type": "reagent", "text": "C1CC[N@@H+]1[C@@H](c1ccccc1)[C@@H]1c2ccccc2O1"},
+      {"type": "reagent", "text": "[Pd+2]"},
+      {"type": "reagent", "text": "[Cs+].[Cs+].[O-]C(=O)[O-]"},
+      {"type": "reagent", "text": "CO"},
+      {"type": "reagent", "text": "Cc1ccccc1"},
+      {"type": "temperature", "text": "22 °C"},
+      {"type": "time", "text": "2-6 h"},
+      {"type": "products", "text": "O=CCC(c1ccc(Cl)cc1)c1ccc(-c2ccccc2)cc1"}
+    ]
+  ]
+}
