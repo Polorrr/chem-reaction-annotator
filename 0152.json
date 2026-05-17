@@ -1,44 +1,140 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "C=CCN=c1ccc(OC)cc1"},
-      {"type": "reactants", "text": "C1CCNCC1"},
-      {"type": "reagent", "text": "[Rh+]"},
-      {"type": "reagent", "text": "c1ccc(-c2ccccc2)cc1"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "[C@@H]([C@H]1CCCCN1)Nc1ccc(OC)cc1"}
+      {
+        "type": "reactants",
+        "text": "C=CCN=Cc1ccc(OC)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "C1CCNCC1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+]"
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "[C@@H]([C@H]1CCCCN1)Nc1ccc(OC)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C=CCN=c1ccc(OC)cc1"},
-      {"type": "reactants", "text": "C1COCCN1"},
-      {"type": "reagent", "text": "[Rh+]"},
-      {"type": "reagent", "text": "c1ccc(-c2ccccc2)cc1"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "[C@@H]([C@H]1COCCN1)Nc1ccc(OC)cc1"}
+      {
+        "type": "reactants",
+        "text": "C=CCN=Cc1ccc(OC)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "C1COCCN1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+]"
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "[C@@H]([C@H]1COCCN1)Nc1ccc(OC)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C=CC1CCCCC1"},
-      {"type": "reactants", "text": "C1COCCN1"},
-      {"type": "reagent", "text": "[Rh+]"},
-      {"type": "reagent", "text": "c1ccc(-c2ccccc2)cc1"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "[C@@H](C1CCCCC1)[C@H]1COCCN1"}
+      {
+        "type": "reactants",
+        "text": "C=CC1CCCCC1"
+      },
+      {
+        "type": "reactants",
+        "text": "C1COCCN1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+]"
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "[C@@H](C1CCCCC1)[C@H]1COCCN1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C=CCCc1ccccc1"},
-      {"type": "reactants", "text": "C1COCCN1"},
-      {"type": "reagent", "text": "[Rh+]"},
-      {"type": "reagent", "text": "c1ccc(-c2ccccc2)cc1"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "[C@@H](CCCc1ccccc1)[C@H]1COCCN1"}
+      {
+        "type": "reactants",
+        "text": "C=CCCc1ccccc1"
+      },
+      {
+        "type": "reactants",
+        "text": "C1COCCN1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+]"
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "[C@@H](CCCc1ccccc1)[C@H]1COCCN1"
+      }
     ]
   ]
 }

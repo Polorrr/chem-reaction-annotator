@@ -1,73 +1,238 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "Clc1ccncc1Cl"},
-      {"type": "reactants", "text": "CC(=O)NC(=O)NC(C)(C)C"},
-      {"type": "reactants", "text": "O=C(C)CC(=O)C"},
-      {"type": "reagent", "text": "C1=CC=CC=C1.[Li+]"},
-      {"type": "reagent", "text": "ClCCCl"},
-      {"type": "reagent", "text": "[H+]"},
-      {"type": "temperature", "text": "reflux"},
-      {"type": "products", "text": "Clc1cc(-n2nc(C)cc2C)nc1"}
+      {
+        "type": "reactants",
+        "text": "Clc1ccncc1Cl"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(=O)NC(=O)NC(C)(C)C"
+      },
+      {
+        "type": "reactants",
+        "text": "O=C(C)CC(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "C1=CC=CC=C1.[Li+]"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[H+]"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "Clc1cc(-n2nc(C)cc2C)nc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "Fc1ccc(F)cc1I"},
-      {"type": "reactants", "text": "CC(=O)NC(=O)NC(C)(C)C"},
-      {"type": "reactants", "text": "O=C(C)CC(=O)C"},
-      {"type": "reagent", "text": "CCCC[Li]"},
-      {"type": "reagent", "text": "ClCCCl"},
-      {"type": "reagent", "text": "[H+]"},
-      {"type": "temperature", "text": "reflux"},
-      {"type": "products", "text": "Fc1ccc(-n2nc(C)cc2C)cc1"}
+      {
+        "type": "reactants",
+        "text": "Fc1ccc(F)cc1I"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(=O)NC(=O)NC(C)(C)C"
+      },
+      {
+        "type": "reactants",
+        "text": "O=C(C)CC(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCC[Li]"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[H+]"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "Fc1ccc(-n2nc(C)cc2C)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "Fc1ccccc1Cl"},
-      {"type": "reactants", "text": "CC(=O)NC(=O)NC(C)(C)C"},
-      {"type": "reactants", "text": "O=C(C)CC(=O)C"},
-      {"type": "reagent", "text": "CCCC[Li]"},
-      {"type": "reagent", "text": "ClCCCl"},
-      {"type": "reagent", "text": "[H+]"},
-      {"type": "temperature", "text": "reflux"},
-      {"type": "products", "text": "Fc1ccccc1"}
+      {
+        "type": "reactants",
+        "text": "Fc1ccccc1Cl"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(=O)NC(=O)NC(C)(C)C"
+      },
+      {
+        "type": "reactants",
+        "text": "O=C(C)CC(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCC[Li]"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[H+]"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "Fc1ccccc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "FC(F)(F)c1ccc(I)cc1"},
-      {"type": "reactants", "text": "CC(=O)NC(=O)NC(C)(C)C"},
-      {"type": "reactants", "text": "O=C(C)CC(=O)C"},
-      {"type": "reagent", "text": "CCCC[Li]"},
-      {"type": "reagent", "text": "ClCCCl"},
-      {"type": "reagent", "text": "[H+]"},
-      {"type": "temperature", "text": "reflux"},
-      {"type": "products", "text": "FC(F)(F)c1ccc(-n2nc(C)cc2C)cc1"}
+      {
+        "type": "reactants",
+        "text": "FC(F)(F)c1ccc(I)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(=O)NC(=O)NC(C)(C)C"
+      },
+      {
+        "type": "reactants",
+        "text": "O=C(C)CC(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCC[Li]"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[H+]"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "FC(F)(F)c1ccc(-n2nc(C)cc2C)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "Fc1ccc(I)cc1"},
-      {"type": "reactants", "text": "CC(=O)NC(=O)NC(C)(C)C"},
-      {"type": "reactants", "text": "O=C(C)CBr"},
-      {"type": "reagent", "text": "CCCC[Li]"},
-      {"type": "reagent", "text": "ClCCCl"},
-      {"type": "reagent", "text": "[H+]"},
-      {"type": "temperature", "text": "reflux"},
-      {"type": "products", "text": "Fc1ccc(-n2nc(CBr)cc2C)cc1"}
+      {
+        "type": "reactants",
+        "text": "Fc1ccc(I)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(=O)NC(=O)NC(C)(C)C"
+      },
+      {
+        "type": "reactants",
+        "text": "O=C(C)CBr"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCC[Li]"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[H+]"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "Fc1ccc(-n2nc(CBr)cc2C)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "Fc1ccc(-n2nc(-c3ccc(-n4nc(-c5ccc(Cl)cc5)cc4C)cc3)cc2C)cc1"},
-      {"type": "reactants", "text": "CC(=O)NC(=O)NC(C)(C)C"},
-      {"type": "reactants", "text": "O=C(C)CC(=O)C"},
-      {"type": "reagent", "text": "CCCC[Li]"},
-      {"type": "reagent", "text": "ClCCCl"},
-      {"type": "reagent", "text": "[H+]"},
-      {"type": "temperature", "text": "reflux"},
-      {"type": "products", "text": "Fc1ccc(-n2nc(-c3ccc(-n4nc(-c5ccc(Cl)cc5)cc4C)cc3)cc2C)cc1"}
+      {
+        "type": "reactants",
+        "text": "Fc1ccc(-n2nc(-c3ccc(-n4nc(-c5ccc(Cl)cc5)cc4C)cc3)cc2C)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(=O)NC(=O)NC(C)(C)C"
+      },
+      {
+        "type": "reactants",
+        "text": "O=C(C)CC(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCC[Li]"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[H+]"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "Fc1ccc(-n2nc(-c3ccc(-n4nc(-c5ccc(Cl)cc5)cc4C)cc3)cc2C)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1OC(C2=NN(C3=CC=CC=C3F)C2=O)CC1(C)C"},
-      {"type": "reactants", "text": "CC(=O)NC(=O)NC(C)(C)C"},
-      {"type": "reagent", "text": "CCCC[Li]"},
-      {"type": "reagent", "text": "ClCCCl"},
-      {"type": "reagent", "text": "[H+]"},
-      {"type": "temperature", "text": "reflux"},
-      {"type": "products", "text": "Fc1ccc2nc([C@@H]3CC(=O)OC3(C)C)nn2C1"}
+      {
+        "type": "reactants",
+        "text": "O=C1OC(C2=NN(C3=CC=CC=C3F)C2=O)CC1(C)C"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(=O)NC(=O)NC(C)(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCC[Li]"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[H+]"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "Fc1ccc2nc([C@@H]3CC(=O)OC3(C)C)nn2c1"
+      }
     ]
   ]
 }

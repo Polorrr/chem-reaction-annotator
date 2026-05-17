@@ -1,96 +1,308 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "COc1cccc(C(=O)O)c1"},
-      {"type": "reagent", "text": "[Pd+2]"},
-      {"type": "reagent", "text": "[K+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "O=C1C=CC(=O)C=C1"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "115 °C"},
-      {"type": "time", "text": "15 h"},
-      {"type": "products", "text": "COc1cccc(C(=O)O)c1O"}
+      {
+        "type": "reactants",
+        "text": "COc1cccc(C(=O)O)c1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O=C1C=CC(=O)C=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "115 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 h"
+      },
+      {
+        "type": "products",
+        "text": "COc1cccc(C(=O)O)c1O"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(O)c1ccc2ccccc2c1"},
-      {"type": "reagent", "text": "[Pd+2]"},
-      {"type": "reagent", "text": "[K+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "O=C1C=CC(=O)C=C1"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "115 °C"},
-      {"type": "time", "text": "15 h"},
-      {"type": "products", "text": "O=C(O)c1ccc2ccccc2c1O"}
+      {
+        "type": "reactants",
+        "text": "O=C(O)c1ccc2ccccc2c1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O=C1C=CC(=O)C=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "115 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 h"
+      },
+      {
+        "type": "products",
+        "text": "O=C(O)c1ccc2ccccc2c1O"
+      }
     ],
     [
-      {"type": "reactants", "text": "Cc1cc(C(=O)O)ccc1F"},
-      {"type": "reagent", "text": "[Pd+2]"},
-      {"type": "reagent", "text": "[K+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "O=C1C=CC(=O)C=C1"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "115 °C"},
-      {"type": "time", "text": "15 h"},
-      {"type": "products", "text": "Cc1cc(C(=O)O)c(O)cc1F"}
+      {
+        "type": "reactants",
+        "text": "Cc1cc(C(=O)O)ccc1F"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O=C1C=CC(=O)C=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "115 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 h"
+      },
+      {
+        "type": "products",
+        "text": "Cc1cc(C(=O)O)c(O)cc1F"
+      }
     ],
     [
-      {"type": "reactants", "text": "N#Cc1ccc(C(=O)O)cc1"},
-      {"type": "reagent", "text": "[Pd+2]"},
-      {"type": "reagent", "text": "[K+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "O=C1C=CC(=O)C=C1"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "reagent", "text": "O"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "115 °C"},
-      {"type": "time", "text": "15 h"},
-      {"type": "products", "text": "N#Cc1ccc(C(=O)O)c(O)c1"}
+      {
+        "type": "reactants",
+        "text": "N#Cc1ccc(C(=O)O)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O=C1C=CC(=O)C=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "115 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 h"
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1ccc(C(=O)O)c(O)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "CC(=O)c1ccc(C(=O)O)cc1"},
-      {"type": "reagent", "text": "[Pd+2]"},
-      {"type": "reagent", "text": "[K+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "O=C1C=CC(=O)C=C1"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "reagent", "text": "O"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "115 °C"},
-      {"type": "time", "text": "15 h"},
-      {"type": "products", "text": "CC(=O)c1ccc(C(=O)O)c(O)c1"}
+      {
+        "type": "reactants",
+        "text": "CC(=O)c1ccc(C(=O)O)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O=C1C=CC(=O)C=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "115 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 h"
+      },
+      {
+        "type": "products",
+        "text": "CC(=O)c1ccc(C(=O)O)c(O)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=[N+]([O-])c1ccc(C(=O)O)cc1"},
-      {"type": "reagent", "text": "[Pd+2]"},
-      {"type": "reagent", "text": "[K+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "O=C1C=CC(=O)C=C1"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "reagent", "text": "O"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "115 °C"},
-      {"type": "time", "text": "15 h"},
-      {"type": "products", "text": "O=[N+]([O-])c1ccc(C(=O)O)c(O)c1"}
+      {
+        "type": "reactants",
+        "text": "O=[N+]([O-])c1ccc(C(=O)O)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O=C1C=CC(=O)C=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "115 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 h"
+      },
+      {
+        "type": "products",
+        "text": "O=[N+]([O-])c1ccc(C(=O)O)c(O)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "FC(F)(F)c1ccc(C(=O)O)cc1"},
-      {"type": "reagent", "text": "[Pd+2]"},
-      {"type": "reagent", "text": "[K+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "O=C1C=CC(=O)C=C1"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "reagent", "text": "O"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "115 °C"},
-      {"type": "time", "text": "15 h"},
-      {"type": "products", "text": "FC(F)(F)c1ccc(C(=O)O)c(O)c1"}
+      {
+        "type": "reactants",
+        "text": "FC(F)(F)c1ccc(C(=O)O)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O=C1C=CC(=O)C=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "115 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 h"
+      },
+      {
+        "type": "products",
+        "text": "FC(F)(F)c1ccc(C(=O)O)c(O)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "CC(=O)Nc1ccc(C(=O)O)cc1"},
-      {"type": "reagent", "text": "[Pd+2]"},
-      {"type": "reagent", "text": "[K+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "O=C1C=CC(=O)C=C1"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "115 °C"},
-      {"type": "time", "text": "15 h"},
-      {"type": "products", "text": "CC(=O)Nc1ccc(C(=O)O)c(O)c1"}
+      {
+        "type": "reactants",
+        "text": "CC(=O)Nc1ccc(C(=O)O)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O=C1C=CC(=O)C=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "115 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 h"
+      },
+      {
+        "type": "products",
+        "text": "CC(=O)Nc1ccc(C(=O)O)c(O)c1"
+      }
     ]
   ]
 }

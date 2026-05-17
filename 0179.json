@@ -1,37 +1,118 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "c1ccnc(N)n1C"},
-      {"type": "reactants", "text": "C[Mg]Br"},
-      {"type": "reagent", "text": "[Ni]"},
-      {"type": "reagent", "text": "C1=CC=CC=C1N"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "25 °C"},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "c1ccnc(C)n1C"}
+      {
+        "type": "reactants",
+        "text": "Cc1cnc(N)nc1"
+      },
+      {
+        "type": "reactants",
+        "text": "C[Mg]Br"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1=CC=CC=C1N"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C"
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "Cc1cnc(C)nc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "c1ccnc(N)n1C"},
-      {"type": "reactants", "text": "CC[Mg]Br"},
-      {"type": "reagent", "text": "[Ni]"},
-      {"type": "reagent", "text": "C1=CC=CC=C1N"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "25 °C"},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "c1ccnc(CC)n1C"}
+      {
+        "type": "reactants",
+        "text": "Cc1cnc(N)nc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC[Mg]Br"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1=CC=CC=C1N"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C"
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "Cc1cnc(CC)nc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "c1ccnc(N)n1C"},
-      {"type": "reactants", "text": "C1CC[Mg]Br"},
-      {"type": "reagent", "text": "[Ni]"},
-      {"type": "reagent", "text": "C1=CC=CC=C1N"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "25 °C"},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "c1ccnc(C1CCCC1)n1C"}
+      {
+        "type": "reactants",
+        "text": "Cc1cnc(N)nc1"
+      },
+      {
+        "type": "reactants",
+        "text": "[Mg]Cl.CCCC.[Li+]Cl.[Li+]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1=CC=CC=C1N"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C"
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "Cc1cnc(C2CCCC2)nc1"
+      }
     ]
   ]
 }

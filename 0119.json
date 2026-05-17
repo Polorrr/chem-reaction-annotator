@@ -1,28 +1,82 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "C=C(c1ccc(C)cc1)C1=CC=C1B2OC(C)(C)C(C)(C)O2"},
-      {"type": "reactants", "text": "O=Nc1ccccc1"},
-      {"type": "reagent", "text": "CO"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "5-16 h"},
-      {"type": "products", "text": "Cc1ccc(-c2c(C=C)ccn2c2ccccc2)cc1"}
+      {
+        "type": "reactants",
+        "text": "C=C(c1ccc(C)cc1)C1=CC=C1B1OC(C)(C)C(C)(C)O1"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Nc1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CO"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "5-16 h"
+      },
+      {
+        "type": "products",
+        "text": "Cc1ccc(-c2c(C=C)ccn2c2ccccc2)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C=C(c1ccc(C(=O)OCC)cc1)C1=CC=C1B2OC(C)(C)C(C)(C)O2"},
-      {"type": "reactants", "text": "O=Nc1ccccc1"},
-      {"type": "reagent", "text": "CO"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "5-16 h"},
-      {"type": "products", "text": "CCOC(=O)c1ccc(-c2c(C=C)ccn2c2ccccc2)cc1"}
+      {
+        "type": "reactants",
+        "text": "C=C(c1ccc(C(=O)OCC)cc1)C1=CC=C1B1OC(C)(C)C(C)(C)O1"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Nc1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CO"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "5-16 h"
+      },
+      {
+        "type": "products",
+        "text": "CCOC(=O)c1ccc(-c2c(C=C)ccn2c2ccccc2)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "CCCC1=CC=C(B2OC(C)(C)C(C)(C)O2)C(C2=CC=CC=C2)=C1"},
-      {"type": "reactants", "text": "O=Nc1ccccc1"},
-      {"type": "reagent", "text": "CCOC(=O)C=C"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "16 h"},
-      {"type": "products", "text": "CCCC1=CC=C(B2OC(C)(C)C(C)(C)O2)C(C2=CC=CC=C2)=N1"}
+      {
+        "type": "reactants",
+        "text": "CCCC1=CC=C(B1OC(C)(C)C(C)(C)O1)C(C2=CC=CC=C2)=C1"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Nc1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCOC(=O)C=C"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "16 h"
+      },
+      {
+        "type": "products",
+        "text": "CCCC1=CC=C(B1OC(C)(C)C(C)(C)O1)C(C2=CC=CC=C2)=N1"
+      }
     ]
   ]
 }

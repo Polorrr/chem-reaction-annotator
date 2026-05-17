@@ -1,48 +1,156 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "O=C1CCC=CC1"},
-      {"type": "reactants", "text": "CC1(C)OB(c2c(C)[Si](C)(C)c1)OC1(C)C"},
-      {"type": "reagent", "text": "[Cu+]I"},
-      {"type": "reagent", "text": "CC1(C)[n+]2ccn(C(C)C)c2C(c2ccccc2)=[N+]1.[BF4-]"},
-      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "-78 °C"},
-      {"type": "products", "text": "O=C1CCC([Si](C)(C)c1ccccc1)CC1"}
+      {
+        "type": "reactants",
+        "text": "O=C1CCC=CC1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(c2c(C)[Si](C)(C)cc2)OC1(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]I"
+      },
+      {
+        "type": "reagent",
+        "text": "[n+]1(C(C)C)ccn(C)c1.[B-](F)(F)(F)(F)"
+      },
+      {
+        "type": "reagent",
+        "text": "[Na+].[O-]C(C)(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "-78 °C"
+      },
+      {
+        "type": "products",
+        "text": "O=C1CCC([Si](C)(C)c1ccccc1)CC1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1CC=CC1"},
-      {"type": "reactants", "text": "CC1(C)OB(c2c(C)[Si](C)(C)c1)OC1(C)C"},
-      {"type": "reagent", "text": "[Cu+]I"},
-      {"type": "reagent", "text": "CC1(C)[n+]2ccn(C(C)C)c2C(c2ccccc2)=[N+]1.[BF4-]"},
-      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "-78 °C"},
-      {"type": "products", "text": "O=C1CCC([Si](C)(C)c1ccccc1)CC1"}
+      {
+        "type": "reactants",
+        "text": "O=C1CC=CC1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(c2c(C)[Si](C)(C)cc2)OC1(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]I"
+      },
+      {
+        "type": "reagent",
+        "text": "[n+]1(C(C)C)ccn(C)c1.[B-](F)(F)(F)(F)"
+      },
+      {
+        "type": "reagent",
+        "text": "[Na+].[O-]C(C)(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "-78 °C"
+      },
+      {
+        "type": "products",
+        "text": "O=C1CCC([Si](C)(C)c1ccccc1)CC1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1CCCC=CC1"},
-      {"type": "reactants", "text": "CC1(C)OB(c2c(C)[Si](C)(C)c1)OC1(C)C"},
-      {"type": "reagent", "text": "[Cu+]I"},
-      {"type": "reagent", "text": "CC1(C)[n+]2ccn(C(C)C)c2C(c2ccccc2)=[N+]1.[BF4-]"},
-      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "-78 °C"},
-      {"type": "products", "text": "O=C1CCCC([Si](C)(C)c1ccccc1)CC1"}
+      {
+        "type": "reactants",
+        "text": "O=C1CCCC=CC1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(c2c(C)[Si](C)(C)cc2)OC1(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]I"
+      },
+      {
+        "type": "reagent",
+        "text": "[n+]1(C(C)C)ccn(C)c1.[B-](F)(F)(F)(F)"
+      },
+      {
+        "type": "reagent",
+        "text": "[Na+].[O-]C(C)(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "-78 °C"
+      },
+      {
+        "type": "products",
+        "text": "O=C1CCCC([Si](C)(C)c1ccccc1)CC1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1CCC=CC1"},
-      {"type": "reactants", "text": "CC1(C)OB(c2c(C)[Si](C)(C)c1)OC1(C)C"},
-      {"type": "reagent", "text": "[Cu+]I"},
-      {"type": "reagent", "text": "CC1(C)[n+]2ccn(C(C)C)c2C(c2ccccc2)=[N+]1.[BF4-]"},
-      {"type": "reagent", "text": "[Na+].[O-]C(C)(C)C"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "O"},
-      {"type": "temperature", "text": "-78 °C"},
-      {"type": "products", "text": "O=C1CCC([Si](C)(C)c1ccccc1)C1CCCCC1"}
+      {
+        "type": "reactants",
+        "text": "O=C1CCC=CC1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(c2c(C)[Si](C)(C)cc2)OC1(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]I"
+      },
+      {
+        "type": "reagent",
+        "text": "[n+]1(C(C)C)ccn(C)c1.[B-](F)(F)(F)(F)"
+      },
+      {
+        "type": "reagent",
+        "text": "[Na+].[O-]C(C)(C)C"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "temperature",
+        "text": "-78 °C"
+      },
+      {
+        "type": "products",
+        "text": "O=C1CCC([Si](C)(C)c2ccccc2)C1CCCCC1"
+      }
     ]
   ]
 }

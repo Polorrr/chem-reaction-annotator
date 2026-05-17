@@ -1,100 +1,340 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "C(=Nc1ccccc1)c1ccncc1"},
-      {"type": "reactants", "text": "c1ccc([Mg+].[Br-])cc1"},
-      {"type": "reactants", "text": "CC(C)(C)Cl"},
-      {"type": "reagent", "text": "[Fe+3]"},
-      {"type": "reagent", "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"},
-      {"type": "reagent", "text": "[K+].[F-]"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "time", "text": "15 min"},
-      {"type": "products", "text": "O=C(C)c1cc(-c2ccccc2)nc1"}
+      {
+        "type": "reactants",
+        "text": "C(=Nc1ccccc1)c1ccncc1"
+      },
+      {
+        "type": "reactants",
+        "text": "c1ccc([Mg+].[Br-])cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Fe+3]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[F-]"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)c1cccc(-c2ccccc2)n1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C(=Nc1ccccc1)c1ccsc1"},
-      {"type": "reactants", "text": "Cc1ccc([Mg+].[Br-])cc1"},
-      {"type": "reactants", "text": "CC(C)(C)Cl"},
-      {"type": "reagent", "text": "[Fe+3]"},
-      {"type": "reagent", "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"},
-      {"type": "reagent", "text": "[K+].[F-]"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "time", "text": "15 min"},
-      {"type": "products", "text": "O=C(C)c1cc(-c2ccc(C)cc2)cs1"}
+      {
+        "type": "reactants",
+        "text": "C(=Nc1ccccc1)c1ccsc1"
+      },
+      {
+        "type": "reactants",
+        "text": "Cc1ccc([Mg+].[Br-])cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Fe+3]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[F-]"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)c1cc(-c2ccc(C)cc2)cs1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C(=Nc1ccccc1)c1ccoc1C"},
-      {"type": "reactants", "text": "c1ccc([Mg+].[Br-])cc1"},
-      {"type": "reactants", "text": "CC(C)(C)Cl"},
-      {"type": "reagent", "text": "[Fe+3]"},
-      {"type": "reagent", "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"},
-      {"type": "reagent", "text": "[K+].[F-]"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "time", "text": "15 min"},
-      {"type": "products", "text": "O=C(C)c1cc(-c2ccccc2)oc1C"}
+      {
+        "type": "reactants",
+        "text": "C(=Nc1ccccc1)c1ccoc1C"
+      },
+      {
+        "type": "reactants",
+        "text": "c1ccc([Mg+].[Br-])cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Fe+3]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[F-]"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)c1cc(-c2ccccc2)oc1C"
+      }
     ],
     [
-      {"type": "reactants", "text": "C(=Nc1ccccc1)c1cc(C)nc(Cl)c1"},
-      {"type": "reactants", "text": "c1ccc([Mg+].[Br-])cc1"},
-      {"type": "reactants", "text": "CC(C)(C)Cl"},
-      {"type": "reagent", "text": "[Fe+3]"},
-      {"type": "reagent", "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"},
-      {"type": "reagent", "text": "[K+].[F-]"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "time", "text": "15 min"},
-      {"type": "products", "text": "O=C(C)c1cc(-c2ccccc2)nc(Cl)c1"}
+      {
+        "type": "reactants",
+        "text": "C(=Nc1ccccc1)c1cc(C)nc(Cl)c1"
+      },
+      {
+        "type": "reactants",
+        "text": "c1ccc([Mg+].[Br-])cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Fe+3]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[F-]"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)c1cc(-c2ccccc2)nc(Cl)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C(=Nc1ccccc1)c1cc2ccccc2o1"},
-      {"type": "reactants", "text": "c1ccc([Mg+].[Br-])cc1"},
-      {"type": "reactants", "text": "CC(C)(C)Cl"},
-      {"type": "reagent", "text": "[Fe+3]"},
-      {"type": "reagent", "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"},
-      {"type": "reagent", "text": "[K+].[F-]"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "time", "text": "15 min"},
-      {"type": "products", "text": "O=C(C)c1cc(-c2ccccc2)c2ccccc2o1"}
+      {
+        "type": "reactants",
+        "text": "C(=Nc1ccccc1)c1cc2ccccc2o1"
+      },
+      {
+        "type": "reactants",
+        "text": "c1ccc([Mg+].[Br-])cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Fe+3]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[F-]"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)c1cccc(-c2ccccc2)c2cccoc12"
+      }
     ],
     [
-      {"type": "reactants", "text": "C(=Nc1ccccc1)c1cc(-c2ccccc2)sc1"},
-      {"type": "reactants", "text": "Cc1ccc([Mg+].[Br-])cc1"},
-      {"type": "reactants", "text": "CC(C)(C)Cl"},
-      {"type": "reagent", "text": "[Fe+3]"},
-      {"type": "reagent", "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"},
-      {"type": "reagent", "text": "[K+].[F-]"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "time", "text": "15 min"},
-      {"type": "products", "text": "O=C(C)c1cc(-c2ccccc2)sc1-c1ccc(C)cc1"}
+      {
+        "type": "reactants",
+        "text": "C(=Nc1ccccc1)c1cc(-c2ccccc2)sc1"
+      },
+      {
+        "type": "reactants",
+        "text": "Cc1ccc([Mg+].[Br-])cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Fe+3]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[F-]"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)c1cc(-c2ccccc2)sc1-c1ccc(C)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C(=Nc1ccccc1)c1cc(-c2ccccc2)sc1"},
-      {"type": "reactants", "text": "COc1ccc([Mg+].[Br-])cc1"},
-      {"type": "reactants", "text": "CC(C)(C)Cl"},
-      {"type": "reagent", "text": "[Fe+3]"},
-      {"type": "reagent", "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"},
-      {"type": "reagent", "text": "[K+].[F-]"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "time", "text": "15 min"},
-      {"type": "products", "text": "O=C(C)c1cc(-c2ccccc2)sc1-c1ccc(OC)cc1"}
+      {
+        "type": "reactants",
+        "text": "C(=Nc1ccccc1)c1cc(-c2ccccc2)sc1"
+      },
+      {
+        "type": "reactants",
+        "text": "COc1ccc([Mg+].[Br-])cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Fe+3]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[F-]"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)c1cc(-c2ccccc2)sc1-c1ccc(OC)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C(=Nc1ccccc1)c1cc2ccccc2s1"},
-      {"type": "reactants", "text": "c1ccc([Mg+].[Br-])cc1"},
-      {"type": "reactants", "text": "CC(C)(C)Cl"},
-      {"type": "reagent", "text": "[Fe+3]"},
-      {"type": "reagent", "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"},
-      {"type": "reagent", "text": "[K+].[F-]"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "time", "text": "15 min"},
-      {"type": "products", "text": "O=C(C)c1cc(-c2ccccc2)c2ccccc2s1"}
+      {
+        "type": "reactants",
+        "text": "C(=Nc1ccccc1)c1cc2ccccc2s1"
+      },
+      {
+        "type": "reactants",
+        "text": "c1ccc([Mg+].[Br-])cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Fe+3]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccnc(C(C)(C)C)c1"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[F-]"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)c1cccc(-c2ccccc2)c2cccsc12"
+      }
     ]
   ]
 }

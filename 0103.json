@@ -1,144 +1,504 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "O=Cc1ccccc1"},
-      {"type": "reactants", "text": "C=CCCl"},
-      {"type": "reagent", "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "C1=Cc2cc(C(C)(C)O)cc(C(C)(C)O)c2N=c2ccn(c2-c2ccn(c2C(C)(C)O)C(C)(C)C2)C1C(C)(C)C"},
-      {"type": "reagent", "text": "CCN(CC)CC"},
-      {"type": "reagent", "text": "[Mn]"},
-      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "F[P-](F)(F)(F)(F)F"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "C=CCC(O)c1ccccc1"}
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccccc1"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccc(-c2cc(C(C)(C)O)cc(C(C)(C)O)c2)nc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCN(CC)CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Mn]"
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "F[P-](F)(F)(F)(F)F"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "C=CCC(O)c1ccccc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "COc1ccc(C=O)cc1"},
-      {"type": "reactants", "text": "C=CCCl"},
-      {"type": "reagent", "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "C1=Cc2cc(C(C)(C)O)cc(C(C)(C)O)c2N=c2ccn(c2-c2ccn(c2C(C)(C)O)C(C)(C)C2)C1C(C)(C)C"},
-      {"type": "reagent", "text": "CCN(CC)CC"},
-      {"type": "reagent", "text": "[Mn]"},
-      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "F[P-](F)(F)(F)(F)F"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "C=CCC(O)c1ccc(OC)cc1"}
+      {
+        "type": "reactants",
+        "text": "COc1ccc(C=O)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccc(-c2cc(C(C)(C)O)cc(C(C)(C)O)c2)nc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCN(CC)CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Mn]"
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "F[P-](F)(F)(F)(F)F"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "C=CCC(O)c1ccc(OC)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=Cc1ccccc1Cl"},
-      {"type": "reactants", "text": "C=CCCl"},
-      {"type": "reagent", "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "C1=Cc2cc(C(C)(C)O)cc(C(C)(C)O)c2N=c2ccn(c2-c2ccn(c2C(C)(C)O)C(C)(C)C2)C1C(C)(C)C"},
-      {"type": "reagent", "text": "CCN(CC)CC"},
-      {"type": "reagent", "text": "[Mn]"},
-      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "F[P-](F)(F)(F)(F)F"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "C=CCC(O)c1ccccc1Cl"}
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccccc1Cl"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccc(-c2cc(C(C)(C)O)cc(C(C)(C)O)c2)nc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCN(CC)CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Mn]"
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "F[P-](F)(F)(F)(F)F"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "C=CCC(O)c1ccccc1Cl"
+      }
     ],
     [
-      {"type": "reactants", "text": "N#Cc1ccc(C=O)cc1"},
-      {"type": "reactants", "text": "C=CCCl"},
-      {"type": "reagent", "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "C1=Cc2cc(C(C)(C)O)cc(C(C)(C)O)c2N=c2ccn(c2-c2ccn(c2C(C)(C)O)C(C)(C)C2)C1C(C)(C)C"},
-      {"type": "reagent", "text": "CCN(CC)CC"},
-      {"type": "reagent", "text": "[Mn]"},
-      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "F[P-](F)(F)(F)(F)F"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "C=CCC(O)c1ccc(N#C)cc1"}
+      {
+        "type": "reactants",
+        "text": "N#Cc1ccc(C=O)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccc(-c2cc(C(C)(C)O)cc(C(C)(C)O)c2)nc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCN(CC)CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Mn]"
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "F[P-](F)(F)(F)(F)F"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1ccc(CCC=O)c(O)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=Cc1cccc2ccccc12"},
-      {"type": "reactants", "text": "C=CCCl"},
-      {"type": "reagent", "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "C1=Cc2cc(C(C)(C)O)cc(C(C)(C)O)c2N=c2ccn(c2-c2ccn(c2C(C)(C)O)C(C)(C)C2)C1C(C)(C)C"},
-      {"type": "reagent", "text": "CCN(CC)CC"},
-      {"type": "reagent", "text": "[Mn]"},
-      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "F[P-](F)(F)(F)(F)F"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "C=CCC(O)c1ccc2ccccc2c1"}
+      {
+        "type": "reactants",
+        "text": "O=Cc1cccc2ccccc12"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccc(-c2cc(C(C)(C)O)cc(C(C)(C)O)c2)nc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCN(CC)CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Mn]"
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "F[P-](F)(F)(F)(F)F"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "C=CCC(O)c1ccc2ccccc2c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1CCCCC1"},
-      {"type": "reactants", "text": "C=CCCl"},
-      {"type": "reagent", "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "C1=Cc2cc(C(C)(C)O)cc(C(C)(C)O)c2N=c2ccn(c2-c2ccn(c2C(C)(C)O)C(C)(C)C2)C1C(C)(C)C"},
-      {"type": "reagent", "text": "CCN(CC)CC"},
-      {"type": "reagent", "text": "[Mn]"},
-      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "F[P-](F)(F)(F)(F)F"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "C=CC[C@@H](O)C1CCCCC1"}
+      {
+        "type": "reactants",
+        "text": "O=C1CCCCC1"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccc(-c2cc(C(C)(C)O)cc(C(C)(C)O)c2)nc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCN(CC)CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Mn]"
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "F[P-](F)(F)(F)(F)F"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "C=CC[C@@H](O)C1CCCCC1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C=CC=CCc1ccccc1"},
-      {"type": "reactants", "text": "C=CCCl"},
-      {"type": "reagent", "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "C1=Cc2cc(C(C)(C)O)cc(C(C)(C)O)c2N=c2ccn(c2-c2ccn(c2C(C)(C)O)C(C)(C)C2)C1C(C)(C)C"},
-      {"type": "reagent", "text": "CCN(CC)CC"},
-      {"type": "reagent", "text": "[Mn]"},
-      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "F[P-](F)(F)(F)(F)F"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "C=CCC(O)/C=C/c1ccccc1"}
+      {
+        "type": "reactants",
+        "text": "C=CC=CCc1ccccc1"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccc(-c2cc(C(C)(C)O)cc(C(C)(C)O)c2)nc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCN(CC)CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Mn]"
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "F[P-](F)(F)(F)(F)F"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "C=CCC(O)/C=C/c1ccccc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=Cc1ccoc1"},
-      {"type": "reactants", "text": "C=CCCl"},
-      {"type": "reagent", "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "C1=Cc2cc(C(C)(C)O)cc(C(C)(C)O)c2N=c2ccn(c2-c2ccn(c2C(C)(C)O)C(C)(C)C2)C1C(C)(C)C"},
-      {"type": "reagent", "text": "CCN(CC)CC"},
-      {"type": "reagent", "text": "[Mn]"},
-      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "F[P-](F)(F)(F)(F)F"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "C=CCC(O)c1ccoc1"}
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccoc1"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccc(-c2cc(C(C)(C)O)cc(C(C)(C)O)c2)nc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCN(CC)CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Mn]"
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "F[P-](F)(F)(F)(F)F"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "C=CCC(O)c1ccoc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=CCCCCC"},
-      {"type": "reactants", "text": "C=CCCl"},
-      {"type": "reagent", "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "C1=Cc2cc(C(C)(C)O)cc(C(C)(C)O)c2N=c2ccn(c2-c2ccn(c2C(C)(C)O)C(C)(C)C2)C1C(C)(C)C"},
-      {"type": "reagent", "text": "CCN(CC)CC"},
-      {"type": "reagent", "text": "[Mn]"},
-      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "F[P-](F)(F)(F)(F)F"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "C=CCC(O)CCCCCC"}
+      {
+        "type": "reactants",
+        "text": "O=CCCCCC"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccc(-c2cc(C(C)(C)O)cc(C(C)(C)O)c2)nc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCN(CC)CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Mn]"
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "F[P-](F)(F)(F)(F)F"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "C=CCC(O)CCCCCC"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(COCCc1ccccc1)CC"},
-      {"type": "reactants", "text": "C=CCCl"},
-      {"type": "reagent", "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "C1=Cc2cc(C(C)(C)O)cc(C(C)(C)O)c2N=c2ccn(c2-c2ccn(c2C(C)(C)O)C(C)(C)C2)C1C(C)(C)C"},
-      {"type": "reagent", "text": "CCN(CC)CC"},
-      {"type": "reagent", "text": "[Mn]"},
-      {"type": "reagent", "text": "C[Si](C)(C)Cl"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "F[P-](F)(F)(F)(F)F"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "24 h"},
-      {"type": "products", "text": "C=CCC(O)CCOCc1ccccc1"}
+      {
+        "type": "reactants",
+        "text": "O=C(COCCc1ccccc1)CC"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cr+3].[Cl-].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)c1ccc(-c2cc(C(C)(C)O)cc(C(C)(C)O)c2)nc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCN(CC)CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Mn]"
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "F[P-](F)(F)(F)(F)F"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "24 h"
+      },
+      {
+        "type": "products",
+        "text": "C=CCC(O)CCOCc1ccccc1"
+      }
     ]
   ]
 }

@@ -1,67 +1,214 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "O=C1C(C)([Si](C)(C)C)CC1=O"},
-      {"type": "reactants", "text": "O=Cc1ccc(Br)cc1"},
-      {"type": "reagent", "text": "Cl[Ti]Cl"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "temperature", "text": "-78 to -20 °C"},
-      {"type": "time", "text": "15 min to 24 h"},
-      {"type": "products", "text": "O=C(C)(C)C(Oc1ccc(Br)cc1)C(=C)C"}
+      {
+        "type": "reactants",
+        "text": "O=C1C(C)([Si](C)(C)C)CC1=O"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccc(Br)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Ti]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "-78 to -20 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min to 24 h"
+      },
+      {
+        "type": "products",
+        "text": "CC(=O)C(Oc1ccc(Br)cc1)C=C"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1C(C)([Si](C)(C)C)CC1=O"},
-      {"type": "reactants", "text": "O=Cc1ccc2ccccc2c1"},
-      {"type": "reagent", "text": "Cl[Ti]Cl"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "temperature", "text": "-78 to -20 °C"},
-      {"type": "time", "text": "15 min to 24 h"},
-      {"type": "products", "text": "O=C(C)(C)C(Oc1ccc2ccccc2c1)C(=C)C"}
+      {
+        "type": "reactants",
+        "text": "O=C1C(C)([Si](C)(C)C)CC1=O"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccc2ccccc2c1"
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Ti]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "-78 to -20 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min to 24 h"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)(C)C(Oc1ccc2ccccc2c1)C(=C)C"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1C(C)([Si](C)(C)C)CC1=O"},
-      {"type": "reactants", "text": "O=Cc1ccc(CCc2ccccc2)cc1"},
-      {"type": "reagent", "text": "Cl[Ti]Cl"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "temperature", "text": "-78 to -20 °C"},
-      {"type": "time", "text": "15 min to 24 h"},
-      {"type": "products", "text": "O=C(C)(C)C(Oc1ccc(CCc2ccccc2)cc1)C(=C)C"}
+      {
+        "type": "reactants",
+        "text": "O=C1C(C)([Si](C)(C)C)CC1=O"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccc(CCc2ccccc2)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Ti]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "-78 to -20 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min to 24 h"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)(C)C(Oc1ccc(CCc2ccccc2)cc1)C(=C)C"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1C2(CCCC2)CC1=O"},
-      {"type": "reactants", "text": "O=Cc1ccc2ccccc2c1"},
-      {"type": "reagent", "text": "Cl[Ti]Cl"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "temperature", "text": "-78 to -20 °C"},
-      {"type": "time", "text": "15 min to 24 h"},
-      {"type": "products", "text": "O=C1C2(CCCC2)C(Oc1ccc2ccccc2c1)C(=C)C"}
+      {
+        "type": "reactants",
+        "text": "O=C1C2(CCCC2)CC1=O"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccc2ccccc2c1"
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Ti]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "-78 to -20 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min to 24 h"
+      },
+      {
+        "type": "products",
+        "text": "O=C1C2(CCCC2)C(Oc1ccc2ccccc2c1)C(=C)C"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1C([Si](C)(C)C)CC1=O"},
-      {"type": "reactants", "text": "O=Cc1ccc2ccccc2c1"},
-      {"type": "reagent", "text": "Cl[Ti]Cl"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "temperature", "text": "-78 to -20 °C"},
-      {"type": "time", "text": "15 min to 24 h"},
-      {"type": "products", "text": "O=C(C)C(Oc1ccc2ccccc2c1)[Si](C)(C)C"}
+      {
+        "type": "reactants",
+        "text": "O=C1C([Si](C)(C)C)CC1=O"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccc2ccccc2c1"
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Ti]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "-78 to -20 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min to 24 h"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)C(Oc1ccc2ccccc2c1)[Si](C)(C)C"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1C([Si](C)(C)C)CC1=O"},
-      {"type": "reactants", "text": "O=Cc1ccccc1CCCCCC"},
-      {"type": "reagent", "text": "Cl[Ti]Cl"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "temperature", "text": "-78 to -20 °C"},
-      {"type": "time", "text": "15 min to 24 h"},
-      {"type": "products", "text": "O=C(C)C(Oc1ccccc1CCCCCC)[Si](C)(C)C"}
+      {
+        "type": "reactants",
+        "text": "O=C1C([Si](C)(C)C)CC1=O"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccccc1CCCCCC"
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Ti]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "-78 to -20 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min to 24 h"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)C(Oc1ccccc1CCCCCC)[Si](C)(C)C"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1C(CC)(CC)CC1=O"},
-      {"type": "reactants", "text": "O=Cc1ccc2ccccc2c1"},
-      {"type": "reagent", "text": "Cl[Ti]Cl"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "temperature", "text": "-78 to -20 °C"},
-      {"type": "time", "text": "15 min to 24 h"},
-      {"type": "products", "text": "O=C(C)(CC)C(Oc1ccc2ccccc2c1)C(=C)CC"}
+      {
+        "type": "reactants",
+        "text": "O=C1C(CC)(CC)CC1=O"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccc2ccccc2c1"
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Ti]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "-78 to -20 °C"
+      },
+      {
+        "type": "time",
+        "text": "15 min to 24 h"
+      },
+      {
+        "type": "products",
+        "text": "O=C(C)(CC)C(Oc1ccc2ccccc2c1)C(=C)CC"
+      }
     ]
   ]
 }

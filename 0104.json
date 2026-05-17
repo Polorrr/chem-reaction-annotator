@@ -1,40 +1,124 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "C=C(C[Si](C)(C)C)COC(=O)OC(C)(C)C"},
-      {"type": "reactants", "text": "C=CC(=O)N1C=CC=C1"},
-      {"type": "reagent", "text": "[Pd]"},
-      {"type": "reagent", "text": "O=P1(c2ccccc2)N(c2ccccc2)CCN(c2ccccc2)P1O"},
-      {"type": "reagent", "text": "Cc1ccccc1"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "products", "text": "C=C1CC(C=Cc2ccc(Cl)cc2Cl)CC1C(=O)N1C=CC=C1"}
+      {
+        "type": "reactants",
+        "text": "C=C(C[Si](C)(C)C)COC(=O)OC(C)(C)C"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CC(=O)N1C=CC=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=P1(c2ccccc2)N(c2ccccc2)CCN(c2ccccc2)P1O"
+      },
+      {
+        "type": "reagent",
+        "text": "Cc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "products",
+        "text": "C=C1CC(C=Cc2ccc(Cl)cc2Cl)CC1C(=O)N1C=CC=C1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C=C(C[Si](C)(C)C)COC(=O)OC(C)(C)C"},
-      {"type": "reactants", "text": "C=CC(=O)N1C=CC=C1"},
-      {"type": "reagent", "text": "[Pd]"},
-      {"type": "reagent", "text": "O=P1(c2ccccc2)N(c2ccccc2)CCN(c2ccccc2)P1O"},
-      {"type": "reagent", "text": "Cc1ccccc1"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "products", "text": "C=C1CC(C=c2ccncc2)CC1C(=O)N1C=CC=C1"}
+      {
+        "type": "reactants",
+        "text": "C=C(C[Si](C)(C)C)COC(=O)OC(C)(C)C"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CC(=O)N1C=CC=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=P1(c2ccccc2)N(c2ccccc2)CCN(c2ccccc2)P1O"
+      },
+      {
+        "type": "reagent",
+        "text": "Cc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "products",
+        "text": "C=C1CC(C=Cc2ccncc2)CC1C(=O)N1C=CC=C1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C=C(C[Si](C)(C)C)COC(=O)OC(C)(C)C"},
-      {"type": "reactants", "text": "C=CC(=O)N1C=CC=C1"},
-      {"type": "reagent", "text": "[Pd]"},
-      {"type": "reagent", "text": "O=P1(c2ccccc2)N(c2ccccc2)CCN(c2ccccc2)P1O"},
-      {"type": "reagent", "text": "Cc1ccccc1"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "products", "text": "C=C1CC(C#C[Si](CCC)(CCC)CCC)CC1C(=O)N1C=CC=C1"}
+      {
+        "type": "reactants",
+        "text": "C=C(C[Si](C)(C)C)COC(=O)OC(C)(C)C"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CC(=O)N1C=CC=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=P1(c2ccccc2)N(c2ccccc2)CCN(c2ccccc2)P1O"
+      },
+      {
+        "type": "reagent",
+        "text": "Cc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "products",
+        "text": "C=C1CC(C#C[Si](CCC)(CCC)CCC)CC1C(=O)N1C=CC=C1"
+      }
     ],
     [
-      {"type": "reactants", "text": "C=C(C[Si](C)(C)C)COC(=O)OC(C)(C)C"},
-      {"type": "reactants", "text": "C=CC(=O)N1C=CC=C1"},
-      {"type": "reagent", "text": "[Pd]"},
-      {"type": "reagent", "text": "O=P1(c2ccccc2)N(c2ccccc2)CCN(c2ccccc2)P1O"},
-      {"type": "reagent", "text": "Cc1ccccc1"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "products", "text": "C=C1CC(/C=C/C(=O)OCC)CC1C(=O)N1C=CC=C1"}
+      {
+        "type": "reactants",
+        "text": "C=C(C[Si](C)(C)C)COC(=O)OC(C)(C)C"
+      },
+      {
+        "type": "reactants",
+        "text": "C=CC(=O)N1C=CC=C1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=P1(c2ccccc2)N(c2ccccc2)CCN(c2ccccc2)P1O"
+      },
+      {
+        "type": "reagent",
+        "text": "Cc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "products",
+        "text": "C=C1CC(/C=C/C(=O)OCC)CC1C(=O)N1C=CC=C1"
+      }
     ]
   ]
 }

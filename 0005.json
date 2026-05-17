@@ -1,85 +1,274 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "COc1ccc(C=O)cc1"},
-      {"type": "reactants", "text": "BrC(F)(F)C(=O)OCC"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "[NH4+]Cl"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "COc1ccc(/C=C(F)/C(=O)OCC)cc1"}
+      {
+        "type": "reactants",
+        "text": "COc1ccc(C=O)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "BrC(F)(F)C(=O)OCC"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[NH4+].[Cl-]"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "COc1ccc(/C=C(F)/C(=O)OCC)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=Cc1ccccc1"},
-      {"type": "reactants", "text": "BrC(F)(F)C(=O)OCC"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "[NH4+]Cl"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C(OCC)/C(F)=C/c1ccccc1"}
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccccc1"
+      },
+      {
+        "type": "reactants",
+        "text": "BrC(F)(F)C(=O)OCC"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[NH4+].[Cl-]"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)/C(F)=C/c1ccccc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "N#Cc1ccc(C=O)cc1"},
-      {"type": "reactants", "text": "BrC(F)(F)C(=O)OCC"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "[NH4+]Cl"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "N#Cc1ccc(/C=C(F)/C(=O)OCC)cc1"}
+      {
+        "type": "reactants",
+        "text": "N#Cc1ccc(C=O)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "BrC(F)(F)C(=O)OCC"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[NH4+].[Cl-]"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1ccc(/C=C(F)/C(=O)OCC)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=Cc1ccc(/C=C/c2ccccc2)cc1"},
-      {"type": "reactants", "text": "BrC(F)(F)C(=O)OCC"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "[NH4+]Cl"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C(OCC)/C(F)=C/c1ccc(/C=C/c2ccccc2)cc1"}
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccc(/C=C/c2ccccc2)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "BrC(F)(F)C(=O)OCC"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[NH4+].[Cl-]"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)/C(F)=C/c1ccc(/C=C/c2ccccc2)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=Cc1ccc(OSi(C)(C)C(C)(C)C)cc1"},
-      {"type": "reactants", "text": "BrC(F)(F)C(=O)OCC"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "[NH4+]Cl"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C(OCC)/C(F)=C/c1ccc(OSi(C)(C)C(C)(C)C)cc1"}
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccc(O[Si](C)(C)C(C)(C)C)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "BrC(F)(F)C(=O)OCC"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[NH4+].[Cl-]"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)/C(F)=C/c1ccc(O[Si](C)(C)C(C)(C)C)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "CC(=O)c1ccc(C=O)cc1"},
-      {"type": "reactants", "text": "BrC(F)(F)C(=O)OCC"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "[NH4+]Cl"},
-      {"type": "temperature", "text": "reflux"},
-      {"type": "products", "text": "CC(=O)c1ccc(/C(F)=C(C)C(=O)OCC)cc1"}
+      {
+        "type": "reactants",
+        "text": "CC(=O)c1ccc(C=O)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "BrC(F)(F)C(=O)OCC"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[NH4+].[Cl-]"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "CC(=O)c1ccc(/C(F)=C(C)C(=O)OCC)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "CC(C)(C)C(=O)C"},
-      {"type": "reactants", "text": "BrC(F)(F)C(=O)OCC"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "[NH4+]Cl"},
-      {"type": "temperature", "text": "reflux"},
-      {"type": "products", "text": "O=C(OCC)/C(F)=C(C)C(C)(C)C"}
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)C(=O)C"
+      },
+      {
+        "type": "reactants",
+        "text": "BrC(F)(F)C(=O)OCC"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[NH4+].[Cl-]"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)/C(F)=C(C)C(C)(C)C"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(CCc1ccccc1)C"},
-      {"type": "reactants", "text": "BrC(F)(F)C(=O)OCC"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "[NH4+]Cl"},
-      {"type": "temperature", "text": "reflux"},
-      {"type": "products", "text": "O=C(OCC)/C(F)=C(C)CCc1ccccc1"}
+      {
+        "type": "reactants",
+        "text": "O=C(CCc1ccccc1)C"
+      },
+      {
+        "type": "reactants",
+        "text": "BrC(F)(F)C(=O)OCC"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[NH4+].[Cl-]"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)/C(F)=C(C)CCc1ccccc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "CC(=O)CCc1ccccc1"},
-      {"type": "reactants", "text": "BrC(F)(F)C(=O)OCC"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "reagent", "text": "[NH4+]Cl"},
-      {"type": "temperature", "text": "reflux"},
-      {"type": "products", "text": "CC(=O)/C(F)=C(CCc1ccccc1)C(=O)OCC"}
+      {
+        "type": "reactants",
+        "text": "CC(=O)CCc1ccccc1"
+      },
+      {
+        "type": "reactants",
+        "text": "BrC(F)(F)C(=O)OCC"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "reagent",
+        "text": "[NH4+].[Cl-]"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "CC(=O)/C(F)=C(CCc1ccccc1)C(=O)OCC"
+      }
     ]
   ]
 }

@@ -1,34 +1,94 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "O=C1CCC=CC1"},
-      {"type": "reactants", "text": "Sc1ccccc1"},
-      {"type": "reagent", "text": "OC(=O)Nc1ccc(C(F)(F)F)cc1"},
-      {"type": "reagent", "text": "OC(=O)Nc1ccc(C(F)(F)F)cc1"},
-      {"type": "reagent", "text": "COc1ccc2ccccc2c1"},
-      {"type": "reagent", "text": "Cc1ccccc1"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C1CCC(SCc2ccccc2)CC1"}
+      {
+        "type": "reactants",
+        "text": "O=C1CCC=CC1"
+      },
+      {
+        "type": "reactants",
+        "text": "Sc1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)Nc1ccc(C(F)(F)F)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "COc1ccc2ccccc2c1"
+      },
+      {
+        "type": "reagent",
+        "text": "Cc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1CCC(SCc2ccccc2)CC1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1CCC=CC1"},
-      {"type": "reactants", "text": "Sc1ccccc1"},
-      {"type": "reagent", "text": "OC(=O)Nc1ccc(C(F)(F)F)cc1"},
-      {"type": "reagent", "text": "OC(=O)Nc1ccc(C(F)(F)F)cc1"},
-      {"type": "reagent", "text": "COc1ccc2ccccc2c1"},
-      {"type": "reagent", "text": "Cc1ccccc1"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C1CCC(SCc2ccc(OC)cc2)CC1"}
+      {
+        "type": "reactants",
+        "text": "O=C1CCC=CC1"
+      },
+      {
+        "type": "reactants",
+        "text": "Sc1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)Nc1ccc(C(F)(F)F)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "COc1ccc2ccccc2c1"
+      },
+      {
+        "type": "reagent",
+        "text": "Cc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1CCC(SCc2ccc(OC)cc2)CC1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1CCC=CC1"},
-      {"type": "reactants", "text": "CCc1ccccc1"},
-      {"type": "reagent", "text": "OC(=O)Nc1ccc(C(F)(F)F)cc1"},
-      {"type": "reagent", "text": "OC(=O)Nc1ccc(C(F)(F)F)cc1"},
-      {"type": "reagent", "text": "COc1ccc2ccccc2c1"},
-      {"type": "reagent", "text": "Cc1ccccc1"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C1CCC(SCc2cccc(C)cc2)CC1"}
+      {
+        "type": "reactants",
+        "text": "O=C1CCC=CC1"
+      },
+      {
+        "type": "reactants",
+        "text": "CCc1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)Nc1ccc(C(F)(F)F)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "COc1ccc2ccccc2c1"
+      },
+      {
+        "type": "reagent",
+        "text": "Cc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1CCC(SCc2cccc(C)cc2)CC1"
+      }
     ]
   ]
 }

@@ -1,74 +1,242 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "O=C(OCC)/C(=C/Oc1cccc(Br)c1)C"},
-      {"type": "reactants", "text": "[H][H]"},
-      {"type": "reagent", "text": "[Rh+].[BF4-]"},
-      {"type": "reagent", "text": "C[P@@]1(c2ccc([C](F)(F)F)cc2)C(c2ccc([C](F)(F)F)cc2)P1c1ccccc1"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "80 °C"},
-      {"type": "other conditions", "text": "H2 (125 psi)"},
-      {"type": "products", "text": "O=C(OCC)[C@H](C)Oc1cccc(Br)c1"}
+      {
+        "type": "reactants",
+        "text": "O=C(OCC)/C(=C/Oc1cccc(Br)c1)C"
+      },
+      {
+        "type": "reactants",
+        "text": "[H][H]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+].F[B-](F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "C[P@@]1(c2ccc(C(F)(F)F)cc2)C(c2ccc(C(F)(F)F)cc2)P1c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "80 °C"
+      },
+      {
+        "type": "other conditions",
+        "text": "H2 (125 psi)"
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)[C@H](C)Oc1cccc(Br)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(OCC)/C(=C/Oc1cccc(C)c1)C"},
-      {"type": "reactants", "text": "[H][H]"},
-      {"type": "reagent", "text": "[Rh+].[BF4-]"},
-      {"type": "reagent", "text": "C[P@@]1(c2ccc([C](F)(F)F)cc2)C(c2ccc([C](F)(F)F)cc2)P1c1ccccc1"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "80 °C"},
-      {"type": "other conditions", "text": "H2 (125 psi)"},
-      {"type": "products", "text": "O=C(OCC)[C@H](C)Oc1cccc(C)c1"}
+      {
+        "type": "reactants",
+        "text": "O=C(OCC)/C(=C/Oc1cccc(C)c1)C"
+      },
+      {
+        "type": "reactants",
+        "text": "[H][H]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+].F[B-](F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "C[P@@]1(c2ccc(C(F)(F)F)cc2)C(c2ccc(C(F)(F)F)cc2)P1c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "80 °C"
+      },
+      {
+        "type": "other conditions",
+        "text": "H2 (125 psi)"
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)[C@H](C)Oc1cccc(C)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(OCC)/C(=C/Oc1cccc(F)c1)C"},
-      {"type": "reactants", "text": "[H][H]"},
-      {"type": "reagent", "text": "[Rh+].[BF4-]"},
-      {"type": "reagent", "text": "C[P@@]1(c2ccc([C](F)(F)F)cc2)C(c2ccc([C](F)(F)F)cc2)P1c1ccccc1"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "80 °C"},
-      {"type": "other conditions", "text": "H2 (125 psi)"},
-      {"type": "products", "text": "O=C(OCC)[C@H](C)Oc1cccc(F)c1"}
+      {
+        "type": "reactants",
+        "text": "O=C(OCC)/C(=C/Oc1cccc(F)c1)C"
+      },
+      {
+        "type": "reactants",
+        "text": "[H][H]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+].F[B-](F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "C[P@@]1(c2ccc(C(F)(F)F)cc2)C(c2ccc(C(F)(F)F)cc2)P1c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "80 °C"
+      },
+      {
+        "type": "other conditions",
+        "text": "H2 (125 psi)"
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)[C@H](C)Oc1cccc(F)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(OCC)/C(=C/Oc1cccc(F)c1)C"},
-      {"type": "reactants", "text": "[H][H]"},
-      {"type": "reagent", "text": "[Rh+].[BF4-]"},
-      {"type": "reagent", "text": "C[P@@]1(c2ccc([C](F)(F)F)cc2)C(c2ccc([C](F)(F)F)cc2)P1c1ccccc1"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "80 °C"},
-      {"type": "other conditions", "text": "H2 (125 psi)"},
-      {"type": "products", "text": "O=C(OCC)[C@H](C)Oc1cccc(F)c1"}
+      {
+        "type": "reactants",
+        "text": "O=C(OCC)/C(=C/Oc1cccc(F)c1)C"
+      },
+      {
+        "type": "reactants",
+        "text": "[H][H]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+].F[B-](F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "C[P@@]1(c2ccc(C(F)(F)F)cc2)C(c2ccc(C(F)(F)F)cc2)P1c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "80 °C"
+      },
+      {
+        "type": "other conditions",
+        "text": "H2 (125 psi)"
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)[C@H](C)Oc1cccc(F)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(OCC)/C(=C/Oc1ccc(Cl)cc1)C"},
-      {"type": "reactants", "text": "[H][H]"},
-      {"type": "reagent", "text": "[Rh+].[BF4-]"},
-      {"type": "reagent", "text": "C[P@@]1(c2ccc([C](F)(F)F)cc2)C(c2ccc([C](F)(F)F)cc2)P1c1ccccc1"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "80 °C"},
-      {"type": "other conditions", "text": "H2 (125 psi)"},
-      {"type": "products", "text": "O=C(OCC)[C@H](C)Oc1ccc(Cl)cc1"}
+      {
+        "type": "reactants",
+        "text": "O=C(OCC)/C(=C/Oc1ccc(Cl)cc1)C"
+      },
+      {
+        "type": "reactants",
+        "text": "[H][H]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+].F[B-](F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "C[P@@]1(c2ccc(C(F)(F)F)cc2)C(c2ccc(C(F)(F)F)cc2)P1c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "80 °C"
+      },
+      {
+        "type": "other conditions",
+        "text": "H2 (125 psi)"
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)[C@H](C)Oc1ccc(Cl)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(OCC)/C(=C/Oc1cccc(Br)c1)C"},
-      {"type": "reactants", "text": "[H][H]"},
-      {"type": "reagent", "text": "[Rh+].[BF4-]"},
-      {"type": "reagent", "text": "C[P@@]1(c2ccc([C](F)(F)F)cc2)C(c2ccc([C](F)(F)F)cc2)P1c1ccccc1"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "80 °C"},
-      {"type": "other conditions", "text": "H2 (125 psi)"},
-      {"type": "products", "text": "O=C(OCC)[C@H](C)Oc1cccc(Br)c1"}
+      {
+        "type": "reactants",
+        "text": "O=C(OCC)/C(=C/Oc1cccc(Br)c1)C"
+      },
+      {
+        "type": "reactants",
+        "text": "[H][H]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+].F[B-](F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "C[P@@]1(c2ccc(C(F)(F)F)cc2)C(c2ccc(C(F)(F)F)cc2)P1c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "80 °C"
+      },
+      {
+        "type": "other conditions",
+        "text": "H2 (125 psi)"
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)[C@H](C)Oc1cccc(Br)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(OCC)/C(=C/Oc1cccc(Br)c1)C"},
-      {"type": "reactants", "text": "[H][H]"},
-      {"type": "reagent", "text": "[Rh+].[BF4-]"},
-      {"type": "reagent", "text": "C[P@@]1(c2ccc([C](F)(F)F)cc2)C(c2ccc([C](F)(F)F)cc2)P1c1ccccc1"},
-      {"type": "reagent", "text": "Clc1ccccc1"},
-      {"type": "temperature", "text": "80 °C"},
-      {"type": "other conditions", "text": "H2 (125 psi)"},
-      {"type": "products", "text": "O=C(OCC)[C@H](C)Oc1cccc(Br)c1"}
+      {
+        "type": "reactants",
+        "text": "O=C(OCC)/C(=C/Oc1cccc(Br)c1)C"
+      },
+      {
+        "type": "reactants",
+        "text": "[H][H]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+].F[B-](F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "C[P@@]1(c2ccc(C(F)(F)F)cc2)C(c2ccc(C(F)(F)F)cc2)P1c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "Clc1ccccc1"
+      },
+      {
+        "type": "temperature",
+        "text": "80 °C"
+      },
+      {
+        "type": "other conditions",
+        "text": "H2 (125 psi)"
+      },
+      {
+        "type": "products",
+        "text": "O=C(OCC)[C@H](C)Oc1cccc(Br)c1"
+      }
     ]
   ]
 }

@@ -1,58 +1,184 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "O=C1OC(C=C)N1C(=O)C"},
-      {"type": "reactants", "text": "O=[N+]([O-])=C(c1ccccc1)N(c1ccccc1)C"},
-      {"type": "reagent", "text": "[Cu+]Cl"},
-      {"type": "reagent", "text": "C(C1CCCCC1)N(C)C1CCCCC1"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C1OC(C=C)N1C(=O)C1(C(c2ccccc2)N(c2ccccc2)C)C=NC1"}
+      {
+        "type": "reactants",
+        "text": "O=C1OC(C=C)N1C(=O)C"
+      },
+      {
+        "type": "reactants",
+        "text": "O=[N+]([O-])C(=C(c1ccccc1)N(c1ccccc1)C)"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C(C1CCCCC1)N(C)C1CCCCC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1OC(C=C)N1C(=O)C1(C(c2ccccc2)N(c2ccccc2)C)C=NC1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1OC(C=C)N1C(=O)c1ccccc1"},
-      {"type": "reactants", "text": "O=[N+]([O-])=C(c1ccccc1)N(c1ccccc1)C"},
-      {"type": "reagent", "text": "[Cu+]Cl"},
-      {"type": "reagent", "text": "C(C1CCCCC1)N(C)C1CCCCC1"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C1OC(C=C)N1C(=O)c1ccccc1"}
+      {
+        "type": "reactants",
+        "text": "O=C1OC(C=C)N1C(=O)c1ccccc1"
+      },
+      {
+        "type": "reactants",
+        "text": "O=[N+]([O-])C(=C(c1ccccc1)N(c1ccccc1)C)"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C(C1CCCCC1)N(C)C1CCCCC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1OC(C=C)N1C(=O)c1ccccc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1OC(C=C)N1C(=O)c1ccc(C(=O)OC)cc1"},
-      {"type": "reactants", "text": "O=[N+]([O-])=C(c1ccccc1)N(c1ccccc1)C"},
-      {"type": "reagent", "text": "[Cu+]Cl"},
-      {"type": "reagent", "text": "C(C1CCCCC1)N(C)C1CCCCC1"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C1OC(C=C)N1C(=O)c1ccc(C(=O)OC)cc1"}
+      {
+        "type": "reactants",
+        "text": "O=C1OC(C=C)N1C(=O)c1ccc(C(=O)OC)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "O=[N+]([O-])C(=C(c1ccccc1)N(c1ccccc1)C)"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C(C1CCCCC1)N(C)C1CCCCC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1OC(C=C)N1C(=O)c1ccc(C(=O)OC)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1OC(C=C)N1C(=O)/C=C/c1ccccc1"},
-      {"type": "reactants", "text": "O=[N+]([O-])=C(c1ccccc1)N(c1ccccc1)C"},
-      {"type": "reagent", "text": "[Cu+]Cl"},
-      {"type": "reagent", "text": "C(C1CCCCC1)N(C)C1CCCCC1"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C1OC(C=C)N1C(=O)/C=C/c1ccccc1"}
+      {
+        "type": "reactants",
+        "text": "O=C1OC(C=C)N1C(=O)/C=C/c1ccccc1"
+      },
+      {
+        "type": "reactants",
+        "text": "O=[N+]([O-])C(=C(c1ccccc1)N(c1ccccc1)C)"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C(C1CCCCC1)N(C)C1CCCCC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1OC(C=C)N1C(=O)/C=C/c1ccccc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1OC(C=C)N1C(=O)c1ccsc1"},
-      {"type": "reactants", "text": "O=[N+]([O-])=C(c1ccccc1)N(c1ccccc1)C"},
-      {"type": "reagent", "text": "[Cu+]Cl"},
-      {"type": "reagent", "text": "C(C1CCCCC1)N(C)C1CCCCC1"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C1OC(C=C)N1C(=O)c1ccsc1"}
+      {
+        "type": "reactants",
+        "text": "O=C1OC(C=C)N1C(=O)c1ccsc1"
+      },
+      {
+        "type": "reactants",
+        "text": "O=[N+]([O-])C(=C(c1ccccc1)N(c1ccccc1)C)"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C(C1CCCCC1)N(C)C1CCCCC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1OC(C=C)N1C(=O)c1ccsc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1OC(C=C)N1C(=O)C1CCCC1"},
-      {"type": "reactants", "text": "O=[N+]([O-])=C(c1ccccc1)N(c1ccc(C)cc1)C"},
-      {"type": "reagent", "text": "[Cu+]Cl"},
-      {"type": "reagent", "text": "C(C1CCCCC1)N(C)C1CCCCC1"},
-      {"type": "reagent", "text": "CC#N"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "products", "text": "O=C1OC(C=C)N1C(=O)C1CCCC1"}
+      {
+        "type": "reactants",
+        "text": "O=C1OC(C=C)N1C(=O)C1CCCC1"
+      },
+      {
+        "type": "reactants",
+        "text": "O=[N+]([O-])C(c1ccccc1)N(c1ccc(C)cc1)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]Cl"
+      },
+      {
+        "type": "reagent",
+        "text": "C(C1CCCCC1)N(C)C1CCCCC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC#N"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1OC(C=C)N1C(=O)C1CCCC1"
+      }
     ]
   ]
 }

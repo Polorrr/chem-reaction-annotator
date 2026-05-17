@@ -1,112 +1,382 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "OB(O)c1ccc(-c2ccccc2)cc1"},
-      {"type": "reactants", "text": "IC(F)(F)F"},
-      {"type": "reagent", "text": "[Cu+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "[Ru+2].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "26 W light bulb"},
-      {"type": "products", "text": "Fc1ccc(-c2ccccc2)cc1"}
+      {
+        "type": "reactants",
+        "text": "OB(O)c1ccc(-c2ccccc2)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "IC(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ru+2].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[K+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "26 W light bulb"
+      },
+      {
+        "type": "products",
+        "text": "Fc1ccc(-c2ccccc2)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "OB(O)c1ccc(OC)cc1"},
-      {"type": "reactants", "text": "IC(F)(F)F"},
-      {"type": "reagent", "text": "[Cu+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "[Ru+2].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "26 W light bulb"},
-      {"type": "products", "text": "Fc1ccc(OC)cc1"}
+      {
+        "type": "reactants",
+        "text": "OB(O)c1ccc(OC)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "IC(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ru+2].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[K+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "26 W light bulb"
+      },
+      {
+        "type": "products",
+        "text": "Fc1ccc(OC)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "OB(O)c1ccc(NC(=O)C)cc1"},
-      {"type": "reactants", "text": "IC(F)(F)F"},
-      {"type": "reagent", "text": "[Cu+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "[Ru+2].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "26 W light bulb"},
-      {"type": "products", "text": "Fc1ccc(NC(=O)C)cc1"}
+      {
+        "type": "reactants",
+        "text": "OB(O)c1ccc(NC(=O)C)cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "IC(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ru+2].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[K+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "26 W light bulb"
+      },
+      {
+        "type": "products",
+        "text": "Fc1ccc(NC(=O)C)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "OB(O)c1ccc2ccccc2c1"},
-      {"type": "reactants", "text": "IC(F)(F)F"},
-      {"type": "reagent", "text": "[Cu+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "[Ru+2].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "26 W light bulb"},
-      {"type": "products", "text": "Fc1ccc2ccccc2c1"}
+      {
+        "type": "reactants",
+        "text": "OB(O)c1ccc2ccccc2c1"
+      },
+      {
+        "type": "reactants",
+        "text": "IC(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ru+2].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[K+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "26 W light bulb"
+      },
+      {
+        "type": "products",
+        "text": "Fc1ccc2ccccc2c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "OB(O)c1ccccn1"},
-      {"type": "reactants", "text": "IC(F)(F)F"},
-      {"type": "reagent", "text": "[Cu+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "[Ru+2].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "26 W light bulb"},
-      {"type": "products", "text": "Fc1ccccn1"}
+      {
+        "type": "reactants",
+        "text": "OB(O)c1ccccn1"
+      },
+      {
+        "type": "reactants",
+        "text": "IC(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ru+2].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[K+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "26 W light bulb"
+      },
+      {
+        "type": "products",
+        "text": "Fc1ccccn1"
+      }
     ],
     [
-      {"type": "reactants", "text": "OB(O)c1cc2ccccc2[nH]1"},
-      {"type": "reactants", "text": "IC(F)(F)F"},
-      {"type": "reagent", "text": "[Cu+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "[Ru+2].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "26 W light bulb"},
-      {"type": "products", "text": "Fc1cc2ccccc2[nH]1"}
+      {
+        "type": "reactants",
+        "text": "OB(O)c1cc2ccccc2[nH]1"
+      },
+      {
+        "type": "reactants",
+        "text": "IC(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ru+2].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[K+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "26 W light bulb"
+      },
+      {
+        "type": "products",
+        "text": "Fc1cc2ccccc2[nH]1"
+      }
     ],
     [
-      {"type": "reactants", "text": "OB(O)c1csc(-c2ccccc2)c1"},
-      {"type": "reactants", "text": "IC(F)(F)F"},
-      {"type": "reagent", "text": "[Cu+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "[Ru+2].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "26 W light bulb"},
-      {"type": "products", "text": "Fc1csc(-c2ccccc2)c1"}
+      {
+        "type": "reactants",
+        "text": "OB(O)c1csc(-c2ccccc2)c1"
+      },
+      {
+        "type": "reactants",
+        "text": "IC(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ru+2].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[K+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "26 W light bulb"
+      },
+      {
+        "type": "products",
+        "text": "Fc1csc(-c2ccccc2)c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "OB(O)c1cc2ccccc2oc1"},
-      {"type": "reactants", "text": "IC(F)(F)F"},
-      {"type": "reagent", "text": "[Cu+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "[Ru+2].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "26 W light bulb"},
-      {"type": "products", "text": "Fc1cc2ccccc2oc1"}
+      {
+        "type": "reactants",
+        "text": "Fc1cc2ccccc2o1"
+      },
+      {
+        "type": "reactants",
+        "text": "IC(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ru+2].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[K+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "26 W light bulb"
+      },
+      {
+        "type": "products",
+        "text": "Fc1cc2ccccc2o1"
+      }
     ],
     [
-      {"type": "reactants", "text": "OB(O)c1ccc2c(c1)OCC(=O)C2"},
-      {"type": "reactants", "text": "IC(F)(F)F"},
-      {"type": "reagent", "text": "[Cu+].[O-]C(=O)C"},
-      {"type": "reagent", "text": "[Ru+2].[Cl-].[Cl-]"},
-      {"type": "reagent", "text": "[K+].[K+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "60 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "26 W light bulb"},
-      {"type": "products", "text": "Fc1ccc2c(c1)OCC(=O)C2"}
+      {
+        "type": "reactants",
+        "text": "OB(O)c1ccc2c(c1)OCC(=O)C2"
+      },
+      {
+        "type": "reactants",
+        "text": "IC(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+].[O-]C(=O)C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ru+2].[Cl-].[Cl-]"
+      },
+      {
+        "type": "reagent",
+        "text": "[K+].[K+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "60 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "26 W light bulb"
+      },
+      {
+        "type": "products",
+        "text": "Fc1ccc2c(c1)OCC(=O)C2"
+      }
     ]
   ]
 }

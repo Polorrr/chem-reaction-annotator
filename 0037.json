@@ -1,44 +1,124 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "O=C(c1ccccc1)CCl"},
-      {"type": "reactants", "text": "O=Cc1ccc2ccccc2c1"},
-      {"type": "reagent", "text": "[Li+]O"},
-      {"type": "reagent", "text": "[Li+]O"},
-      {"type": "reagent", "text": "O"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "products", "text": "O=C(c1ccccc1)[C@@H]1OC1c1ccc2ccccc2c1"}
+      {
+        "type": "reactants",
+        "text": "O=C(c1ccccc1)CCl"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccc2ccccc2c1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Li+]O"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "products",
+        "text": "O=C(c1ccccc1)[C@@H]1OC1c1ccc2ccccc2c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(c1ccccc1)CCl"},
-      {"type": "reactants", "text": "O=Cc1ccc(Cl)cc1"},
-      {"type": "reagent", "text": "[Li+]O"},
-      {"type": "reagent", "text": "[Li+]O"},
-      {"type": "reagent", "text": "O"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "products", "text": "O=C(c1ccccc1)[C@@H]1OC1c1ccc(Cl)cc1"}
+      {
+        "type": "reactants",
+        "text": "O=C(c1ccccc1)CCl"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccc(Cl)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Li+]O"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "products",
+        "text": "O=C(c1ccccc1)[C@@H]1OC1c1ccc(Cl)cc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1c2ccccc2CC(Cl)C1=O"},
-      {"type": "reactants", "text": "O=Cc1ccccc1"},
-      {"type": "reagent", "text": "[Li+]O"},
-      {"type": "reagent", "text": "[Li+]O"},
-      {"type": "reagent", "text": "O"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "products", "text": "O=C1c2ccccc2C[C@@]12OC2C(=O)c1ccccc1"}
+      {
+        "type": "reactants",
+        "text": "O=C1c2ccccc2CC(Cl)C1=O"
+      },
+      {
+        "type": "reactants",
+        "text": "O=Cc1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Li+]O"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "products",
+        "text": "O=C1c2ccccc2C[C@@]12OC2C(=O)c1ccccc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C1c2ccccc2CC(Cl)C1=O"},
-      {"type": "reactants", "text": "O=CCCCC"},
-      {"type": "reagent", "text": "[Li+]O"},
-      {"type": "reagent", "text": "[Li+]O"},
-      {"type": "reagent", "text": "O"},
-      {"type": "reagent", "text": "ClCCl"},
-      {"type": "temperature", "text": "0 °C"},
-      {"type": "products", "text": "O=C1c2ccccc2C[C@@]12OC2C(=O)CCCC"}
+      {
+        "type": "reactants",
+        "text": "O=C1c2ccccc2CC(Cl)C1=O"
+      },
+      {
+        "type": "reactants",
+        "text": "O=CCCCC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Li+]O"
+      },
+      {
+        "type": "reagent",
+        "text": "O"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C"
+      },
+      {
+        "type": "products",
+        "text": "O=C1c2ccccc2C[C@@]12OC2C(=O)CCCC"
+      }
     ]
   ]
 }

@@ -1,103 +1,346 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "Cc1[nH]c2ccccc2c1"},
-      {"type": "reactants", "text": "I.[NH4+]"},
-      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C(F)(F)F"},
-      {"type": "reagent", "text": "CC(=O)O"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "130 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "O2 (1 atm)"},
-      {"type": "products", "text": "N#Cc1c(C)[nH]c2ccccc21"}
+      {
+        "type": "reactants",
+        "text": "Cc1[nH]c2ccccc2c1"
+      },
+      {
+        "type": "reactants",
+        "text": "I.[NH4+]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+2].[O-]C(=O)C(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "130 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "O2 (1 atm)"
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1c(C)[nH]c2ccccc21"
+      }
     ],
     [
-      {"type": "reactants", "text": "Cc1[nH]c2ccccc2c1-c1ccccc1"},
-      {"type": "reactants", "text": "I.[NH4+]"},
-      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C(F)(F)F"},
-      {"type": "reagent", "text": "CC(=O)O"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "130 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "O2 (1 atm)"},
-      {"type": "products", "text": "N#Cc1c(C)c(-c2ccccc2)[nH]c2ccccc21"}
+      {
+        "type": "reactants",
+        "text": "Cc1[nH]c2ccccc2c1-c1ccccc1"
+      },
+      {
+        "type": "reactants",
+        "text": "I.[NH4+]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+2].[O-]C(=O)C(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "130 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "O2 (1 atm)"
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1c(C)c(-c2ccccc2)[nH]c1-c1ccccc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=[N+]([O-])c1ccc2c(c1)[nH]c2C"},
-      {"type": "reactants", "text": "I.[NH4+]"},
-      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C(F)(F)F"},
-      {"type": "reagent", "text": "CC(=O)O"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "130 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "O2 (1 atm)"},
-      {"type": "products", "text": "N#Cc1c(C)c(-c2ccc([N+](=O)[O-])cc2)[nH]c2ccccc21"}
+      {
+        "type": "reactants",
+        "text": "O=[N+]([O-])c1ccc2cc([nH]c2C)c1"
+      },
+      {
+        "type": "reactants",
+        "text": "I.[NH4+]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+2].[O-]C(=O)C(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "130 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "O2 (1 atm)"
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1c(C)c(-c2ccc([N+](=O)[O-])cc2)[nH]c12ccccc2"
+      }
     ],
     [
-      {"type": "reactants", "text": "COC(=O)c1ccc2c(c1)[nH]c2C"},
-      {"type": "reactants", "text": "I.[NH4+]"},
-      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C(F)(F)F"},
-      {"type": "reagent", "text": "CC(=O)O"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "130 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "O2 (1 atm)"},
-      {"type": "products", "text": "N#Cc1c(C)c(-c2ccc(C(=O)OC)cc2)[nH]c2ccccc21"}
+      {
+        "type": "reactants",
+        "text": "COC(=O)c1ccc2cc([nH]c2C)c1"
+      },
+      {
+        "type": "reactants",
+        "text": "I.[NH4+]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+2].[O-]C(=O)C(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "130 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "O2 (1 atm)"
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1c(C)c(-c2ccc(C(=O)OC)cc2)[nH]c12ccccc2"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(C(C)(C)C)[nH]c1ccccc1"},
-      {"type": "reactants", "text": "I.[NH4+]"},
-      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C(F)(F)F"},
-      {"type": "reagent", "text": "CC(=O)O"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "130 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "O2 (1 atm)"},
-      {"type": "products", "text": "N#Cc1c(C(C)(C)C)[nH]c2ccccc21"}
+      {
+        "type": "reactants",
+        "text": "O=C(C(C)(C)C)[nH]c1ccccc1"
+      },
+      {
+        "type": "reactants",
+        "text": "I.[NH4+]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+2].[O-]C(=O)C(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "130 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "O2 (1 atm)"
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1c(C(C)(C)C)[nH]c2ccccc21"
+      }
     ],
     [
-      {"type": "reactants", "text": "Cc1[nH]c2ccccc2c1"},
-      {"type": "reactants", "text": "I.[NH4+]"},
-      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C(F)(F)F"},
-      {"type": "reagent", "text": "CC(=O)O"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "130 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "O2 (1 atm)"},
-      {"type": "products", "text": "N#Cc1c(C)[nH]c2ccccc21"}
+      {
+        "type": "reactants",
+        "text": "Cc1[nH]c2ccccc2c1"
+      },
+      {
+        "type": "reactants",
+        "text": "I.[NH4+]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+2].[O-]C(=O)C(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "130 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "O2 (1 atm)"
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1c(C)[nH]c2ccccc21"
+      }
     ],
     [
-      {"type": "reactants", "text": "Cc1cc2ncc(-c3ccccc3)nc2cc1"},
-      {"type": "reactants", "text": "I.[NH4+]"},
-      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C(F)(F)F"},
-      {"type": "reagent", "text": "CC(=O)O"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "130 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "O2 (1 atm)"},
-      {"type": "products", "text": "N#Cc1cc(C)c2ncc(-c3ccccc3)nc2c1"}
+      {
+        "type": "reactants",
+        "text": "Cc1cc2ncc(-c3ccccc3)nc2cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "I.[NH4+]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+2].[O-]C(=O)C(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "130 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "O2 (1 atm)"
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1cc(C)c2ncc(-c3ccccc3)nc2c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "Cc1cc2ncc(-c3ccccc3C)nc2cc1"},
-      {"type": "reactants", "text": "I.[NH4+]"},
-      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C(F)(F)F"},
-      {"type": "reagent", "text": "CC(=O)O"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "130 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "O2 (1 atm)"},
-      {"type": "products", "text": "N#Cc1cc(C)c2ncc(-c3ccccc3C)nc2c1"}
+      {
+        "type": "reactants",
+        "text": "Cc1cc2ncc(-c3ccccc3C)nc2cc1"
+      },
+      {
+        "type": "reactants",
+        "text": "I.[NH4+]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+2].[O-]C(=O)C(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "130 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "O2 (1 atm)"
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1cc(C)c2ncc(-c3ccccc3C)nc2c1"
+      }
     ],
     [
-      {"type": "reactants", "text": "c1ccc2nc3ccccc3cc2c1"},
-      {"type": "reactants", "text": "I.[NH4+]"},
-      {"type": "reagent", "text": "[Cu+2].[O-]C(=O)C(F)(F)F"},
-      {"type": "reagent", "text": "CC(=O)O"},
-      {"type": "reagent", "text": "O=CN(C)C"},
-      {"type": "temperature", "text": "130 °C"},
-      {"type": "time", "text": "12 h"},
-      {"type": "other conditions", "text": "O2 (1 atm)"},
-      {"type": "products", "text": "N#Cc1cc2nc3ccccc3cc2c1"}
+      {
+        "type": "reactants",
+        "text": "c1ccc2nc3ccccc3cc2c1"
+      },
+      {
+        "type": "reactants",
+        "text": "I.[NH4+]"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+2].[O-]C(=O)C(F)(F)F"
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O"
+      },
+      {
+        "type": "reagent",
+        "text": "O=CN(C)C"
+      },
+      {
+        "type": "temperature",
+        "text": "130 °C"
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "other conditions",
+        "text": "O2 (1 atm)"
+      },
+      {
+        "type": "products",
+        "text": "N#Cc1cc2c1nc3ccccc3c2"
+      }
     ]
   ]
 }

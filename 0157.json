@@ -1,37 +1,118 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "C=CC[C@H](C)OP(=O)(OCC)OCC"},
-      {"type": "reactants", "text": "COC(=O)/C(=C\\O[Si](C)(C)C)/OC=C"},
-      {"type": "reagent", "text": "[Cu+]Br"},
-      {"type": "reagent", "text": "O=C(c1ccc([C](F)(F)F)cc1)CC(=O)c1ccc([C](F)(F)F)cc1"},
-      {"type": "reagent", "text": "[Cs+].[Cs+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "12 h"},
-      {"type": "products", "text": "C=CC[C@@H](C)/C=C/C(=O)OCC"}
+      {
+        "type": "reactants",
+        "text": "C=CC[C@H](C)OP(=O)(OCC)OCC"
+      },
+      {
+        "type": "reactants",
+        "text": "COC(=O)/C(=C\\O[Si](C)(C)C)/OC=C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]Br"
+      },
+      {
+        "type": "reagent",
+        "text": "O=C(c1ccc(C(F)(F)F)cc1)CC(=O)c1ccc(C(F)(F)F)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cs+].[Cs+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "products",
+        "text": "C=CC[C@@H](C)/C=C/C(=O)OCC"
+      }
     ],
     [
-      {"type": "reactants", "text": "C=C[C@H](C)OP(=O)(OCC)OCC"},
-      {"type": "reactants", "text": "COC(=O)/C(=C\\O[Si](C)(C)C)/OC=C"},
-      {"type": "reagent", "text": "[Cu+]Br"},
-      {"type": "reagent", "text": "O=C(c1ccc([C](F)(F)F)cc1)CC(=O)c1ccc([C](F)(F)F)cc1"},
-      {"type": "reagent", "text": "[Cs+].[Cs+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "12 h"},
-      {"type": "products", "text": "C=C[C@@H](C)/C=C/C(=O)OCC"}
+      {
+        "type": "reactants",
+        "text": "C=C[C@H](C)OP(=O)(OCC)OCC"
+      },
+      {
+        "type": "reactants",
+        "text": "COC(=O)/C(=C\\O[Si](C)(C)C)/OC=C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]Br"
+      },
+      {
+        "type": "reagent",
+        "text": "O=C(c1ccc(C(F)(F)F)cc1)CC(=O)c1ccc(C(F)(F)F)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cs+].[Cs+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "products",
+        "text": "C=C[C@@H](C)/C=C/C(=O)OCC"
+      }
     ],
     [
-      {"type": "reactants", "text": "CCOC(=O)/C(=C\\OP(=O)(OCC)OCC)/C=C/C"},
-      {"type": "reactants", "text": "COC(=O)/C(=C\\O[Si](C)(C)C)/OC=C"},
-      {"type": "reagent", "text": "[Cu+]Br"},
-      {"type": "reagent", "text": "O=C(c1ccc([C](F)(F)F)cc1)CC(=O)c1ccc([C](F)(F)F)cc1"},
-      {"type": "reagent", "text": "[Cs+].[Cs+].[O-]C(=O)[O-]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "temperature", "text": "r.t."},
-      {"type": "time", "text": "12 h"},
-      {"type": "products", "text": "COC(=O)/C(=C/C(=O)OCC)/C=C/C"}
+      {
+        "type": "reactants",
+        "text": "CCOC(=O)/C(=C\\OP(=O)(OCC)OCC)/C=C/C"
+      },
+      {
+        "type": "reactants",
+        "text": "COC(=O)/C(=C\\O[Si](C)(C)C)/OC=C"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cu+]Br"
+      },
+      {
+        "type": "reagent",
+        "text": "O=C(c1ccc(C(F)(F)F)cc1)CC(=O)c1ccc(C(F)(F)F)cc1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Cs+].[Cs+].[O-]C(=O)[O-]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "temperature",
+        "text": "r.t."
+      },
+      {
+        "type": "time",
+        "text": "12 h"
+      },
+      {
+        "type": "products",
+        "text": "COC(=O)/C(=C/C(=O)OCC)/C=C/C"
+      }
     ]
   ]
 }

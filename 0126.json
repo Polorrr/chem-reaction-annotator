@@ -1,85 +1,274 @@
 {
   "reactions": [
     [
-      {"type": "reactants", "text": "O=C(/C=C/c1ccco1)N(CC)CCC(=O)c1ccccc1"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "[Ni+2]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "CCCCCC"},
-      {"type": "temperature", "text": "0 °C to r.t."},
-      {"type": "products", "text": "O=C1C(/C=C/c2ccco1)C(C)(O)CCN1C(=O)CC1"}
+      {
+        "type": "reactants",
+        "text": "O=C(/C=C/c1ccco1)N(CC)CCC(=O)c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCCC"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C to r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1C(/C=C/c2ccco2)C(C)(O)CCN3C(=O)CC3"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(/C=C/c1ccccc1)N(CC)CCC(=O)c1ccccc1"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "[Ni+2]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "CCCCCC"},
-      {"type": "temperature", "text": "0 °C to r.t."},
-      {"type": "products", "text": "O=C1C(/C=C/c2ccccc1)C(CC)(O)CCN1C(=O)CC1"}
+      {
+        "type": "reactants",
+        "text": "O=C(/C=C/c1ccccc1)N(CC)CCC(=O)c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCCC"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C to r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1C(/C=C/c2ccccc2)C(CC)(O)CCN3C(=O)CC3"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(/C=C/c1ccco1)N(CC)CCC(=O)c1ccccc1"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "[Ni+2]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "CCCCCC"},
-      {"type": "temperature", "text": "0 °C to r.t."},
-      {"type": "products", "text": "O=C1C(/C=C/c2ccco1)C(c1ccccc1)(O)CCN1C(=O)CC1"}
+      {
+        "type": "reactants",
+        "text": "O=C(/C=C/c1ccco1)N(CC)CCC(=O)c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCCC"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C to r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1C(/C=C/c2ccco2)C(c1ccccc1)(O)CCN3C(=O)CC3"
+      }
     ],
     [
-      {"type": "reactants", "text": "CCOC(=O)/C=C/N(CC)CCC(=O)c1ccccc1"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "[Ni+2]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "CCCCCC"},
-      {"type": "temperature", "text": "0 °C to r.t."},
-      {"type": "products", "text": "O=C1C(CCOC(=O)OCC)CCCN1c1ccccc1"}
+      {
+        "type": "reactants",
+        "text": "CCOC(=O)/C=C/N(CC)CCC(=O)c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCCC"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C to r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1C(CCOC(=O)OCC)CCCN1c1ccccc1"
+      }
     ],
     [
-      {"type": "reactants", "text": "CCOC(=O)/C=C/OCC(=O)c1ccccc1"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "[Ni+2]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "CCCCCC"},
-      {"type": "temperature", "text": "0 °C to r.t."},
-      {"type": "products", "text": "O=C1C(CCOC(=O)OCC)CCC(=O)OC1"}
+      {
+        "type": "reactants",
+        "text": "CCOC(=O)/C=C/OCC(=O)c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCCC"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C to r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1C(CCOC(=O)OCC)CCC(=O)OC1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(/C=C/c1ccco1)OCCC(=O)c1ccccc1"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "[Ni+2]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "CCCCCC"},
-      {"type": "temperature", "text": "0 °C to r.t."},
-      {"type": "products", "text": "O=C1C(/C=C/c2ccco1)CCC(=O)OC1"}
+      {
+        "type": "reactants",
+        "text": "O=C(/C=C/c1ccco1)OCCC(=O)c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCCC"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C to r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1C(/C=C/c2ccco2)CCC(=O)OC1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(/C=C/c1ccc(OC)cc1)OCCC(=O)c1ccccc1"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "[Ni+2]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "CCCCCC"},
-      {"type": "temperature", "text": "0 °C to r.t."},
-      {"type": "products", "text": "O=C1C(/C=C/c2ccc(OC)cc2)CCC(=O)OC1"}
+      {
+        "type": "reactants",
+        "text": "O=C(/C=C/c1ccc(OC)cc1)OCCC(=O)c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCCC"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C to r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1C(/C=C/c2ccc(OC)cc2)CCC(=O)OC1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(/C=C/C(C)C)OCCC(=O)c1ccccc1"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "[Ni+2]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "CCCCCC"},
-      {"type": "temperature", "text": "0 °C to r.t."},
-      {"type": "products", "text": "O=C1CCC(/C=C/C(C)C)CCC(=O)OC1"}
+      {
+        "type": "reactants",
+        "text": "O=C(/C=C/C(C)C)OCCC(=O)c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCCC"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C to r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1CCC(/C=C/C(C)C)CCC(=O)OC1"
+      }
     ],
     [
-      {"type": "reactants", "text": "O=C(/C=C/c1ccccc1)OCCC(=O)c1ccccc1"},
-      {"type": "reagent", "text": "CC[Zn]CC"},
-      {"type": "reagent", "text": "[Ni+2]"},
-      {"type": "reagent", "text": "C1CCOC1"},
-      {"type": "reagent", "text": "CCCCCC"},
-      {"type": "temperature", "text": "0 °C to r.t."},
-      {"type": "products", "text": "O=C1C(/C=C/c2ccccc1)CCC(=O)OC1"}
+      {
+        "type": "reactants",
+        "text": "O=C(/C=C/c1ccccc1)OCCC(=O)c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "CC[Zn]CC"
+      },
+      {
+        "type": "reagent",
+        "text": "[Ni+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1"
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCCC"
+      },
+      {
+        "type": "temperature",
+        "text": "0 °C to r.t."
+      },
+      {
+        "type": "products",
+        "text": "O=C1C(/C=C/c2ccccc2)CCC(=O)OC1"
+      }
     ]
   ]
 }
