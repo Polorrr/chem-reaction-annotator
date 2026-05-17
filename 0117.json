@@ -7,7 +7,7 @@
       },
       {
         "type": "reactants",
-        "text": "CC[Si](CCC)(CCC)CCC"
+        "text": "C[Si](C)C"
       },
       {
         "type": "reagent",
@@ -19,7 +19,7 @@
       },
       {
         "type": "products",
-        "text": "Cc1[nH]c2ccccc2c1[Si](CCC)(CCC)CCC"
+        "text": "Cc1[nH]c2ccccc2c1[Si](C)(C)C"
       }
     ],
     [
@@ -55,7 +55,7 @@
       },
       {
         "type": "reactants",
-        "text": "CC[Si](CCC)(CCC)CCC"
+        "text": "C[Si](C)C"
       },
       {
         "type": "reagent",
@@ -71,7 +71,7 @@
       },
       {
         "type": "products",
-        "text": "Cc1[nH]c2ncccc2c1[Si](CCC)(CCC)CCC"
+        "text": "Cc1[nH]c2ncccc2c1[Si](C)(C)C"
       }
     ],
     [
@@ -81,7 +81,7 @@
       },
       {
         "type": "reactants",
-        "text": "CC[Si](CCC)(CCC)CCC"
+        "text": "C[Si](C)C"
       },
       {
         "type": "reagent",
@@ -107,7 +107,7 @@
       },
       {
         "type": "reactants",
-        "text": "CC[Si](CCC)(CCC)CCC"
+        "text": "C[Si](C)C"
       },
       {
         "type": "reagent",
@@ -123,7 +123,7 @@
       },
       {
         "type": "products",
-        "text": "CCCCCc1cc([Si](CCC)(CCC)CCC)[sH]1"
+        "text": "CCCCCc1cc([Si](C)(C)C)[sH]1"
       }
     ],
     [
@@ -133,7 +133,7 @@
       },
       {
         "type": "reactants",
-        "text": "CC[Si](CCC)(CCC)CCC"
+        "text": "C[Si](C)C"
       },
       {
         "type": "reagent",
@@ -149,7 +149,7 @@
       },
       {
         "type": "products",
-        "text": "CCCCCc1cc([Si](CCC)(CCC)CCC)oc1"
+        "text": "CCCCCc1cc([Si](C)(C)C)oc1"
       }
     ],
     [
@@ -159,7 +159,7 @@
       },
       {
         "type": "reactants",
-        "text": "CC[Si](CCC)(CCC)CCC"
+        "text": "C[Si](C)C"
       },
       {
         "type": "reagent",
@@ -175,7 +175,7 @@
       },
       {
         "type": "products",
-        "text": "CCCCCc1cc(Cc2ccccc2)n(C)c1[Si](CCC)(CCC)CCC"
+        "text": "CCCCCc1cc(Cc2ccccc2)n(C)c1[Si](C)(C)C"
       }
     ],
     [
@@ -185,7 +185,7 @@
       },
       {
         "type": "reactants",
-        "text": "CC[Si](CCC)(CCC)CCC"
+        "text": "C[Si](C)C"
       },
       {
         "type": "reagent",

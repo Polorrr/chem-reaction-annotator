@@ -15,7 +15,7 @@
       },
       {
         "type": "reagent",
-        "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"
+        "text": "COc1cccc(P(C2CCCCC2)C2CCCCC2)c1-c1ccccc1"
       },
       {
         "type": "reagent",
@@ -35,7 +35,7 @@
       },
       {
         "type": "products",
-        "text": "c1csc(-c2ccccc2)nc1-c1ccccc1"
+        "text": "c1ccc(-c2scnc2-c2ccccc2)cc1"
       }
     ],
     [
@@ -53,7 +53,7 @@
       },
       {
         "type": "reagent",
-        "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"
+        "text": "COc1cccc(P(C2CCCCC2)C2CCCCC2)c1-c1ccccc1"
       },
       {
         "type": "reagent",
@@ -91,7 +91,7 @@
       },
       {
         "type": "reagent",
-        "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"
+        "text": "COc1cccc(P(C2CCCCC2)C2CCCCC2)c1-c1ccccc1"
       },
       {
         "type": "reagent",
@@ -129,7 +129,7 @@
       },
       {
         "type": "reagent",
-        "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"
+        "text": "COc1cccc(P(C2CCCCC2)C2CCCCC2)c1-c1ccccc1"
       },
       {
         "type": "reagent",
@@ -167,7 +167,7 @@
       },
       {
         "type": "reagent",
-        "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1"
+        "text": "COc1cccc(P(C2CCCCC2)C2CCCCC2)c1-c1ccccc1"
       },
       {
         "type": "reagent",

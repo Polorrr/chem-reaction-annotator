@@ -3,7 +3,7 @@
     [
       {
         "type": "reactants",
-        "text": "CC1(C)CN=CC1c1ccccc1"
+        "text": "COC(=N)c1ccc(OC)cc1"
       },
       {
         "type": "reactants",
@@ -25,7 +25,7 @@
     [
       {
         "type": "reactants",
-        "text": "CC1(C)CN=CC1c1ccccc1"
+        "text": "COC(=N)c1ccc(OC)cc1"
       },
       {
         "type": "reactants",
@@ -107,13 +107,13 @@
       },
       {
         "type": "products",
-        "text": "O=C1CCC(c2cc(-c3ccco3)cc2)CC1=C[C@H]([Si](C)(C)C)C1"
+        "text": "C=CC(C1CCC(=O)CC1)[Si](C)(C)C"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "O=Cc1ccc(-c2ccsc1)cc1"
+        "text": "O=Cc1ccc(-c2ccsc2)cc1"
       },
       {
         "type": "reactants",
@@ -129,7 +129,7 @@
       },
       {
         "type": "products",
-        "text": "O=C1CCC(c2cc(-c3ccsc3)cc2)CC1=C[C@H]([Si](C)(C)C)C1"
+        "text": "C=CC(C1CCC(=O)CC1)[Si](C)(C)C"
       }
     ]
   ]

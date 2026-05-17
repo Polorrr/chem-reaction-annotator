@@ -3,7 +3,7 @@
     [
       {
         "type": "reactants",
-        "text": "O=C1C(C)([Si](C)(C)C)CC1=O"
+        "text": "C=C(O[Si](C)(C)C)CC(=O)C"
       },
       {
         "type": "reactants",
@@ -11,7 +11,7 @@
       },
       {
         "type": "reagent",
-        "text": "Cl[Ti]Cl"
+        "text": "Cl[Ti](Cl)(Cl)Cl"
       },
       {
         "type": "reagent",
@@ -27,13 +27,13 @@
       },
       {
         "type": "products",
-        "text": "CC(=O)C(Oc1ccc(Br)cc1)C=C"
+        "text": "CC(=O)C(O)c1ccc(Br)cc1"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "O=C1C(C)([Si](C)(C)C)CC1=O"
+        "text": "C=C(O[Si](C)(C)C)CC(=O)C"
       },
       {
         "type": "reactants",
@@ -41,7 +41,7 @@
       },
       {
         "type": "reagent",
-        "text": "Cl[Ti]Cl"
+        "text": "Cl[Ti](Cl)(Cl)Cl"
       },
       {
         "type": "reagent",
@@ -57,13 +57,13 @@
       },
       {
         "type": "products",
-        "text": "O=C(C)(C)C(Oc1ccc2ccccc2c1)C(=C)C"
+        "text": "CC(=O)C(O)c1ccccc1"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "O=C1C(C)([Si](C)(C)C)CC1=O"
+        "text": "C=C(O[Si](C)(C)C)CC(=O)C"
       },
       {
         "type": "reactants",
@@ -71,7 +71,7 @@
       },
       {
         "type": "reagent",
-        "text": "Cl[Ti]Cl"
+        "text": "Cl[Ti](Cl)(Cl)Cl"
       },
       {
         "type": "reagent",
@@ -87,7 +87,7 @@
       },
       {
         "type": "products",
-        "text": "O=C(C)(C)C(Oc1ccc(CCc2ccccc2)cc1)C(=C)C"
+        "text": "CC(=O)C(O)c1ccccc1"
       }
     ],
     [
@@ -101,7 +101,7 @@
       },
       {
         "type": "reagent",
-        "text": "Cl[Ti]Cl"
+        "text": "Cl[Ti](Cl)(Cl)Cl"
       },
       {
         "type": "reagent",
@@ -117,7 +117,7 @@
       },
       {
         "type": "products",
-        "text": "O=C1C2(CCCC2)C(Oc1ccc2ccccc2c1)C(=C)C"
+        "text": "CC(=O)C(O)c1ccccc1"
       }
     ],
     [
@@ -131,7 +131,7 @@
       },
       {
         "type": "reagent",
-        "text": "Cl[Ti]Cl"
+        "text": "Cl[Ti](Cl)(Cl)Cl"
       },
       {
         "type": "reagent",
@@ -161,7 +161,7 @@
       },
       {
         "type": "reagent",
-        "text": "Cl[Ti]Cl"
+        "text": "Cl[Ti](Cl)(Cl)Cl"
       },
       {
         "type": "reagent",
@@ -191,7 +191,7 @@
       },
       {
         "type": "reagent",
-        "text": "Cl[Ti]Cl"
+        "text": "Cl[Ti](Cl)(Cl)Cl"
       },
       {
         "type": "reagent",
@@ -207,7 +207,7 @@
       },
       {
         "type": "products",
-        "text": "O=C(C)(CC)C(Oc1ccc2ccccc2c1)C(=C)CC"
+        "text": "CC(=O)C(O)c1ccccc1"
       }
     ]
   ]

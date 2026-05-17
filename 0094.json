@@ -41,7 +41,7 @@
     [
       {
         "type": "reactants",
-        "text": "COc1cc2c(OC)c(OC)cc2-c1c(N(C)C(=O)O)CC=CC12"
+        "text": "O=C1OC(=O)c2ccccc21"
       },
       {
         "type": "reactants",
@@ -73,7 +73,7 @@
       },
       {
         "type": "products",
-        "text": "COc1cc2c(OC)c(OC)cc2[C@H]1NC(=O)O1"
+        "text": "O=C1OC(=O)c2ccccc21"
       }
     ],
     [

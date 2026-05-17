@@ -11,7 +11,7 @@
       },
       {
         "type": "reagent",
-        "text": "O=c1c2c([nH]c3ccccc13)C1(O)CC=CC1C2"
+        "text": "COC1=CC2=CC=C3N4CC[C@@]5(C=CC[C@@H]5O)C[C@@H]4C=C3C=C2C=C1O"
       },
       {
         "type": "reagent",
@@ -41,7 +41,7 @@
       },
       {
         "type": "reagent",
-        "text": "O=c1c2c([nH]c3ccccc13)C1(O)CC=CC1C2"
+        "text": "COC1=CC2=CC=C3N4CC[C@@]5(C=CC[C@@H]5O)C[C@@H]4C=C3C=C2C=C1O"
       },
       {
         "type": "reagent",
@@ -63,7 +63,7 @@
     [
       {
         "type": "reactants",
-        "text": "COc1ccc2c(c1)[C@]1(C(=O)N(C)C1=O)O"
+        "text": "O=C1c2ccccc2N(C)C1=O"
       },
       {
         "type": "reactants",
@@ -71,7 +71,7 @@
       },
       {
         "type": "reagent",
-        "text": "O=c1c2c([nH]c3ccccc13)C1(O)CC=CC1C2"
+        "text": "COC1=CC2=CC=C3N4CC[C@@]5(C=CC[C@@H]5O)C[C@@H]4C=C3C=C2C=C1O"
       },
       {
         "type": "reagent",
@@ -87,13 +87,13 @@
       },
       {
         "type": "products",
-        "text": "COc1ccc2c(c1)[C@]1(C(=O)N(C)C1=O)(O)/C(=C)C=O"
+        "text": "O=C1c2ccccc2N(C)C1=O"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "COc1ccc2c(c1)[C@]1(C(=O)NC1=O)(O)/C(=C)C=O"
+        "text": "O=C1c2ccccc2N(C)C1=O"
       },
       {
         "type": "reagent",
@@ -113,7 +113,7 @@
       },
       {
         "type": "products",
-        "text": "COc1ccc2c(c1)[C@]1(C(=O)NC1=O)(O)C(/C)=C/O"
+        "text": "O=C1c2ccccc2N(C)C1=O"
       }
     ],
     [

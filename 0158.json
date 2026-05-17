@@ -41,7 +41,7 @@
     [
       {
         "type": "reactants",
-        "text": "O=C(OC(C)=O)OC1=CC=CC2=C1C(c1ccc2ccccc21)=CC2"
+        "text": "COC(=O)C1CC=CC1"
       },
       {
         "type": "reactants",

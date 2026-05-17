@@ -111,7 +111,7 @@
       },
       {
         "type": "products",
-        "text": "N#Cc1c(C)c(-c2ccc([N+](=O)[O-])cc2)[nH]c12ccccc2"
+        "text": "N#Cc1c(C)[nH]c2ccccc21"
       }
     ],
     [
@@ -149,13 +149,13 @@
       },
       {
         "type": "products",
-        "text": "N#Cc1c(C)c(-c2ccc(C(=O)OC)cc2)[nH]c12ccccc2"
+        "text": "N#Cc1c(C)[nH]c2ccccc21"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "O=C(C(C)(C)C)[nH]c1ccccc1"
+        "text": "CC(C)C(=O)[nH]c1ccccc1"
       },
       {
         "type": "reactants",

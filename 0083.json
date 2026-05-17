@@ -15,15 +15,15 @@
       },
       {
         "type": "reagent",
-        "text": "O=P1(C2=CC=CC=C2)C2=CC=CC=C2C2=CC=CC=C12"
+        "text": "C1=CC=C(C=C1)C1CC=CC1"
       },
       {
         "type": "reagent",
-        "text": "C1COCC1"
+        "text": "C1COCCO1"
       },
       {
         "type": "reagent",
-        "text": "O"
+        "text": "O[Si](O)(O)O"
       },
       {
         "type": "temperature",
@@ -53,15 +53,15 @@
       },
       {
         "type": "reagent",
-        "text": "O=P1(C2=CC=CC=C2)C2=CC=CC=C2C2=CC=CC=C12"
+        "text": "C1=CC=C(C=C1)C1CC=CC1"
       },
       {
         "type": "reagent",
-        "text": "C1COCC1"
+        "text": "C1COCCO1"
       },
       {
         "type": "reagent",
-        "text": "O"
+        "text": "O[Si](O)(O)O"
       },
       {
         "type": "temperature",
@@ -91,15 +91,15 @@
       },
       {
         "type": "reagent",
-        "text": "O=P1(C2=CC=CC=C2)C2=CC=CC=C2C2=CC=CC=C12"
+        "text": "C1=CC=C(C=C1)C1CC=CC1"
       },
       {
         "type": "reagent",
-        "text": "C1COCC1"
+        "text": "C1COCCO1"
       },
       {
         "type": "reagent",
-        "text": "O"
+        "text": "O[Si](O)(O)O"
       },
       {
         "type": "temperature",
@@ -129,15 +129,15 @@
       },
       {
         "type": "reagent",
-        "text": "O=P1(C2=CC=CC=C2)C2=CC=CC=C2C2=CC=CC=C12"
+        "text": "C1=CC=C(C=C1)C1CC=CC1"
       },
       {
         "type": "reagent",
-        "text": "C1COCC1"
+        "text": "C1COCCO1"
       },
       {
         "type": "reagent",
-        "text": "O"
+        "text": "O[Si](O)(O)O"
       },
       {
         "type": "temperature",
@@ -167,15 +167,15 @@
       },
       {
         "type": "reagent",
-        "text": "O=P1(C2=CC=CC=C2)C2=CC=CC=C2C2=CC=CC=C12"
+        "text": "C1=CC=C(C=C1)C1CC=CC1"
       },
       {
         "type": "reagent",
-        "text": "C1COCC1"
+        "text": "C1COCCO1"
       },
       {
         "type": "reagent",
-        "text": "O"
+        "text": "O[Si](O)(O)O"
       },
       {
         "type": "temperature",

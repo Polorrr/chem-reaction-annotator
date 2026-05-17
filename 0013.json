@@ -7,7 +7,7 @@
       },
       {
         "type": "reactants",
-        "text": "CN(Cc1ccccc1)Cc1ccccc1"
+        "text": "C=CC(=O)OC"
       },
       {
         "type": "reagent",
@@ -15,11 +15,11 @@
       },
       {
         "type": "reagent",
-        "text": "CCN(CC)CC"
+        "text": "NCc1ccccc1"
       },
       {
         "type": "reagent",
-        "text": "ClCCl"
+        "text": "CC#N"
       },
       {
         "type": "temperature",
@@ -37,7 +37,7 @@
       },
       {
         "type": "reactants",
-        "text": "CN(Cc1ccccc1)Cc1ccccc1"
+        "text": "C=CC(=O)OC"
       },
       {
         "type": "reagent",
@@ -45,11 +45,11 @@
       },
       {
         "type": "reagent",
-        "text": "CCN(CC)CC"
+        "text": "NCc1ccccc1"
       },
       {
         "type": "reagent",
-        "text": "ClCCl"
+        "text": "CC#N"
       },
       {
         "type": "temperature",
@@ -67,7 +67,7 @@
       },
       {
         "type": "reactants",
-        "text": "CN(Cc1ccccc1)Cc1ccccc1"
+        "text": "C=CC(=O)OC"
       },
       {
         "type": "reagent",
@@ -75,11 +75,11 @@
       },
       {
         "type": "reagent",
-        "text": "CCN(CC)CC"
+        "text": "NCc1ccccc1"
       },
       {
         "type": "reagent",
-        "text": "ClCCl"
+        "text": "CC#N"
       },
       {
         "type": "temperature",
@@ -97,7 +97,7 @@
       },
       {
         "type": "reactants",
-        "text": "CN(Cc1ccccc1)Cc1ccccc1"
+        "text": "C=CC(=O)OC"
       },
       {
         "type": "reagent",
@@ -105,11 +105,11 @@
       },
       {
         "type": "reagent",
-        "text": "CCN(CC)CC"
+        "text": "NCc1ccccc1"
       },
       {
         "type": "reagent",
-        "text": "ClCCl"
+        "text": "CC#N"
       },
       {
         "type": "temperature",

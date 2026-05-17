@@ -3,7 +3,7 @@
     [
       {
         "type": "reactants",
-        "text": "C#CC(=O)OCc1ccccc1C#CC(=O)OCc1ccccc1"
+        "text": "N#CC=C(C#N)c1ccccc1"
       },
       {
         "type": "reagent",
@@ -23,7 +23,7 @@
       },
       {
         "type": "products",
-        "text": "O=C1OCc2ccccc2-c2cc(C#N)nc2-c2ccccc21"
+        "text": "c1ccc2c(c1)cc1ccccc1n2"
       }
     ],
     [
@@ -49,7 +49,7 @@
       },
       {
         "type": "products",
-        "text": "O=C1OCc2ccccc2-c2cc(C#N)nc2-c2ccc3ccccc3c2"
+        "text": "c1ccc2c(c1)cc1ccccc1n2"
       }
     ],
     [

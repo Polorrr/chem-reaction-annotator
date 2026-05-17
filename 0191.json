@@ -87,7 +87,7 @@
       },
       {
         "type": "products",
-        "text": "O=C1CCC(SCc2cccc(C)cc2)CC1"
+        "text": "O=C1CCCC(S-c2ccccc2)C1"
       }
     ]
   ]

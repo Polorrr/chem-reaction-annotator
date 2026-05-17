@@ -3,7 +3,7 @@
     [
       {
         "type": "reactants",
-        "text": "C=CCC1(CCCC1)B1OC(C)(C)C(C)(C)O1"
+        "text": "C=CCB1OC(C)(C)C(C)(C)O1"
       },
       {
         "type": "reactants",
@@ -37,7 +37,7 @@
     [
       {
         "type": "reactants",
-        "text": "C=CCC1(CCCC1)B1OC(C)(C)C(C)(C)O1"
+        "text": "C=CCB1OC(C)(C)C(C)(C)O1"
       },
       {
         "type": "reactants",
@@ -71,7 +71,7 @@
     [
       {
         "type": "reactants",
-        "text": "C=CCC1(CCCC1)B1OC(C)(C)C(C)(C)O1"
+        "text": "C=CCB1OC(C)(C)C(C)(C)O1"
       },
       {
         "type": "reactants",
@@ -105,7 +105,7 @@
     [
       {
         "type": "reactants",
-        "text": "CCC1(CCCC1)B1OC(C)(C)C(C)(C)O1"
+        "text": "C=CCB1OC(C)(C)C(C)(C)O1"
       },
       {
         "type": "reactants",
@@ -139,7 +139,7 @@
     [
       {
         "type": "reactants",
-        "text": "CCC1(CCCC1)B1OC(C)(C)C(C)(C)O1"
+        "text": "C=CCB1OC(C)(C)C(C)(C)O1"
       },
       {
         "type": "reactants",
@@ -173,7 +173,7 @@
     [
       {
         "type": "reactants",
-        "text": "CCCC1(CCCC1)B1OC(C)(C)C(C)(C)O1"
+        "text": "C=CCB1OC(C)(C)C(C)(C)O1"
       },
       {
         "type": "reactants",
@@ -211,7 +211,7 @@
       },
       {
         "type": "reactants",
-        "text": "O=c1cc(B1OC(C)(C)C(C)(C)O1)ccc1"
+        "text": "C=CCB1OC(C)(C)C(C)(C)O1"
       },
       {
         "type": "reactants",

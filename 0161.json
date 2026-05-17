@@ -7,15 +7,15 @@
       },
       {
         "type": "reagent",
-        "text": "C1=C[N+]([Si](C)(C)C)=CS1.[Cl-]"
+        "text": "[N+]1(CC2CC2)CCCC1.[Cl-]"
       },
       {
         "type": "reagent",
-        "text": "C1CN=CCN1"
+        "text": "C1CN2CCN=C2N1"
       },
       {
         "type": "reagent",
-        "text": "C1COCC1"
+        "text": "C1COCCO1"
       },
       {
         "type": "temperature",
@@ -37,15 +37,15 @@
       },
       {
         "type": "reagent",
-        "text": "C1=C[N+]([Si](C)(C)C)=CS1.[Cl-]"
+        "text": "[N+]1(CC2CC2)CCCC1.[Cl-]"
       },
       {
         "type": "reagent",
-        "text": "C1CN=CCN1"
+        "text": "C1CN2CCN=C2N1"
       },
       {
         "type": "reagent",
-        "text": "C1COCC1"
+        "text": "C1COCCO1"
       },
       {
         "type": "temperature",
@@ -67,15 +67,15 @@
       },
       {
         "type": "reagent",
-        "text": "C1=C[N+]([Si](C)(C)C)=CS1.[Cl-]"
+        "text": "[N+]1(CC2CC2)CCCC1.[Cl-]"
       },
       {
         "type": "reagent",
-        "text": "C1CN=CCN1"
+        "text": "C1CN2CCN=C2N1"
       },
       {
         "type": "reagent",
-        "text": "C1COCC1"
+        "text": "C1COCCO1"
       },
       {
         "type": "temperature",

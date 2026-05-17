@@ -3,33 +3,11 @@
     [
       {
         "type": "reactants",
-        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](CCC)(CCC)CCC)=C"
+        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](C(C)C)C(C)C)C(C)C=C"
       },
       {
         "type": "reagent",
-        "text": "[Rh+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"
-      },
-      {
-        "type": "reagent",
-        "text": "ClCCCl"
-      },
-      {
-        "type": "temperature",
-        "text": "reflux"
-      },
-      {
-        "type": "products",
-        "text": "C=CC([Si](CCC)(CCC)CCC)c1ccc(OC)cc1"
-      }
-    ],
-    [
-      {
-        "type": "reactants",
-        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](CCC)(CCC)CCC)=C"
-      },
-      {
-        "type": "reagent",
-        "text": "[Rh+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"
+        "text": "[Rh+2]"
       },
       {
         "type": "reagent",
@@ -41,17 +19,17 @@
       },
       {
         "type": "products",
-        "text": "C=CC([Si](CCC)(CCC)CCC)c1ccc(C(F)(F)F)cc1"
+        "text": "C=CC([Si](C(C)C)C(C)C)C(C)Cc1ccc(OC)cc1"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](CCC)(CCC)CCC)=C"
+        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](C(C)C)C(C)C)C(C)C=C"
       },
       {
         "type": "reagent",
-        "text": "[Rh+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"
+        "text": "[Rh+2]"
       },
       {
         "type": "reagent",
@@ -63,17 +41,17 @@
       },
       {
         "type": "products",
-        "text": "C=CC([Si](CCC)(CCC)CCC)c1ccc(Br)cc1"
+        "text": "C=CC([Si](C(C)C)C(C)C)C(C)Cc1ccc(C(F)(F)F)cc1"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](CCC)(CCC)CCC)=C"
+        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](C(C)C)C(C)C)C(C)C=C"
       },
       {
         "type": "reagent",
-        "text": "[Rh+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"
+        "text": "[Rh+2]"
       },
       {
         "type": "reagent",
@@ -85,17 +63,17 @@
       },
       {
         "type": "products",
-        "text": "C=CC([Si](CCC)(CCC)CCC)c1ccc(-c2ccccc2)cc1"
+        "text": "C=CC([Si](C(C)C)C(C)C)C(C)Cc1ccc(Br)cc1"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](CCC)(CCC)CCC)=C"
+        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](C(C)C)C(C)C)C(C)C=C"
       },
       {
         "type": "reagent",
-        "text": "[Rh+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"
+        "text": "[Rh+2]"
       },
       {
         "type": "reagent",
@@ -107,17 +85,17 @@
       },
       {
         "type": "products",
-        "text": "C=C(/C(=C)C1=CC=CC=C1)C([Si](CCC)(CCC)CCC)=C"
+        "text": "C=CC([Si](C(C)C)C(C)C)C(C)Cc1ccc(-c2ccccc2)cc1"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "O=C(/C(=N=[N+]=[N-])OC(=O)c1ccccc1)C(C)([Si](CCC)(CCC)CCC)=C"
+        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](C(C)C)C(C)C)C(C)C=C"
       },
       {
         "type": "reagent",
-        "text": "[Rh+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"
+        "text": "[Rh+2]"
       },
       {
         "type": "reagent",
@@ -129,17 +107,39 @@
       },
       {
         "type": "products",
-        "text": "C=C(C([Si](CCC)(CCC)CCC)=C)c1ccc(Br)cc1"
+        "text": "C=C(/C(=C)C1=CC=CC=C1)C([Si](C(C)C)C(C)C)C(C)C=C"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](C)(C)C(C)C)=C"
+        "text": "O=C(/C=[N+]=[N-])OC(=O)c1ccccc1"
       },
       {
         "type": "reagent",
-        "text": "[Rh+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"
+        "text": "[Rh+2]"
+      },
+      {
+        "type": "reagent",
+        "text": "ClCCCl"
+      },
+      {
+        "type": "temperature",
+        "text": "reflux"
+      },
+      {
+        "type": "products",
+        "text": "C=C(C([Si](C(C)C)C(C)C)C(C)C=C)c1ccc(Br)cc1"
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "O=C(/C=[N+]=[N-])OC(=O)c1ccccc1"
+      },
+      {
+        "type": "reagent",
+        "text": "[Rh+2]"
       },
       {
         "type": "reagent",
@@ -157,11 +157,11 @@
     [
       {
         "type": "reactants",
-        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](CCC)(CCC)CCC)=C"
+        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](C(C)C)C(C)C)C(C)C=C"
       },
       {
         "type": "reagent",
-        "text": "[Rh+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"
+        "text": "[Rh+2]"
       },
       {
         "type": "reagent",
@@ -173,17 +173,17 @@
       },
       {
         "type": "products",
-        "text": "O=C(/C=C/c1ccc(Br)cc1)C([Si](CCC)(CCC)CCC)=C"
+        "text": "O=C(/C=C/c1ccc(Br)cc1)C([Si](C(C)C)C(C)C)C(C)C=C"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](CCC)(CCC)CCC)=C"
+        "text": "O=C(/C(=N)NOC(=O)c1ccccc1)C([Si](C(C)C)C(C)C)C(C)C=C"
       },
       {
         "type": "reagent",
-        "text": "[Rh+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"
+        "text": "[Rh+2]"
       },
       {
         "type": "reagent",
@@ -195,17 +195,17 @@
       },
       {
         "type": "products",
-        "text": "C=C([Si](CCC)(CCC)CCC)CC=Cc1ccccc1"
+        "text": "C=C([Si](C(C)C)C(C)C)C(C)CCC=Cc1ccccc1"
       }
     ],
     [
       {
         "type": "reactants",
-        "text": "O=C(/C(=N=[N+]=[N-])OC(=O)c1ccccc1)C(C)([Si](CCC)(CCC)CCC)=C"
+        "text": "O=C(/C=[N+]=[N-])OC(=O)c1ccccc1"
       },
       {
         "type": "reagent",
-        "text": "[Rh+2].[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C.[O-]C(=O)C"
+        "text": "[Rh+2]"
       },
       {
         "type": "reagent",
@@ -217,7 +217,7 @@
       },
       {
         "type": "products",
-        "text": "C=C(C([Si](CCC)(CCC)CCC)=C)c1ccccc1"
+        "text": "C=C(C([Si](C(C)C)C(C)C)C(C)C=C)c1ccccc1"
       }
     ]
   ]

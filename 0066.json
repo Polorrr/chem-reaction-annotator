@@ -11,7 +11,7 @@
       },
       {
         "type": "reagent",
-        "text": "[Ru+2].[P-](F)(F)(F)(F)(F)F"
+        "text": "[Ru+].[P-](F)(F)(F)(F)(F)F"
       },
       {
         "type": "reagent",
@@ -27,7 +27,7 @@
       },
       {
         "type": "products",
-        "text": "O=C(O)Oc1ccc2c(c1)C1=CC=CC=C1O2"
+        "text": "C=C(CO)C1CCCCC1"
       }
     ],
     [
@@ -41,7 +41,7 @@
       },
       {
         "type": "reagent",
-        "text": "[Ru+2].[P-](F)(F)(F)(F)(F)F"
+        "text": "[Ru+].[P-](F)(F)(F)(F)(F)F"
       },
       {
         "type": "reagent",
@@ -57,7 +57,7 @@
       },
       {
         "type": "products",
-        "text": "O=C(O)Oc1ccc2c(c1)C1=CC=CC=C1O2"
+        "text": "C=C(CO)C1CCCCC1"
       }
     ],
     [
@@ -71,7 +71,7 @@
       },
       {
         "type": "reagent",
-        "text": "[Ru+2].[P-](F)(F)(F)(F)(F)F"
+        "text": "[Ru+].[P-](F)(F)(F)(F)(F)F"
       },
       {
         "type": "reagent",
@@ -87,7 +87,7 @@
       },
       {
         "type": "products",
-        "text": "O=C(O)Oc1ccc2c(c1)C1=CC=CC=C1O2"
+        "text": "C=C(CO)C1CCCCC1"
       }
     ],
     [
@@ -101,7 +101,7 @@
       },
       {
         "type": "reagent",
-        "text": "[Ru+2].[P-](F)(F)(F)(F)(F)F"
+        "text": "[Ru+].[P-](F)(F)(F)(F)(F)F"
       },
       {
         "type": "reagent",
@@ -117,7 +117,7 @@
       },
       {
         "type": "products",
-        "text": "O=C(O)Oc1ccc2c(c1)C1=CC=CC=C1O2"
+        "text": "C=C(CO)C1CCCCC1"
       }
     ],
     [
@@ -131,7 +131,7 @@
       },
       {
         "type": "reagent",
-        "text": "[Ru+2].[P-](F)(F)(F)(F)(F)F"
+        "text": "[Ru+].[P-](F)(F)(F)(F)(F)F"
       },
       {
         "type": "reagent",
@@ -147,7 +147,7 @@
       },
       {
         "type": "products",
-        "text": "O=C(O)Oc1ccc2c(c1)C1=CC=CC=C1O2"
+        "text": "C=C(CO)C1CCCCC1"
       }
     ],
     [
@@ -161,7 +161,7 @@
       },
       {
         "type": "reagent",
-        "text": "[Ru+2].[P-](F)(F)(F)(F)(F)F"
+        "text": "[Ru+].[P-](F)(F)(F)(F)(F)F"
       },
       {
         "type": "reagent",
@@ -177,7 +177,7 @@
       },
       {
         "type": "products",
-        "text": "O=C(O)Oc1ccc2c(c1)C1=CC=CC=C1O2"
+        "text": "C=C(CO)C1CCCCC1"
       }
     ]
   ]
